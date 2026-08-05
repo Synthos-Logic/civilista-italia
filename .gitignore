@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Windows
+Thumbs.db
+
+# Credenziali
+.github_token
+.env
+.secrets
+
+# Temporanei
+*.tmp
+*.log
+~$*
+__pycache__/
+*.pyc
+
+# PDF delle Rassegne (troppo grandi — si riscaricano dal portale, vedi documentazione/FONTI_CIVILI.md)
+KNOWLEDGE_BASE/**/*.pdf
+
+# Banca dati sincronizzata (proprieta' della pipeline, non si versiona nel kit)
+KNOWLEDGE_BASE/02_GIURISPRUDENZA/SEGNALATE/
+KNOWLEDGE_BASE/02_GIURISPRUDENZA/CONSULTA/
+KNOWLEDGE_BASE/.banca_dati_cache/

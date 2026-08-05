@@ -1,0 +1,7 @@
+{
+  "name": "civilista-italia",
+  "version": "0.1.0",
+  "description": "Kit operativo per avvocati civilisti italiani: Knowledge Base della giurisprudenza civile di legittimita' ancorata e citabile (6.122 massime dalle Rassegne delle Sezioni Civili 2023-2024) con protocollo anti-allucinazione quote-then-claim. Kit in costruzione. Di Synthos Logic.",
+  "author": { "name": "Synthos Logic" },
+  "homepage": "https://github.com/Synthos-Logic/civilista-italia"
+}

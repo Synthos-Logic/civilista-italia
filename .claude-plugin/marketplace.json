@@ -1,0 +1,17 @@
+{
+  "name": "civilista-italia",
+  "owner": { "name": "Synthos Logic", "email": "info@synthoslogic.com" },
+  "plugins": [
+    {
+      "name": "civilista-italia",
+      "description": "Kit operativo per avvocati civilisti italiani — Knowledge Base della giurisprudenza civile di legittimita' con citazioni verificabili (protocollo quote-then-claim) e skill di archiviazione/indicizzazione. Kit in costruzione: skill operative in arrivo.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": { "name": "Synthos Logic" },
+      "homepage": "https://github.com/Synthos-Logic/civilista-italia",
+      "repository": "https://github.com/Synthos-Logic/civilista-italia",
+      "license": "MIT",
+      "category": "legal"
+    }
+  ]
+}

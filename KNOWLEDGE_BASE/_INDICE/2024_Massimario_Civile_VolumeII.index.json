@@ -1,0 +1,7368 @@
+{
+ "fonte": "2024 Massimario Civile VolumeII",
+ "tipo": "massimario",
+ "file_md": "2024_Massimario_Civile_VolumeII.md",
+ "file_pdf": "2024_Massimario_Civile_VolumeII.pdf",
+ "pagine_totali": 273,
+ "pagine_con_testo": 269,
+ "voci_strutturali": 46,
+ "sentenze_rv": 1006,
+ "strutturale": [
+  [
+   "CAPITOLO",
+   "CAPITOLO XVI - I DIRITTI DI PRIVATIVA E LA CONCORRENZA",
+   "",
+   15
+  ],
+  [
+   "PARTE",
+   "PARTE QUARTA",
+   "IMPRESA E MERCATO",
+   15
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XVI",
+   "I DIRITTI DI PRIVATIVA E LA CONCORRENZA",
+   15
+  ],
+  [
+   "PARTE",
+   "PARTE QUARTA - IMPRESA E MERCATO",
+   "",
+   16
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XVI - I DIRITTI DI PRIVATIVA E LA CONCORRENZA",
+   "",
+   17
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XVII",
+   "IL DIRITTO DELLE SOCIETÀ",
+   22
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XVII - IL DIRITTO DELLE SOCIETÀ",
+   "",
+   23
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XVIII",
+   "IL DIRITTO DEI MERCATI FINANZIARI",
+   46
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XVIII - IL DIRITTO DEI MERCATI FINANZIARI",
+   "",
+   47
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XIX - IL DIRITTO DELLA CRISI E DELL’INSOLVENZA",
+   "",
+   57
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XIX",
+   "IL DIRITTO DELLA CRISI E DELL’INSOLVENZA",
+   57
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XX - IL LAVORO PRIVATO: DIRITTI, OBBLIGHI, RESPONSABILITÀ",
+   "",
+   99
+  ],
+  [
+   "PARTE",
+   "PARTE QUINTA",
+   "IL DIRITTO DEL LAVORO E DELLA PREVIDENZA",
+   99
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XX",
+   "IL LAVORO PRIVATO: DIRITTI, OBBLIGHI, RESPONSABILITÀ",
+   99
+  ],
+  [
+   "PARTE",
+   "PARTE QUINTA - IL DIRITTO DEL LAVORO E DELLA PREVIDENZA",
+   "",
+   100
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XX - IL LAVORO PRIVATO: DIRITTI, OBBLIGHI, RESPONSABILITÀ",
+   "",
+   101
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXI - IL LICENZIAMENTO",
+   "",
+   123
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXI",
+   "IL LICENZIAMENTO",
+   123
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXII",
+   "IL RAPPORTO DI LAVORO PUBBLICO PRIVATIZZATO",
+   138
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXII - IL RAPPORTO DI LAVORO PUBBLICO PRIVATIZZATO",
+   "",
+   139
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXIII - LE VICENDE DELL’OBBLIGAZIONE CONTRIBUTIVA",
+   "",
+   177
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXIII",
+   "LE VICENDE DELL’OBBLIGAZIONE CONTRIBUTIVA",
+   177
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXIV - LE PRESTAZIONI PREVIDENZIALI",
+   "",
+   187
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXIV",
+   "LE PRESTAZIONI PREVIDENZIALI",
+   187
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXV - LE PRESTAZIONI ASSISTENZIALI",
+   "",
+   207
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXV",
+   "LE PRESTAZIONI ASSISTENZIALI",
+   207
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXVI",
+   "LA TUTELA INAIL",
+   212
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXVI - LA TUTELA INAIL",
+   "",
+   213
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXVII",
+   "LA PREVIDENZA DI CATEGORIA",
+   216
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXVII - LA PREVIDENZA DI CATEGORIA",
+   "",
+   217
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXVIII",
+   "LA PREVIDENZA INTEGRATIVA",
+   220
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXVIII - LA PREVIDENZA INTEGRATIVA",
+   "",
+   221
+  ],
+  [
+   "PARTE",
+   "PARTE SESTA - I RAPPORTI CON I PUBBLICI POTERI",
+   "",
+   222
+  ],
+  [
+   "PARTE",
+   "PARTE SESTA",
+   "I RAPPORTI CON I PUBBLICI POTERI",
+   222
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXIX",
+   "ESPROPRIAZIONE PER PUBBLICA UTILITÀ",
+   222
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXIX - ESPROPRIAZIONE PER PUBBLICA UTILITÀ",
+   "",
+   223
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXX - APPALTI PUBBLICI",
+   "",
+   231
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXX",
+   "APPALTI PUBBLICI",
+   231
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXI",
+   "LE SOCIETÀ IN HOUSE PROVIDING",
+   236
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXI - LE SOCIETÀ IN HOUSE PROVIDING",
+   "",
+   237
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXII",
+   "LE SANZIONI AMMINISTRATIVE",
+   240
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXII - LE SANZIONI AMMINISTRATIVE",
+   "",
+   241
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXIII",
+   "ELEZIONI E GIUDIZI ELETTORALI",
+   256
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXIII - ELEZIONI E GIUDIZI ELETTORALI",
+   "",
+   257
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXIV - I PROCEDIMENTI DISCIPLINARI",
+   "",
+   261
+  ],
+  [
+   "CAPITOLO",
+   "CAPITOLO XXXIV",
+   "I PROCEDIMENTI DISCIPLINARI",
+   261
+  ]
+ ],
+ "citazioni": [
+  {
+   "rv": "671673-02",
+   "cit": "Sez. 1 n. 18683/2024, G. Iofrida, Rv. 671673-02",
+   "pagine": [
+    15
+   ]
+  },
+  {
+   "rv": "670559-01",
+   "cit": "Sez. 1, n. 5866/2024, G. Iofrida, Rv. 670559-01",
+   "pagine": [
+    15
+   ]
+  },
+  {
+   "rv": "671088-01",
+   "cit": "Sez. 1, n. 10350/2024 G. Iofrida, Rv. 671088-01",
+   "pagine": [
+    15
+   ]
+  },
+  {
+   "rv": "670886",
+   "cit": "Sez. 1, n. 10637/2024, F. Terrusi, Rv. 670886- 01",
+   "pagine": [
+    15
+   ]
+  },
+  {
+   "rv": "673402-01",
+   "cit": "Sez. 1, n. 33614/2024, D. Valentino, Rv. 673402-01",
+   "pagine": [
+    16
+   ]
+  },
+  {
+   "rv": "671668-01",
+   "cit": "Sez. 1, n. 18372/2024, G. Iofrida, Rv. 671668-01",
+   "pagine": [
+    16
+   ]
+  },
+  {
+   "rv": "671375-01",
+   "cit": "Sez. 2, n. 17157/2024, A. Mondini, Rv. 671375-01",
+   "pagine": [
+    16
+   ]
+  },
+  {
+   "rv": "670722-01",
+   "cit": "Sez. 1, n. 9429/2024, E. Campese, Rv. 670722-01",
+   "pagine": [
+    16
+   ]
+  },
+  {
+   "rv": "673233-01",
+   "cit": "Sez. 1, n. 31995/2024, M. Falabella, Rv. 673233-01",
+   "pagine": [
+    16
+   ]
+  },
+  {
+   "rv": "670081-02",
+   "cit": "Sez. 3, n. 3052/2024, Rossetti, Rv. 670081-02",
+   "pagine": [
+    16
+   ]
+  },
+  {
+   "rv": "669815-01",
+   "cit": "Sez. 1, n. 9/2024, Reggiani, Rv. 669815-01",
+   "pagine": [
+    17
+   ]
+  },
+  {
+   "rv": "670712-02",
+   "cit": "Sez. 3, n. 7834/2024, Gorgoni, Rv. 670712-02",
+   "pagine": [
+    17
+   ]
+  },
+  {
+   "rv": "670868-01",
+   "cit": "Sez. 3, n. 12007/2024, Tatangelo, Rv. 670868-01",
+   "pagine": [
+    17
+   ]
+  },
+  {
+   "rv": "670549-01",
+   "cit": "Sez. 3, n. 6685/2024, Gorgoni, Rv. 670549-01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "671967-01",
+   "cit": "Sez. 1, n. 21841/2024, Marulli, Rv. 671967-01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "671526-01",
+   "cit": "Sez. 3, n. 17108/2024, Ambrosi, Rv. 671526-01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "672881-01",
+   "cit": "Sez. 3, n. 29292/2024, Iannello, Rv. 672881-01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "672172-01",
+   "cit": "Sez. 1, n. 22453/2024, Tricomi, Rv. 672172-01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "671743-01",
+   "cit": "Sez. U, n. 18623/2024, Carrato, Rv. 671743-01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "671467",
+   "cit": "Sez. 1, n. 14944/2024, Falabella, Rv. 671467- 01",
+   "pagine": [
+    18
+   ]
+  },
+  {
+   "rv": "671517",
+   "cit": "Sez. U, n. 15364/2024, Criscuolo, Rv. 671517- 01",
+   "pagine": [
+    19
+   ]
+  },
+  {
+   "rv": "671259-01",
+   "cit": "Sez. 3, n. 15699/2024, Moscarini, Rv. 671259-01",
+   "pagine": [
+    19
+   ]
+  },
+  {
+   "rv": "673056-01",
+   "cit": "Sez. 1, n. 28987/2024, Iofrida, Rv. 673056-01",
+   "pagine": [
+    19
+   ]
+  },
+  {
+   "rv": "672883-02",
+   "cit": "Sez. 3, n. 29392/2024, Spaziani, Rv. 672883-02",
+   "pagine": [
+    19
+   ]
+  },
+  {
+   "rv": "671912-01",
+   "cit": "Sez. 3, n. 21153/2024, Cirillo, Rv. 671912-01",
+   "pagine": [
+    19
+   ]
+  },
+  {
+   "rv": "672351-01",
+   "cit": "Sez. 1, n. 23112/2024, Mercolino, Rv. 672351-01",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "671446-01",
+   "cit": "Sez. 3, n. 17055/2024, Valle, Rv. 671446-01",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "672392-01",
+   "cit": "Sez. U, n. 25954/2024, Scarpa, Rv. 672392-01",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "672630-01",
+   "cit": "Sez. 3, n. 26292/2024, Rv. 672630-01",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "670530-02",
+   "cit": "Sez. 3, n. 4140/2024, S. Tassone, Rv. 670530-02",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "671490-01",
+   "cit": "Sez. 2, n. 12315/2024, Cavallino, Rv. 671490-01",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "670473",
+   "cit": "Sez. 1, n. 5936/2024, Iofrida, Rv. 670473- 02",
+   "pagine": [
+    20
+   ]
+  },
+  {
+   "rv": "669795-01",
+   "cit": "Sez. 3, n. 1261/2024, Condello, Rv. 669795-01",
+   "pagine": [
+    21
+   ]
+  },
+  {
+   "rv": "672180-01",
+   "cit": "Sez. 2, n. 23238/2024, Oliva, Rv. 672180-01",
+   "pagine": [
+    21
+   ]
+  },
+  {
+   "rv": "671172-01",
+   "cit": "Sez. 3, n. 14410/2024, Moscarini, Rv. 671172-01",
+   "pagine": [
+    21
+   ]
+  },
+  {
+   "rv": "669927-01",
+   "cit": "Sez. 2, n. 785/2024, Giannaccari, Rv. 669927-01",
+   "pagine": [
+    21
+   ]
+  },
+  {
+   "rv": "670974-01",
+   "cit": "Sez. 1, n. 11413/2024, Caiazzo, Rv. 670974-01",
+   "pagine": [
+    21
+   ]
+  },
+  {
+   "rv": "673514-01",
+   "cit": "Sez. 1, n. 33599/2024, Valentino, Rv. 673514-01",
+   "pagine": [
+    21
+   ]
+  },
+  {
+   "rv": "625323-01",
+   "cit": "Sez. U, n. 06070/2013, Rordorf, Rv. 625323-01",
+   "pagine": [
+    22,
+    23
+   ]
+  },
+  {
+   "rv": "672860-01",
+   "cit": "Sez. U, n. 29812/2024, Scotti, Rv. 672860-01",
+   "pagine": [
+    22
+   ]
+  },
+  {
+   "rv": "631467-01",
+   "cit": "Sez. U., n. 15295/2014, Spirito, Rv. 631467-01",
+   "pagine": [
+    23
+   ]
+  },
+  {
+   "rv": "670798-01",
+   "cit": "Sez. 3, n. 11411/2024, Cirillo F., Rv. 670798-01",
+   "pagine": [
+    23,
+    29
+   ]
+  },
+  {
+   "rv": "671679-01",
+   "cit": "Sez. 1, n. 18891/2024, Catallozzi, Rv. 671679-01",
+   "pagine": [
+    23
+   ]
+  },
+  {
+   "rv": "671537-01",
+   "cit": "Sez. 1, n. 16047/2024, Fraulini, Rv. 671537-01",
+   "pagine": [
+    24
+   ]
+  },
+  {
+   "rv": "523993",
+   "cit": "Sez. 1, n. 02053/1999, Verucci, Rv. 523993- 01",
+   "pagine": [
+    24
+   ]
+  },
+  {
+   "rv": "672218-01",
+   "cit": "Sez. 3, n. 24859/2024, Condello, Rv. 672218-01",
+   "pagine": [
+    24
+   ]
+  },
+  {
+   "rv": "664654-02",
+   "cit": "Sez. U., n. 13143/2022, Rv. 664654-02",
+   "pagine": [
+    24
+   ]
+  },
+  {
+   "rv": "610613",
+   "cit": "Sez. 3, n. 22361/2009, Vivaldi, Rv. 610613- 01",
+   "pagine": [
+    24
+   ]
+  },
+  {
+   "rv": "673545-02",
+   "cit": "Sez. T, n. 34872/2024, Di Pisa, Rv. 673545-02",
+   "pagine": [
+    25
+   ]
+  },
+  {
+   "rv": "671567-01",
+   "cit": "Sez. 3, n. 17192/2024, Condello, Rv. 671567-01",
+   "pagine": [
+    25,
+    29
+   ]
+  },
+  {
+   "rv": "669489-01",
+   "cit": "Sez. 3, n. 34373/2023, Condello, Rv. 669489-01",
+   "pagine": [
+    25
+   ]
+  },
+  {
+   "rv": "671162-01",
+   "cit": "Sez. 1, n. 10325/2024, Caiazzo, Rv. 671162-01",
+   "pagine": [
+    25
+   ]
+  },
+  {
+   "rv": "662243-01",
+   "cit": "Sez. 6-2, n. 20365/2021, Dongiacomo, Rv. 662243-01",
+   "pagine": [
+    26
+   ]
+  },
+  {
+   "rv": "659401-01",
+   "cit": "Sez. 6, n. 22149/2020, Criscuolo, Rv. 659401-01",
+   "pagine": [
+    26
+   ]
+  },
+  {
+   "rv": "670725-01",
+   "cit": "Sez. 1, n. 09955/2024, Per- rino, Rv. 670725-01",
+   "pagine": [
+    26
+   ]
+  },
+  {
+   "rv": "653110-01",
+   "cit": "Sez. 1, n. 07190/2019, Vella, Rv. 653110-01",
+   "pagine": [
+    26
+   ]
+  },
+  {
+   "rv": "670618-02",
+   "cit": "Sez. T, n. 07700/2024, Balsamo, Rv. 670618-02",
+   "pagine": [
+    27
+   ]
+  },
+  {
+   "rv": "661864-01",
+   "cit": "Sez. U., n. 21970/2021, Nazzicone, Rv. 661864-01",
+   "pagine": [
+    27
+   ]
+  },
+  {
+   "rv": "670694-01",
+   "cit": "Sez. 3, n. 07711/2024, Gorgoni, Rv. 670694-01",
+   "pagine": [
+    27
+   ]
+  },
+  {
+   "rv": "673086-01",
+   "cit": "Sez. 1, n. 30409/2024, Valentino, Rv. 673086-01",
+   "pagine": [
+    27
+   ]
+  },
+  {
+   "rv": "618602-01",
+   "cit": "Sez. 6-1, n. 15070/2011, Rordorf, Rv. 618602-01",
+   "pagine": [
+    27
+   ]
+  },
+  {
+   "rv": "67055-01",
+   "cit": "Sez. 1, n. 00204/2024, Dongiacomo, Rv. 67055-01",
+   "pagine": [
+    28
+   ]
+  },
+  {
+   "rv": "670212-01",
+   "cit": "Sez. 1, n. 00074/2024, Fidanzia A., Rv. 670212-01",
+   "pagine": [
+    28,
+    59
+   ]
+  },
+  {
+   "rv": "671554-01",
+   "cit": "Sez. 1, n. 17546/2024, Perrino, Rv. 671554-01",
+   "pagine": [
+    28,
+    60
+   ]
+  },
+  {
+   "rv": "671455-01",
+   "cit": "Sez. 1, n. 13163/2024, D’Orazio, Rv. 671455-01",
+   "pagine": [
+    29
+   ]
+  },
+  {
+   "rv": "673045-01",
+   "cit": "Sez. 2, n. 31130/2024, Trapuzzano, Rv. 673045-01",
+   "pagine": [
+    29
+   ]
+  },
+  {
+   "rv": "671458-01",
+   "cit": "Sez. 1, n. 13290/2024, D’Orazio, Rv. 671458-01",
+   "pagine": [
+    30
+   ]
+  },
+  {
+   "rv": "671017-01",
+   "cit": "Sez. 1, n. 11342/2024, Dongiacomo, Rv. 671017-01",
+   "pagine": [
+    30,
+    59
+   ]
+  },
+  {
+   "rv": "671613-01",
+   "cit": "Sez. T, n. 17404/2024, Condello, Rv. 671613-01",
+   "pagine": [
+    30
+   ]
+  },
+  {
+   "rv": "672356-01",
+   "cit": "Sez. 1, n. 23557/2024, Falabella, Rv. 672356-01",
+   "pagine": [
+    31
+   ]
+  },
+  {
+   "rv": "650822-01",
+   "cit": "Sez. 1, n. 23950/2018, Nazzicone, Rv. 650822-01",
+   "pagine": [
+    31
+   ]
+  },
+  {
+   "rv": "671159-02",
+   "cit": "Sez. T, n. 11152/2024, A. Napolitano, Rv. 671159-02",
+   "pagine": [
+    31
+   ]
+  },
+  {
+   "rv": "654252-01",
+   "cit": "Sez. 1, n. 12994/2019, Nazzicone, Rv. 654252-01",
+   "pagine": [
+    31
+   ]
+  },
+  {
+   "rv": "671470-03",
+   "cit": "Sez. 1, n. 15196/2024, Campese, Rv. 671470-03",
+   "pagine": [
+    32
+   ]
+  },
+  {
+   "rv": "654671-01",
+   "cit": "Sez. 1, n. 20649/2019, Fidanzia, Rv. 654671-01",
+   "pagine": [
+    32
+   ]
+  },
+  {
+   "rv": "671101-01",
+   "cit": "Sez. 1, n. 10873/2024, Catallozzi, Rv. 671101-01",
+   "pagine": [
+    32
+   ]
+  },
+  {
+   "rv": "661976-01",
+   "cit": "Sez. 1, n. 21238/2021, Iofrida, Rv. 661976-01",
+   "pagine": [
+    32
+   ]
+  },
+  {
+   "rv": "647060-01",
+   "cit": "Sez. 1, n. 03946/2018, M. Di Marzio, Rv. 647060-01",
+   "pagine": [
+    32
+   ]
+  },
+  {
+   "rv": "670882-01",
+   "cit": "Sez. 1, n. 10521/2024, Scotti, Rv. 670882-01",
+   "pagine": [
+    32
+   ]
+  },
+  {
+   "rv": "667923-01",
+   "cit": "Sez. 1, n. 14338/2023, Amatore, Rv. 667923-01",
+   "pagine": [
+    33
+   ]
+  },
+  {
+   "rv": "670224-01",
+   "cit": "Sez. 1, n. 04034/2024, Perrino, Rv. 670224-01",
+   "pagine": [
+    33
+   ]
+  },
+  {
+   "rv": "616237-01",
+   "cit": "Sez. 1, n. 01361/2011, Rordorf, Rv. 616237-01",
+   "pagine": [
+    33
+   ]
+  },
+  {
+   "rv": "671611-01",
+   "cit": "Sez. T, n. 17387/2024, Macagno, Rv. 671611-01",
+   "pagine": [
+    33
+   ]
+  },
+  {
+   "rv": "656579-01",
+   "cit": "Sez. 1, n. 33233/2019, Fidanzia, Rv. 656579-01",
+   "pagine": [
+    34
+   ]
+  },
+  {
+   "rv": "671102-01",
+   "cit": "Sez. 1, n. 10889/2024, Catallozzi, Rv. 671102-01",
+   "pagine": [
+    34
+   ]
+  },
+  {
+   "rv": "605917-01",
+   "cit": "Sez. 1, n. 28748/2008, Rordorf, Rv. 605917-01",
+   "pagine": [
+    34
+   ]
+  },
+  {
+   "rv": "673446-01",
+   "cit": "Sez. 1, n. 33910/2024, Caprioli, Rv. 673446-01",
+   "pagine": [
+    34
+   ]
+  },
+  {
+   "rv": "672027-01",
+   "cit": "Sez. T, n. 20613/2024, Gori, Rv. 672027-01",
+   "pagine": [
+    34
+   ]
+  },
+  {
+   "rv": "665800-01",
+   "cit": "Sez. T, n. 24471/2022, Nonno, Rv. 665800-01",
+   "pagine": [
+    34
+   ]
+  },
+  {
+   "rv": "503948-01",
+   "cit": "Sez. 1, n. 03652/1997, Rordorf, Rv. 503948-01",
+   "pagine": [
+    35
+   ]
+  },
+  {
+   "rv": "660020-01",
+   "cit": "Sez. 1, n. 28718/2020, Campese, Rv. 660020-01",
+   "pagine": [
+    35
+   ]
+  },
+  {
+   "rv": "670860-01",
+   "cit": "Sez. 1, n. 08069/2024, Nazzicone, Rv. 670860-01",
+   "pagine": [
+    35
+   ]
+  },
+  {
+   "rv": "663554-01",
+   "cit": "Sez. 1, n. 00198/2022, Fidanzia, Rv. 663554-01",
+   "pagine": [
+    35
+   ]
+  },
+  {
+   "rv": "670860-02",
+   "cit": "Sez. 1, n. 08069/2024, Nazzicone, Rv. 670860-02",
+   "pagine": [
+    36
+   ]
+  },
+  {
+   "rv": "670275-01",
+   "cit": "Sez. 1, n. 05252/2024, Terrusi, Rv. 670275-01",
+   "pagine": [
+    36
+   ]
+  },
+  {
+   "rv": "664310-02",
+   "cit": "Sez. 1, n. 04347/2022, Van- nucci, Rv. 664310-02",
+   "pagine": [
+    36
+   ]
+  },
+  {
+   "rv": "670860-03",
+   "cit": "Sez. 1, n. 08069/2024, Nazzicone, Rv. 670860-03",
+   "pagine": [
+    36
+   ]
+  },
+  {
+   "rv": "666986-01",
+   "cit": "Sez. 1, n. 02172/2023, Fidanzia, Rv. 666986-01",
+   "pagine": [
+    36
+   ]
+  },
+  {
+   "rv": "671098-01",
+   "cit": "Sez. 1, n. 10742/2024, Dongiacomo, Rv. 671098-01",
+   "pagine": [
+    37
+   ]
+  },
+  {
+   "rv": "671095-01",
+   "cit": "Sez. 1, n. 10413/2024, Catallozzi, Rv. 671095-01",
+   "pagine": [
+    37
+   ]
+  },
+  {
+   "rv": "667213-01",
+   "cit": "Sez. 1, n. 06893/2023, Vannucci, Rv. 667213-01",
+   "pagine": [
+    37
+   ]
+  },
+  {
+   "rv": "670713-01",
+   "cit": "Sez. 3, n. 07864/2024, Gorgoni, Rv. 670713-01",
+   "pagine": [
+    37
+   ]
+  },
+  {
+   "rv": "659274-01",
+   "cit": "Sez. 1, n. 21730/2020, Falabella, Rv. 659274-01",
+   "pagine": [
+    38
+   ]
+  },
+  {
+   "rv": "671097-01",
+   "cit": "Sez. 1, n. 10739/2024, Dongiacomo, Rv. 671097-01",
+   "pagine": [
+    38
+   ]
+  },
+  {
+   "rv": "647054-01",
+   "cit": "Sez. 1, n. 02038/2018, Nazzicone, Rv. 647054-01",
+   "pagine": [
+    38
+   ]
+  },
+  {
+   "rv": "641165-01",
+   "cit": "Sez. 1, n. 17441/2016, M. Di Marzio, Rv. 641165-01",
+   "pagine": [
+    38
+   ]
+  },
+  {
+   "rv": "671469-01",
+   "cit": "Sez. 1, n. 15054/2024, Crolla, Rv. 671469-01",
+   "pagine": [
+    38
+   ]
+  },
+  {
+   "rv": "673452-01",
+   "cit": "Sez. 2, n. 32010/2024, Guida, Rv. 673452-01",
+   "pagine": [
+    38
+   ]
+  },
+  {
+   "rv": "659134-01",
+   "cit": "Sez. 2, n. 19556/2020, Cosentino, Rv. 659134-01",
+   "pagine": [
+    39
+   ]
+  },
+  {
+   "rv": "671473-01",
+   "cit": "Sez. 1, n. 02343/2024, Terrusi, Rv. 671473-01",
+   "pagine": [
+    39,
+    71
+   ]
+  },
+  {
+   "rv": "662907-01",
+   "cit": "Sez. 1, n. 29252/2021, Vella, Rv. 662907-01",
+   "pagine": [
+    39
+   ]
+  },
+  {
+   "rv": "670221-02",
+   "cit": "Sez. 1, n. 03922/2024, Crolla, Rv. 670221-02",
+   "pagine": [
+    39,
+    71
+   ]
+  },
+  {
+   "rv": "650915-01",
+   "cit": "Sez. 6-1, n. 25584/2018, Nazzicone, Rv. 650915-01",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "670237-01",
+   "cit": "Sez. 1, n. 02350/2024, Dongiacomo, Rv. 670237-01",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "654662-01",
+   "cit": "Sez. 1, n. 18770/2019, Nazzicone, Rv. 654662-01",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "654662-02",
+   "cit": "Sez. 1, n. 18770/2019, Nazzicone, Rv. 654662-02",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "670221-01",
+   "cit": "Sez. 1, n. 03922/2024, Crolla, Rv. 670221-01",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "656128-01",
+   "cit": "Sez. 1, n. 32397/2019, Fidanzia, Rv. 656128-01",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "673352-01",
+   "cit": "Sez. 1, n. 27789/2024, Catallozzi, Rv. 673352-01",
+   "pagine": [
+    40
+   ]
+  },
+  {
+   "rv": "671470-01",
+   "cit": "Sez. 1, n. 15196/2024, Campese, Rv. 671470-01",
+   "pagine": [
+    41,
+    76
+   ]
+  },
+  {
+   "rv": "646486-01",
+   "cit": "Sez. 1, n. 29139/2017, Nazzicone, Rv. 646486-01",
+   "pagine": [
+    41
+   ]
+  },
+  {
+   "rv": "673238-01",
+   "cit": "Sez. 1, n. 31994/2024, Falabella, Rv. 673238-01",
+   "pagine": [
+    41
+   ]
+  },
+  {
+   "rv": "580283-01",
+   "cit": "Sez. U., n. 07799/2005, Elefante, Rv. 580283-01",
+   "pagine": [
+    41
+   ]
+  },
+  {
+   "rv": "670257-01",
+   "cit": "Sez. 1, n. 02629/2024, Nazzicone, Rv. 670257-01",
+   "pagine": [
+    42
+   ]
+  },
+  {
+   "rv": "657081-01",
+   "cit": "Sez. 1, n. 04716/2020, Iofrida, Rv. 657081-01",
+   "pagine": [
+    42
+   ]
+  },
+  {
+   "rv": "667131-01",
+   "cit": "Sez. 1, n. 06324/2023, Abete, Rv. 667131-01",
+   "pagine": [
+    42
+   ]
+  },
+  {
+   "rv": "671464-01",
+   "cit": "Sez. 1, n. 14414/2024, Vella, Rv. 671464-01",
+   "pagine": [
+    42,
+    60
+   ]
+  },
+  {
+   "rv": "670066-01",
+   "cit": "Sez. 3, n. 02457/2024, Condello, Rv. 670066-01",
+   "pagine": [
+    42
+   ]
+  },
+  {
+   "rv": "662935-01",
+   "cit": "Sez. 6-2, n. 36690/2021, Dongiacomo, Rv. 662935-01",
+   "pagine": [
+    43
+   ]
+  },
+  {
+   "rv": "671429-01",
+   "cit": "Sez. T, n. 14465/2024, Picardi, Rv. 671429-01",
+   "pagine": [
+    43
+   ]
+  },
+  {
+   "rv": "671334-01",
+   "cit": "Sez. 1, n. 13561/2024, Fraulini, Rv. 671334-01",
+   "pagine": [
+    43
+   ]
+  },
+  {
+   "rv": "668462-01",
+   "cit": "Sez. 1, n. 22375/2023, Fraulini, Rv. 668462-01",
+   "pagine": [
+    43
+   ]
+  },
+  {
+   "rv": "672775-01",
+   "cit": "Sez. 1, n. 27283/2024, Fraulini, Rv. 672775-01",
+   "pagine": [
+    43
+   ]
+  },
+  {
+   "rv": "649519-01",
+   "cit": "Sez. 1, n. 17498/2018, Nazzicone, Rv. 649519-01",
+   "pagine": [
+    44
+   ]
+  },
+  {
+   "rv": "671541-01",
+   "cit": "Sez. 1, n. 16231/2024, Falabella, Rv. 671541-01",
+   "pagine": [
+    44
+   ]
+  },
+  {
+   "rv": "596020-01",
+   "cit": "Sez. 1, n. 07646/2007, Gilardi, Rv. 596020-01",
+   "pagine": [
+    44
+   ]
+  },
+  {
+   "rv": "671344-01",
+   "cit": "Sez. 1, n. 14850/2024, Campese, Rv. 671344-01",
+   "pagine": [
+    45
+   ]
+  },
+  {
+   "rv": "668409-01",
+   "cit": "Sez. 2, n. 23606/2023, Varrone, Rv. 668409-01",
+   "pagine": [
+    45
+   ]
+  },
+  {
+   "rv": "668646-01",
+   "cit": "Sez. 3, n. 24242/2023, Condello, Rv. 668646-01",
+   "pagine": [
+    45
+   ]
+  },
+  {
+   "rv": "671092-02",
+   "cit": "Sez. U, n. 15130/2024, Rv. 671092-02",
+   "pagine": [
+    46,
+    52
+   ]
+  },
+  {
+   "rv": "670951-02",
+   "cit": "Sez. U, n. 12449/2024, Rv. 670951-02",
+   "pagine": [
+    46
+   ]
+  },
+  {
+   "rv": "673234-01",
+   "cit": "Sez. 1, n. 32226/2024, Campese, Rv. 673234-01",
+   "pagine": [
+    47
+   ]
+  },
+  {
+   "rv": "672891-01",
+   "cit": "Sez. 3, n. 28952/2024, Spaziani, Rv. 672891-01",
+   "pagine": [
+    48
+   ]
+  },
+  {
+   "rv": "671538-01",
+   "cit": "Sez. 1, n. 16097/2024, Fraulini, Rv. 671538-01",
+   "pagine": [
+    48
+   ]
+  },
+  {
+   "rv": "670720-01",
+   "cit": "Sez. 1, n. 9331/2024, Lamorgese, Rv. 670720-01",
+   "pagine": [
+    48
+   ]
+  },
+  {
+   "rv": "670646-01",
+   "cit": "Sez. 1, n. 7315/2024, Perrino, Rv. 670646-01",
+   "pagine": [
+    48
+   ]
+  },
+  {
+   "rv": "670476-01",
+   "cit": "Sez. 1, n. 6343/2024, Catallozzi, Rv. 670476-01",
+   "pagine": [
+    48
+   ]
+  },
+  {
+   "rv": "670561-01",
+   "cit": "Sez. 1, n. 7412/2024, Falabella, Rv. 670561-01",
+   "pagine": [
+    49
+   ]
+  },
+  {
+   "rv": "673505-02",
+   "cit": "Sez. 2, n. 33255/2024, Guida, Rv. 673505-02",
+   "pagine": [
+    49,
+    250
+   ]
+  },
+  {
+   "rv": "670878-02",
+   "cit": "Sez. 1, n. 9418/2024, Perrino, Rv. 670878-02",
+   "pagine": [
+    49
+   ]
+  },
+  {
+   "rv": "673027-01",
+   "cit": "Sez. 1, n. 29272/2024, Iofrida, Rv. 673027-01",
+   "pagine": [
+    50
+   ]
+  },
+  {
+   "rv": "670579-01",
+   "cit": "Sez. 3, n. 7243/2024, Fanticini, Rv. 670579-01",
+   "pagine": [
+    50
+   ]
+  },
+  {
+   "rv": "672283-01",
+   "cit": "Sez. 2, n. 23866/2024, Amato, Rv. 672283-01",
+   "pagine": [
+    50
+   ]
+  },
+  {
+   "rv": "671348-01",
+   "cit": "Sez. 1, n. 15177/2024, Scotti, Rv. 671348-01",
+   "pagine": [
+    50
+   ]
+  },
+  {
+   "rv": "671460-01",
+   "cit": "Sez. 1, n. 13586/2024, Marulli, Rv. 671460-01",
+   "pagine": [
+    51
+   ]
+  },
+  {
+   "rv": "670268-01",
+   "cit": "Sez. 1, n. 4214/2024, Fidanzia, Rv. 670268-01",
+   "pagine": [
+    51
+   ]
+  },
+  {
+   "rv": "671118-01",
+   "cit": "Sez. 1, n. 11735/2024, Caiazzo, Rv. 671118-01",
+   "pagine": [
+    51
+   ]
+  },
+  {
+   "rv": "669907-04",
+   "cit": "Sez. 1, n. 1763/2024, Campese, Rv. 669907-04",
+   "pagine": [
+    51
+   ]
+  },
+  {
+   "rv": "670278-01",
+   "cit": "Sez. 1, n. 5282/2024, Falabella, Rv. 670278-01",
+   "pagine": [
+    52
+   ]
+  },
+  {
+   "rv": "673297-01",
+   "cit": "Sez. L, n. 31844/2024, Cavallaro, Rv. 673297-01",
+   "pagine": [
+    52,
+    206
+   ]
+  },
+  {
+   "rv": "672934-01",
+   "cit": "Sez. 3, n. 29831/2024, Gorgoni, Rv. 672934-01",
+   "pagine": [
+    53
+   ]
+  },
+  {
+   "rv": "672514-01",
+   "cit": "Sez. 1, n. 26972/2024, Fraulini, Rv. 672514-01",
+   "pagine": [
+    53
+   ]
+  },
+  {
+   "rv": "672481-01",
+   "cit": "Sez. 1, n. 25888/2024, Terrusi, Rv. 672481-01",
+   "pagine": [
+    53
+   ]
+  },
+  {
+   "rv": "672263-01",
+   "cit": "Sez. 3, n. 25855/2024, Tassone, Rv. 672263-01",
+   "pagine": [
+    53
+   ]
+  },
+  {
+   "rv": "672273-01",
+   "cit": "Sez. 1, n. 22115/2024, Marulli, Rv. 672273-01",
+   "pagine": [
+    54
+   ]
+  },
+  {
+   "rv": "672086-01",
+   "cit": "Sez. 1, n. 21105/2024, Caiazzo, Rv. 672086-01",
+   "pagine": [
+    54
+   ]
+  },
+  {
+   "rv": "671553-01",
+   "cit": "Sez. 1, n. 17415/2024, Campese, Rv. 671553-01",
+   "pagine": [
+    54
+   ]
+  },
+  {
+   "rv": "670096-01",
+   "cit": "Sez. 3, n. 3780/2024, Moscarini, Rv. 670096-01",
+   "pagine": [
+    54
+   ]
+  },
+  {
+   "rv": "669961-01",
+   "cit": "Sez. 1, n. 3350/2024, Marulli, Rv. 669961-01",
+   "pagine": [
+    54
+   ]
+  },
+  {
+   "rv": "672840-01",
+   "cit": "Sez. 3, n. 29476/2024, Pellecchia, Rv. 672840-01",
+   "pagine": [
+    55
+   ]
+  },
+  {
+   "rv": "672499-01",
+   "cit": "Sez. 1, n. 25910/2024, Terrusi, Rv. 672499-01",
+   "pagine": [
+    55
+   ]
+  },
+  {
+   "rv": "672350-01",
+   "cit": "Sez. 1, n. 22850/2024, Caiazzo, Rv. 672350-01",
+   "pagine": [
+    55
+   ]
+  },
+  {
+   "rv": "671961-01",
+   "cit": "Sez. 3, n. 20738/2024, Spaziani, Rv. 671961-01",
+   "pagine": [
+    55
+   ]
+  },
+  {
+   "rv": "670766-01",
+   "cit": "Sez. 3, n. 8793/2024, Rossi, Rv. 670766-01",
+   "pagine": [
+    56
+   ]
+  },
+  {
+   "rv": "670235-01",
+   "cit": "Sez. 1, n. 1633/2024, Terrusi, Rv. 670235-01",
+   "pagine": [
+    56
+   ]
+  },
+  {
+   "rv": "672406-01",
+   "cit": "Sez. 1, n. 25159/2024, Pazzi, Rv. 672406-01",
+   "pagine": [
+    58
+   ]
+  },
+  {
+   "rv": "673170-03",
+   "cit": "Sez. 3, n. 34075/2024, Fanticini, Rv. 673170-03",
+   "pagine": [
+    58
+   ]
+  },
+  {
+   "rv": "671452-01",
+   "cit": "Sez. 1, n. 12156/2024, Amatore Rv. 671452-01",
+   "pagine": [
+    58
+   ]
+  },
+  {
+   "rv": "670553-01",
+   "cit": "Sez. 1, n. 204/2024, Dongiacomo, Rv. 670553-01",
+   "pagine": [
+    59
+   ]
+  },
+  {
+   "rv": "670234-01",
+   "cit": "Sez. 1, n. 1587/2024, Vella, Rv. 670234-01",
+   "pagine": [
+    59
+   ]
+  },
+  {
+   "rv": "673512-01",
+   "cit": "Sez. 1, n. 32531/2024, Pazzi, Rv. 673512-01",
+   "pagine": [
+    59
+   ]
+  },
+  {
+   "rv": "672398-01",
+   "cit": "Sez. 1, ord. n. 12134/2024, Amatore, Rv. 672398-01",
+   "pagine": [
+    60
+   ]
+  },
+  {
+   "rv": "672785-01",
+   "cit": "Sez. 1, n. 27560/2024, Pazzi, Rv. 672785-01",
+   "pagine": [
+    60
+   ]
+  },
+  {
+   "rv": "672787-01",
+   "cit": "Sez. 1, n. 27611/2024, Pazzi, Rv. 672787-01",
+   "pagine": [
+    60
+   ]
+  },
+  {
+   "rv": "670978-01",
+   "cit": "Sez. 1, n. 12131/2024, Amatore, Rv. 670978-01",
+   "pagine": [
+    61
+   ]
+  },
+  {
+   "rv": "671666-01",
+   "cit": "Sez. 1, n. 18261/2024, Crolla, Rv. 671666-01",
+   "pagine": [
+    61
+   ]
+  },
+  {
+   "rv": "671463-01",
+   "cit": "Sez. 1, n. 14196/2024, Perrino, Rv. 671463-01",
+   "pagine": [
+    61,
+    81
+   ]
+  },
+  {
+   "rv": "672782-01",
+   "cit": "Sez. 1, n. 27525 del 23/10/2024, Vella, Rv. 672782-01",
+   "pagine": [
+    61
+   ]
+  },
+  {
+   "rv": "671349-01",
+   "cit": "Sez. 1, n. 15533/2024, Amatore, Rv. 671349-01",
+   "pagine": [
+    61
+   ]
+  },
+  {
+   "rv": "671468-01",
+   "cit": "Sez. 1, n. 14985/2024, Fidanzia, Rv. 671468-01",
+   "pagine": [
+    61
+   ]
+  },
+  {
+   "rv": "670976-01",
+   "cit": "Sez. 1, n. 11495/2024, Dongiacomo, Rv. 670976-01",
+   "pagine": [
+    62
+   ]
+  },
+  {
+   "rv": "670213-01",
+   "cit": "Sez. 1, n. 922/2024, Pazzi, Rv. 670213-01",
+   "pagine": [
+    62,
+    84
+   ]
+  },
+  {
+   "rv": "673506-01",
+   "cit": "Sez. 1, n. 27288/2024, Pazzi, Rv. 673506-01",
+   "pagine": [
+    62
+   ]
+  },
+  {
+   "rv": "671651-02",
+   "cit": "Sez. T, n. 21333/2024, Leuzzi, Rv. 671651-02",
+   "pagine": [
+    62
+   ]
+  },
+  {
+   "rv": "671662-02",
+   "cit": "Sez. 1, n. 18116/2024, Dongiacomo, Rv. 671662-02",
+   "pagine": [
+    62
+   ]
+  },
+  {
+   "rv": "670477-01",
+   "cit": "Sez. 1, n. 6642/2024, Caiazzo, Rv. 670477-01",
+   "pagine": [
+    63
+   ]
+  },
+  {
+   "rv": "670507-01",
+   "cit": "Sez. U, n. 7337/2024, Terrusi, Rv. 670507-01",
+   "pagine": [
+    63,
+    67
+   ]
+  },
+  {
+   "rv": "672877-01",
+   "cit": "Sez. 1, n. 28509/2024, Pazzi, Rv. 672877-01",
+   "pagine": [
+    63
+   ]
+  },
+  {
+   "rv": "671661-01",
+   "cit": "Sez. 1, n. 18019/2024, Amatore, Rv. 671661-01",
+   "pagine": [
+    63,
+    79
+   ]
+  },
+  {
+   "rv": "671715-01",
+   "cit": "Sez. 2, n. 17879/2024, Grasso, Rv. 671715-01",
+   "pagine": [
+    64,
+    70
+   ]
+  },
+  {
+   "rv": "670980-01",
+   "cit": "Sez. 1, n. 12523/2024, Pazzi, Rv. 670980-01",
+   "pagine": [
+    64
+   ]
+  },
+  {
+   "rv": "671964-01",
+   "cit": "Sez. 1, n. 20886/2024, Pazzi, Rv. 671964-01",
+   "pagine": [
+    64
+   ]
+  },
+  {
+   "rv": "671470-02",
+   "cit": "Sez. 1, n. 15196/2024, Campese, Rv. 671470-02",
+   "pagine": [
+    64,
+    75
+   ]
+  },
+  {
+   "rv": "670439-01",
+   "cit": "Sez. 3, n. 7201/2024, Tassone, Rv. 670439-01",
+   "pagine": [
+    64,
+    81
+   ]
+  },
+  {
+   "rv": "673511-01",
+   "cit": "Sez. 1, n. 31652/2024, Vella, Rv. 673511-01",
+   "pagine": [
+    65
+   ]
+  },
+  {
+   "rv": "673205-01",
+   "cit": "Sez. 1, n. 30124/2024, Dongiacomo, Rv. 673205-01",
+   "pagine": [
+    65
+   ]
+  },
+  {
+   "rv": "673191-01",
+   "cit": "Sez. 1, n. 30252/2024, Vella, Rv. 673191-01",
+   "pagine": [
+    65
+   ]
+  },
+  {
+   "rv": "672487-01",
+   "cit": "Sez. 1, n. 25166/2024, Abete, Rv. 672487-01",
+   "pagine": [
+    65
+   ]
+  },
+  {
+   "rv": "673085-01",
+   "cit": "Sez. 1, n. 30254/2024, Dongiacomo, Rv. 673085-01",
+   "pagine": [
+    65
+   ]
+  },
+  {
+   "rv": "673509-01",
+   "cit": "Sez. 1, n. 30130/2024, Dongiacomo, Rv. 673509-01",
+   "pagine": [
+    66
+   ]
+  },
+  {
+   "rv": "673138-01",
+   "cit": "Sez. 1, n. 30127/2024, Dongiacomo, Rv. 673138-01",
+   "pagine": [
+    66
+   ]
+  },
+  {
+   "rv": "671393-01",
+   "cit": "Sez. 1, n. 12754/2024, Crolla, Rv. 671393-01",
+   "pagine": [
+    66,
+    75
+   ]
+  },
+  {
+   "rv": "671084-01",
+   "cit": "Sez. 1, n. 10039/2024, Crolla, Rv. 671084-01",
+   "pagine": [
+    66
+   ]
+  },
+  {
+   "rv": "671093-01",
+   "cit": "Sez. 1, n. 8900/2024, Pazzi, Rv. 671093-01",
+   "pagine": [
+    66
+   ]
+  },
+  {
+   "rv": "670158-01",
+   "cit": "Sez. L, n. 5316/2024, Patti, Rv. 670158-01",
+   "pagine": [
+    67,
+    117
+   ]
+  },
+  {
+   "rv": "673508-01",
+   "cit": "Sez. 1, n. 28955/2024, Dongiacomo, Rv. 673508-01",
+   "pagine": [
+    67
+   ]
+  },
+  {
+   "rv": "672217-01",
+   "cit": "Sez. 3, n. 24806/2024, Porreca, Rv. 672217-01",
+   "pagine": [
+    68
+   ]
+  },
+  {
+   "rv": "671566-01",
+   "cit": "Sez. 3, n. 17154/2024, Spaziani, Rv. 671566-01",
+   "pagine": [
+    68
+   ]
+  },
+  {
+   "rv": "670568-01",
+   "cit": "Sez. 1, n. 08260/2024, Crolla, Rv. 670568-01",
+   "pagine": [
+    68
+   ]
+  },
+  {
+   "rv": "670556-01",
+   "cit": "Sez. 1, n. 04593/2024, Amatore, Rv. 670556-01",
+   "pagine": [
+    69
+   ]
+  },
+  {
+   "rv": "672278-01",
+   "cit": "Sez. 1, n. 22914/2024, Crolla, Rv. 672278-01",
+   "pagine": [
+    69
+   ]
+  },
+  {
+   "rv": "672275-01",
+   "cit": "Sez. 1, n. 22772/2024, Abete, Rv. 672275-01",
+   "pagine": [
+    69
+   ]
+  },
+  {
+   "rv": "666844-01",
+   "cit": "Sez. 2, n. 3027/2023, Criscuolo, Rv. 666844-01",
+   "pagine": [
+    70
+   ]
+  },
+  {
+   "rv": "671552-01",
+   "cit": "Sez. 1, n. 17248/2024, Dongiacomo, Rv. 671552-01",
+   "pagine": [
+    70
+   ]
+  },
+  {
+   "rv": "671535-01",
+   "cit": "Sez. 1, n. 15825/2024, Dongiacomo, Rv. 671535-01",
+   "pagine": [
+    70
+   ]
+  },
+  {
+   "rv": "671151-01",
+   "cit": "Sez. 3, n. 13345/2024, Gorgoni, Rv. 671151-01",
+   "pagine": [
+    71
+   ]
+  },
+  {
+   "rv": "670262-01",
+   "cit": "Sez. 1, n. 03459/2024, Dongiacomo, Rv. 670262-01",
+   "pagine": [
+    71
+   ]
+  },
+  {
+   "rv": "670635-01",
+   "cit": "Sez. 1, n. 06760/2024, Amatore, Rv. 670635-01",
+   "pagine": [
+    72
+   ]
+  },
+  {
+   "rv": "670271-01",
+   "cit": "Sez. 1, n. 04403/2024, Fidan- zia, Rv. 670271-01",
+   "pagine": [
+    72
+   ]
+  },
+  {
+   "rv": "670220-01",
+   "cit": "Sez. 1, n. 03839/2024, Fidanzia, Rv. 670220-01",
+   "pagine": [
+    72
+   ]
+  },
+  {
+   "rv": "670263-01",
+   "cit": "Sez. 1, n. 03462/2024, Terrusi, Rv. 670263-01",
+   "pagine": [
+    72
+   ]
+  },
+  {
+   "rv": "671536-01",
+   "cit": "Sez. 1, n. 15862/2024, Rv. 671536-01",
+   "pagine": [
+    72
+   ]
+  },
+  {
+   "rv": "673398-01",
+   "cit": "Sez. 1, n. 35087/2024, Dongiacomo, Rv. 673398-01",
+   "pagine": [
+    73
+   ]
+  },
+  {
+   "rv": "672413-01",
+   "cit": "Sez. 1, n. 25251/2024, Vella, Rv. 672413-01",
+   "pagine": [
+    73
+   ]
+  },
+  {
+   "rv": "672362-01",
+   "cit": "Sez. 1, n. 24375/2024, Dongiacomo, Rv. 672362-01",
+   "pagine": [
+    74
+   ]
+  },
+  {
+   "rv": "671675-01",
+   "cit": "Sez. 1, n. 18760/2024, Terrusi, Rv. 671675-01",
+   "pagine": [
+    74
+   ]
+  },
+  {
+   "rv": "670650-01",
+   "cit": "Sez. 1, n. 07772/2024, Vella, Rv. 670650-01",
+   "pagine": [
+    74
+   ]
+  },
+  {
+   "rv": "670649-01",
+   "cit": "Sez. 1, n. 07753/2024, Crolla, Rv. 670649-01",
+   "pagine": [
+    74
+   ]
+  },
+  {
+   "rv": "671085-01",
+   "cit": "Sez. 1, n. 10047/2024, Fidanzia, Rv. 671085-01",
+   "pagine": [
+    75
+   ]
+  },
+  {
+   "rv": "428994-01",
+   "cit": "Sez. 1, n. 04045/1983, Gualtieri, Rv. 428994-01",
+   "pagine": [
+    75
+   ]
+  },
+  {
+   "rv": "671103-01",
+   "cit": "Sez. 1, n. 10893/2024, Don- giacomo, Rv. 671103-01",
+   "pagine": [
+    76
+   ]
+  },
+  {
+   "rv": "671096-01",
+   "cit": "Sez. 1, n. 10719/2024, Dongiacomo, Rv. 671096-01",
+   "pagine": [
+    76
+   ]
+  },
+  {
+   "rv": "671099-01",
+   "cit": "Sez. 1, n. 10769/2024, Dongiacomo, Rv. 671099-01",
+   "pagine": [
+    76
+   ]
+  },
+  {
+   "rv": "670507-02",
+   "cit": "S.U., n. 07337/2024, Terrusi, Rv. 670507-02",
+   "pagine": [
+    76
+   ]
+  },
+  {
+   "rv": "670371-01",
+   "cit": "Sez. 2, n. 04601/2024, Fortunato, Rv. 670371-01",
+   "pagine": [
+    77
+   ]
+  },
+  {
+   "rv": "672508-01",
+   "cit": "Sez. 1, n. 25946/2024, Vella, Rv. 672508-01",
+   "pagine": [
+    77
+   ]
+  },
+  {
+   "rv": "672876-01",
+   "cit": "Sez. 1, n. 28505/2024, Crolla, Rv. 672876-01",
+   "pagine": [
+    78
+   ]
+  },
+  {
+   "rv": "672786-01",
+   "cit": "Sez. 1, n. 27562/2024, Vella, Rv. 672786-01",
+   "pagine": [
+    78
+   ]
+  },
+  {
+   "rv": "670633-01",
+   "cit": "Sez. 1, n. 06435/2024, Vella, Rv. 670633-01",
+   "pagine": [
+    78
+   ]
+  },
+  {
+   "rv": "672168-01",
+   "cit": "Sez. 1, n. 22169/2024, Amatore, Rv. 672168-01",
+   "pagine": [
+    78
+   ]
+  },
+  {
+   "rv": "672088-01",
+   "cit": "Sez. 1, n. 21431/2024 Rv. 672088-01",
+   "pagine": [
+    79
+   ]
+  },
+  {
+   "rv": "670924-01",
+   "cit": "Sez. T, n. 12174/2024, Lume, Rv. 670924-01",
+   "pagine": [
+    79
+   ]
+  },
+  {
+   "rv": "671660-01",
+   "cit": "Sez. 1, n. 17962/2024, Amatore, Rv. 671660-01",
+   "pagine": [
+    79
+   ]
+  },
+  {
+   "rv": "670723-01",
+   "cit": "Sez. 1, n. 09522/2024, Catallozzi, Rv. 670723-01",
+   "pagine": [
+    80
+   ]
+  },
+  {
+   "rv": "670277-01",
+   "cit": "Sez. 1, n. 05279/2024, Vella, Rv. 670277-01",
+   "pagine": [
+    80
+   ]
+  },
+  {
+   "rv": "672512-01",
+   "cit": "Sez. 1, n. 26159/2024, Vella, Rv. 672512-01",
+   "pagine": [
+    80
+   ]
+  },
+  {
+   "rv": "672512-02",
+   "cit": "Sez. 1, n. 26159/2024, Vella, Rv. 672512-02",
+   "pagine": [
+    80
+   ]
+  },
+  {
+   "rv": "671691-01",
+   "cit": "Sez. 1, n. 20059/2024, Abete, Rv. 671691-01",
+   "pagine": [
+    81
+   ]
+  },
+  {
+   "rv": "671677-01",
+   "cit": "Sez. 1, n. 18826/2024 Pazzi, Rv. 671677-01",
+   "pagine": [
+    81
+   ]
+  },
+  {
+   "rv": "672363-02",
+   "cit": "Sez. 1, 24527/2024, Abete, Rv. 672363-02",
+   "pagine": [
+    81
+   ]
+  },
+  {
+   "rv": "672759-01",
+   "cit": "Sez. 1, n. 27782/2024, Dongiacomo, Rv. 672759-01",
+   "pagine": [
+    82
+   ]
+  },
+  {
+   "rv": "671760-01",
+   "cit": "S.U., n. 20036/2024, Crucitti, Rv. 671760-01",
+   "pagine": [
+    82
+   ]
+  },
+  {
+   "rv": "670214-01",
+   "cit": "Sez. 1, n. 01033/2024, Vella, Rv. 670214-01",
+   "pagine": [
+    82
+   ]
+  },
+  {
+   "rv": "671451-01",
+   "cit": "Sez. 1, n. 12137/2024, Crolla, Rv. 671451-01",
+   "pagine": [
+    83
+   ]
+  },
+  {
+   "rv": "673365-01",
+   "cit": "Sez. 1, n. 34807/2024, D’Aquino, Rv. 673365-01",
+   "pagine": [
+    83
+   ]
+  },
+  {
+   "rv": "671551-01",
+   "cit": "Sez. 1, n. 16932/2024, Crolla, Rv. 671551-01",
+   "pagine": [
+    83
+   ]
+  },
+  {
+   "rv": "670233-01",
+   "cit": "Sez. 1, n. 01393/2024, Crolla, Rv. 670233-01",
+   "pagine": [
+    83
+   ]
+  },
+  {
+   "rv": "672531-01",
+   "cit": "Sez. 3, n. 26560/2024, Pellecchia, Rv. 672531-01",
+   "pagine": [
+    84
+   ]
+  },
+  {
+   "rv": "672777-01",
+   "cit": "Sez. 1, n. 27338/2024, Cristiano, Rv. 672777-01",
+   "pagine": [
+    84
+   ]
+  },
+  {
+   "rv": "671963-01",
+   "cit": "Sez. 1, n. 20862/2024, Pazzi, Rv. 671963-01",
+   "pagine": [
+    84
+   ]
+  },
+  {
+   "rv": "671671-01",
+   "cit": "Sez. 1, n. 18522/2024 Vella, Rv. 671671-01",
+   "pagine": [
+    85
+   ]
+  },
+  {
+   "rv": "672498-01",
+   "cit": "Sez. 1, n. 17272/2024, Terrusi, Rv. 672498-01",
+   "pagine": [
+    85
+   ]
+  },
+  {
+   "rv": "657683-01",
+   "cit": "Sez. 1, n. 9461/2020, Scotti, Rv. 657683-01",
+   "pagine": [
+    85
+   ]
+  },
+  {
+   "rv": "671540-01",
+   "cit": "Sez. 1, n. 16166/2024, Pazzi, Rv. 671540-01",
+   "pagine": [
+    86
+   ]
+  },
+  {
+   "rv": "670555-01",
+   "cit": "Sez. 1, n. 04322/2024, Amatore, Rv. 670555-01",
+   "pagine": [
+    86
+   ]
+  },
+  {
+   "rv": "672796-01",
+   "cit": "Sez. 1, n. 28147/2024, Amatore, Rv. 672796-01",
+   "pagine": [
+    86
+   ]
+  },
+  {
+   "rv": "672600-01",
+   "cit": "Sez. L, n. 27796/2024, Bellè, Rv. 672600-01",
+   "pagine": [
+    87
+   ]
+  },
+  {
+   "rv": "670980",
+   "cit": "Sez. 1, ord. n. 12523 del 08/05/2024, Rv. 670980",
+   "pagine": [
+    94
+   ]
+  },
+  {
+   "rv": "672594-01",
+   "cit": "Sez. L, 26666/2024, Boghetich, Rv. 672594-01",
+   "pagine": [
+    99
+   ]
+  },
+  {
+   "rv": "670442-01",
+   "cit": "Sez. L, 07203/2024, Riverso, Rv. 670442-01",
+   "pagine": [
+    100
+   ]
+  },
+  {
+   "rv": "672247-01",
+   "cit": "Sez. L, 24595/2024, Leone, Rv. 672247-01",
+   "pagine": [
+    100
+   ]
+  },
+  {
+   "rv": "670440-01",
+   "cit": "Sez. L, 06876/2024, Bellè, Rv. 670440-01",
+   "pagine": [
+    100
+   ]
+  },
+  {
+   "rv": "670602-01",
+   "cit": "Sez. L, 09136/2024, Riverso, Rv. 670602-01",
+   "pagine": [
+    100
+   ]
+  },
+  {
+   "rv": "672588-01",
+   "cit": "Sez. L, 26320/2024, Miche- lini, Rv. 672588-01",
+   "pagine": [
+    101
+   ]
+  },
+  {
+   "rv": "645267-01",
+   "cit": "Sez. L, 19092/2017, Garri, Rv. 645267-01",
+   "pagine": [
+    101
+   ]
+  },
+  {
+   "rv": "671413-01",
+   "cit": "Sez. L, 13932/2024, Michelini, Rv. 671413-01",
+   "pagine": [
+    101
+   ]
+  },
+  {
+   "rv": "672477-01",
+   "cit": "Sez. L, 25840/2024, Caso, Rv. 672477-01",
+   "pagine": [
+    101
+   ]
+  },
+  {
+   "rv": "670930-01",
+   "cit": "Sez. L, 12300/2024, Patti, Rv. 670930-01",
+   "pagine": [
+    102
+   ]
+  },
+  {
+   "rv": "672466-01",
+   "cit": "Sez. L, 24830/2024, Leone, Rv. 672466-01",
+   "pagine": [
+    102
+   ]
+  },
+  {
+   "rv": "671215-01",
+   "cit": "Sez. L, 14712/2024, Panariello, Rv. 671215-01",
+   "pagine": [
+    102
+   ]
+  },
+  {
+   "rv": "671866-01",
+   "cit": "Sez. L, 18405/2024, Riverso, Rv. 671866-01",
+   "pagine": [
+    102
+   ]
+  },
+  {
+   "rv": "672266-01",
+   "cit": "Sez. L, 22361/2024, Patti, Rv. 672266-01",
+   "pagine": [
+    103
+   ]
+  },
+  {
+   "rv": "671928-01",
+   "cit": "Sez. L, 18736/2024, Bellè, Rv. 671928-01",
+   "pagine": [
+    103
+   ]
+  },
+  {
+   "rv": "671208-01",
+   "cit": "Sez. L, 14242/2024, Ponterio, Rv. 671208-01",
+   "pagine": [
+    103,
+    203
+   ]
+  },
+  {
+   "rv": "671944-02",
+   "cit": "Sez. L, 20938/2024, Michelini, Rv. 671944-02",
+   "pagine": [
+    103
+   ]
+  },
+  {
+   "rv": "670537-01",
+   "cit": "Sez. L, 08090/2024, Michelini, Rv. 670537-01",
+   "pagine": [
+    104
+   ]
+  },
+  {
+   "rv": "670441-01",
+   "cit": "Sez. L, 07181/2024, Ponterio, Rv. 670441-01",
+   "pagine": [
+    104
+   ]
+  },
+  {
+   "rv": "670987-01",
+   "cit": "Sez. L, 12036/2024, Boghetich, Rv. 670987-01",
+   "pagine": [
+    104
+   ]
+  },
+  {
+   "rv": "670871-01",
+   "cit": "Sez. L, 10680/2024, Panariello, Rv. 670871-01",
+   "pagine": [
+    104
+   ]
+  },
+  {
+   "rv": "671593-01",
+   "cit": "Sez. L, 17484/2024, Marotta, Rv. 671593-01",
+   "pagine": [
+    104
+   ]
+  },
+  {
+   "rv": "655518-01",
+   "cit": "Sez. L, 27340/2019, Marotta, Rv. 655518-01",
+   "pagine": [
+    104
+   ]
+  },
+  {
+   "rv": "671224-01",
+   "cit": "Sez. L, 15219/2024, Leone, Rv. 671224-01",
+   "pagine": [
+    105
+   ]
+  },
+  {
+   "rv": "673066-01",
+   "cit": "Sez. L, 30080/2024, Amendola, Rv. 673066-01",
+   "pagine": [
+    105
+   ]
+  },
+  {
+   "rv": "672655-01",
+   "cit": "Sez. L, 26181/2024, Amendola, Rv. 672655-01",
+   "pagine": [
+    105
+   ]
+  },
+  {
+   "rv": "672269-01",
+   "cit": "Sez. L, 23985/2024, Amendola, Rv. 672269-01",
+   "pagine": [
+    105
+   ]
+  },
+  {
+   "rv": "671187-01",
+   "cit": "Sez. L, 13490/2024, Di Paolantonio, Rv. 671187-01",
+   "pagine": [
+    106,
+    160
+   ]
+  },
+  {
+   "rv": "671919-01",
+   "cit": "Sez. L, 18892/2024, Riverso, Rv. 671919-01",
+   "pagine": [
+    106,
+    134
+   ]
+  },
+  {
+   "rv": "669690-01",
+   "cit": "Sez. L, 00047/2024, Ponterio, Rv. 669690-01",
+   "pagine": [
+    106
+   ]
+  },
+  {
+   "rv": "672094-02",
+   "cit": "Sez. L, 18390/2024, Riverso, Rv. 672094-02",
+   "pagine": [
+    106
+   ]
+  },
+  {
+   "rv": "671591-01",
+   "cit": "Sez. L, 17419/2024, Panariello, Rv. 671591-01",
+   "pagine": [
+    106
+   ]
+  },
+  {
+   "rv": "672689-01",
+   "cit": "Sez. L, 28657/2024, Caso, Rv. 672689-01",
+   "pagine": [
+    106
+   ]
+  },
+  {
+   "rv": "671006-02",
+   "cit": "Sez. L, 11333/2024, Riverso, Rv. 671006-02",
+   "pagine": [
+    107
+   ]
+  },
+  {
+   "rv": "671006-01",
+   "cit": "Sez. L, 11333/2024, Riverso, Rv. 671006-01",
+   "pagine": [
+    107
+   ]
+  },
+  {
+   "rv": "671227-01",
+   "cit": "Sez. L, 15332/2024, Boghetich, Rv. 671227-01",
+   "pagine": [
+    107
+   ]
+  },
+  {
+   "rv": "671303-01",
+   "cit": "Sez. L, 14843/2024, Riverso, Rv. 671303-01",
+   "pagine": [
+    107
+   ]
+  },
+  {
+   "rv": "671434-02",
+   "cit": "Sez. L, 15815/2024, Bellè, Rv. 671434-02",
+   "pagine": [
+    107
+   ]
+  },
+  {
+   "rv": "671865-01",
+   "cit": "Sez. L, 18401/2024, Riverso, Rv. 671865-01",
+   "pagine": [
+    108
+   ]
+  },
+  {
+   "rv": "670611-01",
+   "cit": "Sez. L, 08626/2024, Patti, Rv. 670611-01",
+   "pagine": [
+    108
+   ]
+  },
+  {
+   "rv": "671201-01",
+   "cit": "Sez. L, 13481/2024, Solaini, Rv. 671201-01",
+   "pagine": [
+    109
+   ]
+  },
+  {
+   "rv": "673116-01",
+   "cit": "Sez. L, 30628/2024, Boghetich, Rv. 673116-01",
+   "pagine": [
+    109
+   ]
+  },
+  {
+   "rv": "672590-01",
+   "cit": "Sez. L, 26417/2024, Michelini, Rv. 672590-01",
+   "pagine": [
+    109
+   ]
+  },
+  {
+   "rv": "670048-01",
+   "cit": "Sez. L, 04264/2024, Tricomi I., Rv. 670048-01",
+   "pagine": [
+    109
+   ]
+  },
+  {
+   "rv": "670046-01",
+   "cit": "Sez. L, 03998/2024, Caso, Rv. 670046-01",
+   "pagine": [
+    109,
+    150
+   ]
+  },
+  {
+   "rv": "672165-01",
+   "cit": "Sez. L, 15747/2024, Pagetta, Rv. 672165-01",
+   "pagine": [
+    109
+   ]
+  },
+  {
+   "rv": "671012-01",
+   "cit": "Sez. L, 11865/2024, Patti, Rv. 671012-01",
+   "pagine": [
+    110
+   ]
+  },
+  {
+   "rv": "671278-01",
+   "cit": "Sez. L, 15845/2024, Ponterio, Rv. 671278-01",
+   "pagine": [
+    110,
+    131
+   ]
+  },
+  {
+   "rv": "670892-01",
+   "cit": "Sez. L, 12487/2024, Garri, Rv. 670892-01",
+   "pagine": [
+    110,
+    131
+   ]
+  },
+  {
+   "rv": "670352-01",
+   "cit": "Sez. L, 06466/2024, Amendola, Rv. 670352-01",
+   "pagine": [
+    110
+   ]
+  },
+  {
+   "rv": "670446-01",
+   "cit": "Sez. L, 06787/2024, Michelini, Rv. 670446-01",
+   "pagine": [
+    110
+   ]
+  },
+  {
+   "rv": "672434-01",
+   "cit": "Sez. L, 24473/2024, Leone, Rv. 672434-01",
+   "pagine": [
+    110
+   ]
+  },
+  {
+   "rv": "672098-01",
+   "cit": "Sez. L, 21224/2024, Amirante, Rv. 672098-01",
+   "pagine": [
+    111
+   ]
+  },
+  {
+   "rv": "671999-01",
+   "cit": "Sez. L, 18744/2024, Caso, Rv. 671999-01",
+   "pagine": [
+    111
+   ]
+  },
+  {
+   "rv": "670999-01",
+   "cit": "Sez. L, 10744/2024, Garri, Rv. 670999-01",
+   "pagine": [
+    111
+   ]
+  },
+  {
+   "rv": "670801-01",
+   "cit": "Sez. L, 10391/2024, Garri, Rv. 670801-01",
+   "pagine": [
+    111
+   ]
+  },
+  {
+   "rv": "671037-02",
+   "cit": "Sez. L, 11870/2024, Pana- riello, Rv. 671037-02",
+   "pagine": [
+    112
+   ]
+  },
+  {
+   "rv": "671037-01",
+   "cit": "Sez. L, 11870/2024, Panariello, Rv. 671037-01",
+   "pagine": [
+    112
+   ]
+  },
+  {
+   "rv": "669700-01",
+   "cit": "Sez. L, 00048/2024, Ponterio, Rv. 669700-01",
+   "pagine": [
+    112
+   ]
+  },
+  {
+   "rv": "671947-01",
+   "cit": "Sez. L, 21527/2024, Tricomi I., Rv. 671947-01",
+   "pagine": [
+    112
+   ]
+  },
+  {
+   "rv": "671308-01",
+   "cit": "Sez. L, 14706/2024, Panariello, Rv. 671308-01",
+   "pagine": [
+    113
+   ]
+  },
+  {
+   "rv": "672589-01",
+   "cit": "Sez. L, n. 26390/2024, Amirante, Rv. 672589-01",
+   "pagine": [
+    113
+   ]
+  },
+  {
+   "rv": "673017-01",
+   "cit": "Sez. L, 29157/2024, Ciriello, Rv. 673017-01",
+   "pagine": [
+    113
+   ]
+  },
+  {
+   "rv": "670126-01",
+   "cit": "Sez. L, 04313/2024, Zuliani, Rv. 670126-01",
+   "pagine": [
+    113
+   ]
+  },
+  {
+   "rv": "673310-01",
+   "cit": "Sez. L, 33746/2024, Bellè, Rv. 673310-01",
+   "pagine": [
+    114
+   ]
+  },
+  {
+   "rv": "670164-01",
+   "cit": "Sez. L, 05061/2024, Zuliani, Rv. 670164-01",
+   "pagine": [
+    114
+   ]
+  },
+  {
+   "rv": "670128-01",
+   "cit": "Sez. L, 04664/2024, Marotta, Rv. 670128-01",
+   "pagine": [
+    114
+   ]
+  },
+  {
+   "rv": "673163-01",
+   "cit": "Sez. L, 28274/2024, Ponterio, Rv. 673163-01",
+   "pagine": [
+    114
+   ]
+  },
+  {
+   "rv": "671998-01",
+   "cit": "Sez. L, 18210/2024, Amendola, Rv. 671998-01",
+   "pagine": [
+    115
+   ]
+  },
+  {
+   "rv": "670355-01",
+   "cit": "Sez. L, 06704/2024, Caso, Rv. 670355-01",
+   "pagine": [
+    115
+   ]
+  },
+  {
+   "rv": "672334-01",
+   "cit": "Sez. L, 22869/2024, Amirante, Rv. 672334-01",
+   "pagine": [
+    115
+   ]
+  },
+  {
+   "rv": "670052-01",
+   "cit": "Sez. L, 04634/2024, Ponterio, Rv. 670052-01",
+   "pagine": [
+    115
+   ]
+  },
+  {
+   "rv": "671868-01",
+   "cit": "Sez. L, 19348/2024, Patti, Rv. 671868-01",
+   "pagine": [
+    116
+   ]
+  },
+  {
+   "rv": "670681-01",
+   "cit": "Sez. L, 09444/2024, Amendola, Rv. 670681-01",
+   "pagine": [
+    116
+   ]
+  },
+  {
+   "rv": "670031-01",
+   "cit": "Sez. L, 02764/2024, Cinque, Rv. 670031-01",
+   "pagine": [
+    116
+   ]
+  },
+  {
+   "rv": "672072-01",
+   "cit": "Sez. L, 20505/2024, Caso, Rv. 672072-01",
+   "pagine": [
+    116
+   ]
+  },
+  {
+   "rv": "669692-01",
+   "cit": "Sez. L, 00378/2024, Gnani, Rv. 669692-01",
+   "pagine": [
+    116
+   ]
+  },
+  {
+   "rv": "672603-01",
+   "cit": "Sez. L, 28112/2024, Michelini, Rv. 672603-01",
+   "pagine": [
+    117
+   ]
+  },
+  {
+   "rv": "671276-01",
+   "cit": "Sez. L, 15810/2024, Pagetta, Rv. 671276-01",
+   "pagine": [
+    117
+   ]
+  },
+  {
+   "rv": "672701-01",
+   "cit": "Sez. L, 27607/2024, Boghetich, Rv. 672701-01",
+   "pagine": [
+    117
+   ]
+  },
+  {
+   "rv": "671275-01",
+   "cit": "Sez. L, 15740/2024, Panariello, Rv. 671275-01",
+   "pagine": [
+    117
+   ]
+  },
+  {
+   "rv": "671016-01",
+   "cit": "Sez. L, 10748/2024, Leone, Rv. 671016-01",
+   "pagine": [
+    117
+   ]
+  },
+  {
+   "rv": "672596-01",
+   "cit": "Sez. L, 26881/2024, Cinque, Rv. 672596-01",
+   "pagine": [
+    118
+   ]
+  },
+  {
+   "rv": "671011-01",
+   "cit": "Sez. L, 11816/2024, Boghetich, Rv. 671011-01",
+   "pagine": [
+    118
+   ]
+  },
+  {
+   "rv": "670692-01",
+   "cit": "Sez. L, 10120/2024, Ponterio, Rv. 670692-01",
+   "pagine": [
+    118
+   ]
+  },
+  {
+   "rv": "671856-01",
+   "cit": "Sez. L, 18114/2024, Michelini, Rv. 671856-01",
+   "pagine": [
+    118
+   ]
+  },
+  {
+   "rv": "672437-01",
+   "cit": "Sez. L, 24334/2024, Panariello, Rv. 672437-01",
+   "pagine": [
+    119
+   ]
+  },
+  {
+   "rv": "673538-01",
+   "cit": "Sez. L, 27140/2024, Riverso, Rv. 673538-01",
+   "pagine": [
+    119
+   ]
+  },
+  {
+   "rv": "671215-02",
+   "cit": "Sez. L, 14712/2024, Panariello, Rv. 671215-02",
+   "pagine": [
+    119
+   ]
+  },
+  {
+   "rv": "671922-01",
+   "cit": "Sez. L, 19042/2024, Ponterio, Rv. 671922-01",
+   "pagine": [
+    119
+   ]
+  },
+  {
+   "rv": "670688-01",
+   "cit": "Sez. L, 10005/2024, Cinque, Rv. 670688-01",
+   "pagine": [
+    119
+   ]
+  },
+  {
+   "rv": "671013-01",
+   "cit": "Sez. L, 11901/2024, Panariello, Rv. 671013-01",
+   "pagine": [
+    119
+   ]
+  },
+  {
+   "rv": "672097-01",
+   "cit": "Sez. L, 21204/2024, Riverso, Rv. 672097-01",
+   "pagine": [
+    120
+   ]
+  },
+  {
+   "rv": "671005-01",
+   "cit": "Sez. L, 11236/2024, Riverso, Rv. 671005-01",
+   "pagine": [
+    120
+   ]
+  },
+  {
+   "rv": "672008-01",
+   "cit": "Sez. L, 18263/2024, Ponterio, Rv. 672008-01",
+   "pagine": [
+    120
+   ]
+  },
+  {
+   "rv": "669776-01",
+   "cit": "Sez. L, 01975/2024, Panariello, Rv. 669776-01",
+   "pagine": [
+    120
+   ]
+  },
+  {
+   "rv": "670870-01",
+   "cit": "Sez. L, 10065/2024, Ponterio, Rv. 670870-01",
+   "pagine": [
+    121
+   ]
+  },
+  {
+   "rv": "672237-02",
+   "cit": "Sez. L, 23214/2024, Marchese, Rv. 672237-02",
+   "pagine": [
+    121
+   ]
+  },
+  {
+   "rv": "672142-01",
+   "cit": "Sez. L, 23331/2024, Riverso, Rv. 672142-01",
+   "pagine": [
+    121
+   ]
+  },
+  {
+   "rv": "617406-01",
+   "cit": "Sez. L, 10821/2011, Morcavallo, Rv. 617406-01",
+   "pagine": [
+    121
+   ]
+  },
+  {
+   "rv": "672148-01",
+   "cit": "Sez. L, 23345/2024, Cinque, Rv. 672148-01",
+   "pagine": [
+    121
+   ]
+  },
+  {
+   "rv": "670156-01",
+   "cit": "Sez. L, 05281/2024, Ponterio, Rv. 670156-01",
+   "pagine": [
+    121
+   ]
+  },
+  {
+   "rv": "670929-01",
+   "cit": "Sez. L, 12113/2024, Garri, Rv. 670929-01",
+   "pagine": [
+    122
+   ]
+  },
+  {
+   "rv": "672602-01",
+   "cit": "Sez. L, 28109/2024, Leone, Rv. 672602-01",
+   "pagine": [
+    122
+   ]
+  },
+  {
+   "rv": "672202-01",
+   "cit": "Sez. L, n. 23850/2024, Michelini, Rv. 672202-01",
+   "pagine": [
+    123
+   ]
+  },
+  {
+   "rv": "672150-01",
+   "cit": "Sez. L, n. 23439/2024, Panariello, Rv. 672150-01",
+   "pagine": [
+    123
+   ]
+  },
+  {
+   "rv": "672196-01",
+   "cit": "Sez. L, n. 23318/2024, Amendola F., Rv. 672196-01",
+   "pagine": [
+    123
+   ]
+  },
+  {
+   "rv": "672591-01",
+   "cit": "Sez. L, n. 26446/2024, Cinque, Rv. 672591-01",
+   "pagine": [
+    124
+   ]
+  },
+  {
+   "rv": "671309-01",
+   "cit": "Sez. L, n. 14726/2024, Caso, Rv. 671309-01",
+   "pagine": [
+    124
+   ]
+  },
+  {
+   "rv": "669691-01",
+   "cit": "Sez. L, n. 00109/2024, Amen- dola F., Rv. 669691-01",
+   "pagine": [
+    124
+   ]
+  },
+  {
+   "rv": "670159-01",
+   "cit": "Sez. L, n. 05485/2024, Michelini, Rv. 670159-01",
+   "pagine": [
+    124
+   ]
+  },
+  {
+   "rv": "671226-01",
+   "cit": "Sez. L, n. 15324/2024, Ponterio, Rv. 671226-01",
+   "pagine": [
+    124
+   ]
+  },
+  {
+   "rv": "670998-01",
+   "cit": "Sez. L, n. 10734/2024, Caso, Rv. 670998-01",
+   "pagine": [
+    126
+   ]
+  },
+  {
+   "rv": "671916-01",
+   "cit": "Sez. L, n. 18552/2024, Riverso, Rv. 671916-01",
+   "pagine": [
+    127
+   ]
+  },
+  {
+   "rv": "64308-01",
+   "cit": "Sez. L, 03187/2017, Rv. 64308-01",
+   "pagine": [
+    127
+   ]
+  },
+  {
+   "rv": "670677-01",
+   "cit": "Sez. L, n. 08745/2024, Tricomi I., Rv. 670677-01",
+   "pagine": [
+    127,
+    163
+   ]
+  },
+  {
+   "rv": "671306-01",
+   "cit": "Sez. L, n. 16630/2024, Cinque, Rv. 671306-01",
+   "pagine": [
+    127
+   ]
+  },
+  {
+   "rv": "672586-01",
+   "cit": "Sez. L, n. 26238/2024, Cavallari, Rv. 672586-01",
+   "pagine": [
+    127
+   ]
+  },
+  {
+   "rv": "672054-01",
+   "cit": "Sez. L, n. 18547/2024, Riverso, Rv. 672054-01",
+   "pagine": [
+    127
+   ]
+  },
+  {
+   "rv": "671589-01",
+   "cit": "Sez. L, n. 17266/2024, Patti, Rv. 671589-01",
+   "pagine": [
+    128
+   ]
+  },
+  {
+   "rv": "671209-01",
+   "cit": "Sez. L, n. 14307/2024, Amen- dola, Rv. 671209-01",
+   "pagine": [
+    128
+   ]
+  },
+  {
+   "rv": "641708-01",
+   "cit": "Sez. L, n. 24259/2016, Rv. 641708-01",
+   "pagine": [
+    128
+   ]
+  },
+  {
+   "rv": "670149-01",
+   "cit": "Sez. L, n. 04458/2024, Amendola F., Rv. 670149-01",
+   "pagine": [
+    128
+   ]
+  },
+  {
+   "rv": "670763-01",
+   "cit": "Sez. L, n. 08899/2024, Garri F., Rv. 670763-01",
+   "pagine": [
+    128
+   ]
+  },
+  {
+   "rv": "670937-01",
+   "cit": "Sez. L, n. 12746/2024, Fedele, Rv. 670937-01",
+   "pagine": [
+    129,
+    176
+   ]
+  },
+  {
+   "rv": "671849-01",
+   "cit": "Sez. L, n. 18015/2024, Ponterio, Rv. 671849-01",
+   "pagine": [
+    129
+   ]
+  },
+  {
+   "rv": "669703-01",
+   "cit": "Sez. L, n. 00267/2024, De Marinis, Rv. 669703-01",
+   "pagine": [
+    129
+   ]
+  },
+  {
+   "rv": "662522-01",
+   "cit": "Sez. L, n. 28368/2021, Rv. 662522-01",
+   "pagine": [
+    129
+   ]
+  },
+  {
+   "rv": "669861-01",
+   "cit": "Sez. L, n. 02739/2024, Amendola F., Rv. 669861-01",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "670872-01",
+   "cit": "Sez. L, n. 10627/2024, Boghetich, Rv. 670872-01",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "671585-01",
+   "cit": "Sez. L, n. 17036/2024, Patti, Rv. 671585-01",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "671854-01",
+   "cit": "Sez. L, n. 18094/2024, Amendola F., Rv. 671854-01",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "673117-01",
+   "cit": "Sez. L, n. 30657/2024, Boghetich, Rv. 673117-01",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "669861-02",
+   "cit": "Sez. L, n. 02739/2024, Amendola F., Rv. 669861-02",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "639305-01",
+   "cit": "Sez. L, n. 05592/2016, Rv. 639305-01",
+   "pagine": [
+    130
+   ]
+  },
+  {
+   "rv": "672003-01",
+   "cit": "Sez. L, n. 19185/2024, Boghetich, Rv. 672003-01",
+   "pagine": [
+    131
+   ]
+  },
+  {
+   "rv": "671271-01",
+   "cit": "Sez. L, n. 15568/2024, Panariello, Rv. 671271-01",
+   "pagine": [
+    131
+   ]
+  },
+  {
+   "rv": "672229-01",
+   "cit": "Sez. L, n. 24052/2024, Cinque, Rv. 672229-01",
+   "pagine": [
+    131
+   ]
+  },
+  {
+   "rv": "671273-01",
+   "cit": "Sez. L, n. 15604/2024, Michelini, Rv. 671273-01",
+   "pagine": [
+    131
+   ]
+  },
+  {
+   "rv": "671210-01",
+   "cit": "Sez. L, n. 14316/2024, Cinque, Rv. 671210-01",
+   "pagine": [
+    132
+   ]
+  },
+  {
+   "rv": "671925-01",
+   "cit": "Sez. L, n. 18529/2024, Riverso, Rv. 671925-01",
+   "pagine": [
+    132
+   ]
+  },
+  {
+   "rv": "672680-01",
+   "cit": "Sez. L, n. 28266/2024, Cinque, Rv. 672680-01",
+   "pagine": [
+    132
+   ]
+  },
+  {
+   "rv": "670416-01",
+   "cit": "Sez. L, n. 06266/2024, Boghetich, Rv. 670416-01",
+   "pagine": [
+    132
+   ]
+  },
+  {
+   "rv": "671873-01",
+   "cit": "Sez. L, n. 19740/2024, Pagetta, Rv. 671873-01",
+   "pagine": [
+    132
+   ]
+  },
+  {
+   "rv": "671592-01",
+   "cit": "Sez. L, n. 17470/2024, Panariello, Rv. 671592-01",
+   "pagine": [
+    133
+   ]
+  },
+  {
+   "rv": "637788-01",
+   "cit": "Sez. L, n. 23686/2015, Rv. 637788-01",
+   "pagine": [
+    133
+   ]
+  },
+  {
+   "rv": "671436-01",
+   "cit": "Sez. L, n. 16064/2024, Michelini, Rv. 671436-01",
+   "pagine": [
+    133
+   ]
+  },
+  {
+   "rv": "671202-01",
+   "cit": "Sez. L, n. 13491/2024, Boghetich, Rv. 671202-01",
+   "pagine": [
+    133
+   ]
+  },
+  {
+   "rv": "671590-01",
+   "cit": "Sez. L, n. 17306/2024, Ponterio, Rv. 671590-01",
+   "pagine": [
+    133
+   ]
+  },
+  {
+   "rv": "671852-01",
+   "cit": "Sez. L, n. 18075/2024, Cin- que, Rv. 671852-01",
+   "pagine": [
+    133
+   ]
+  },
+  {
+   "rv": "610809-01",
+   "cit": "Sez. L, n. 27844/2009, Rv. 610809-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "673049-01",
+   "cit": "Sez. L, n. 29876/2024, Caso, Rv. 673049-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "606627-01",
+   "cit": "Sez. L, n. 03787/2009, Rv. 606627-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "671415-01",
+   "cit": "Sez. L, n. 14301/2024, Caso, Rv. 671415-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "644863-01",
+   "cit": "Sez. L, n. 16350/2017, Rv. 644863-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "669853-01",
+   "cit": "Sez. L, n. 02694/2024, Buffa, Rv. 669853-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "670036-01",
+   "cit": "Sez. L, n. 03247/2024, Riverso, Rv. 670036-01",
+   "pagine": [
+    134
+   ]
+  },
+  {
+   "rv": "669705-01",
+   "cit": "Sez. L, n. 00269/2024, Patti, Rv. 669705-01",
+   "pagine": [
+    135
+   ]
+  },
+  {
+   "rv": "670450-01",
+   "cit": "Sez. L, n. 07342/2024, Riverso, Rv. 670450-01",
+   "pagine": [
+    135
+   ]
+  },
+  {
+   "rv": "673119-01",
+   "cit": "Sez. L, n. 31332/2024, Riverso, Rv. 673119-01",
+   "pagine": [
+    135
+   ]
+  },
+  {
+   "rv": "672007-01",
+   "cit": "Sez. L, n. 20966/2024, Boghetich, Rv. 672007-01",
+   "pagine": [
+    135
+   ]
+  },
+  {
+   "rv": "670533-01",
+   "cit": "Sez. L, n. 07695/2024, Caso, Rv. 670533-01",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "672592-01",
+   "cit": "Sez. L, n. 26449/2024, Riverso, Rv. 672592-01",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "672120-01",
+   "cit": "Sez. L, n. 21102/2024, Boghetich, Rv. 672120-01",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "672121-01",
+   "cit": "Sez. L, n. 21299/2024, Michelini, Rv. 672121-01",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "671858-02",
+   "cit": "Sez. L, n. 18215/2024, Amendola F., Rv. 671858-02",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "671853-02",
+   "cit": "Sez. L, n. 18093/2024, Cinque, Rv. 671853-02",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "664005-01",
+   "cit": "Sez. L, n. 06296/2022, Rv. 664005-01",
+   "pagine": [
+    136
+   ]
+  },
+  {
+   "rv": "672462-01",
+   "cit": "Sez. L, n. 24340/2024, Panariello, Rv. 672462-01",
+   "pagine": [
+    137,
+    166
+   ]
+  },
+  {
+   "rv": "671196-01",
+   "cit": "Sez. L, n. 10286/2024, Panariello, Rv. 671196-01",
+   "pagine": [
+    137
+   ]
+  },
+  {
+   "rv": "670327-01",
+   "cit": "Sez. L, n. 5744/2024, Cavallari, Rv. 670327-01",
+   "pagine": [
+    138
+   ]
+  },
+  {
+   "rv": "672941-01",
+   "cit": "Sez. L, n. 30577/2024, Bellè, Rv. 672941-01",
+   "pagine": [
+    138
+   ]
+  },
+  {
+   "rv": "672941-02",
+   "cit": "Sez. L, n. 30577/2024, Bellè, Rv. 672941-02",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "673152-01",
+   "cit": "Sez. L, n. 31517/2024, Cavallari, Rv. 673152-01",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "673019-01",
+   "cit": "Sez. L, n. 29310/2024, Cavallari, Rv. 673019-01",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "671435-03",
+   "cit": "Sez. L, n. 16036/2024, Di Paolantonio, Rv. 671435-03",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "671038-01",
+   "cit": "Sez. L, n. 11622/2024, Rolfi, Rv. 671038-01",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "670039-01",
+   "cit": "Sez. L, n. 3504/2024, Bellè, Rv. 670039-01",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "672201-01",
+   "cit": "Sez. L, n. 23692/2024, Bellè, Rv. 672201-01",
+   "pagine": [
+    139
+   ]
+  },
+  {
+   "rv": "672006-01",
+   "cit": "Sez. L, n. 20226/2024, Di Paolantonio, Rv. 672006-01",
+   "pagine": [
+    140
+   ]
+  },
+  {
+   "rv": "672470-01",
+   "cit": "Sez. L, n. 25442/2024, Casciaro, Rv. 672470-01",
+   "pagine": [
+    140
+   ]
+  },
+  {
+   "rv": "669693-01",
+   "cit": "Sez. L, n. 00420/2024, Leone, Rv. 669693-01",
+   "pagine": [
+    140,
+    238
+   ]
+  },
+  {
+   "rv": "673150-01",
+   "cit": "Sez. L, n. 31215/2024, Bellè, Rv. 673150-01",
+   "pagine": [
+    140
+   ]
+  },
+  {
+   "rv": "667141-01",
+   "cit": "Sez. L, n. 13957/2024, Tricomi, Rv. 667141-01",
+   "pagine": [
+    141
+   ]
+  },
+  {
+   "rv": "672681-01",
+   "cit": "Sez. L, n. 28330/2024, Rolfi, Rv. 672681-01",
+   "pagine": [
+    141
+   ]
+  },
+  {
+   "rv": "672071-01",
+   "cit": "Sez. L, n. 20501/2024, Caso, Rv. 672071-01",
+   "pagine": [
+    141
+   ]
+  },
+  {
+   "rv": "672682-01",
+   "cit": "Sez. L, n. 28395/2024, Rolfi, Rv. 672682-01",
+   "pagine": [
+    141
+   ]
+  },
+  {
+   "rv": "670345-01",
+   "cit": "Sez. L, n. 05653/2024, Buconi, Rv. 670345-01",
+   "pagine": [
+    142
+   ]
+  },
+  {
+   "rv": "640871-01",
+   "cit": "Sez. L, n. 15223/2016, Di Paolantonio, Rv. 640871-01",
+   "pagine": [
+    142
+   ]
+  },
+  {
+   "rv": "670356-02",
+   "cit": "Sez. L, n. 7068/2024, Cavallari, Rv. 670356-02",
+   "pagine": [
+    142
+   ]
+  },
+  {
+   "rv": "672123-01",
+   "cit": "Sez. L, n. 21721/2024, Cavallari, Rv. 672123-01",
+   "pagine": [
+    142
+   ]
+  },
+  {
+   "rv": "670141-01",
+   "cit": "Sez. L, n. 5309/2024, Rolfi, Rv. 670141-01",
+   "pagine": [
+    142
+   ]
+  },
+  {
+   "rv": "670351-01",
+   "cit": "Sez. L, n. 6335/2024, Tricomi, Rv. 670351-01",
+   "pagine": [
+    143
+   ]
+  },
+  {
+   "rv": "671216-01",
+   "cit": "Sez. L, n. 14732/2024, Fedele, Rv. 671216-01",
+   "pagine": [
+    143
+   ]
+  },
+  {
+   "rv": "670163-01",
+   "cit": "Sez. L, n. 05048/2024, Casciaro, Rv. 670163-01",
+   "pagine": [
+    143
+   ]
+  },
+  {
+   "rv": "670028-01",
+   "cit": "Sez. L, n. 01674/2024, Tricomi, Rv. 670028-01",
+   "pagine": [
+    143
+   ]
+  },
+  {
+   "rv": "671863",
+   "cit": "Sez. L, n. 18385/2024, Buconi, Rv. 671863- 01",
+   "pagine": [
+    143
+   ]
+  },
+  {
+   "rv": "669563-01",
+   "cit": "Sez. L, n. 34724/2023, Cavallari, Rv. 669563-01",
+   "pagine": [
+    143
+   ]
+  },
+  {
+   "rv": "667216-01",
+   "cit": "Sez. L, n. 18745/2024, Gandini, Rv. 667216-01",
+   "pagine": [
+    144
+   ]
+  },
+  {
+   "rv": "670938-01",
+   "cit": "Sez. L, n. 12871/2024, Fedele, Rv. 670938-01",
+   "pagine": [
+    144
+   ]
+  },
+  {
+   "rv": "672469-01",
+   "cit": "Sez. L, n. 25237/2024, Zuliani, Rv. 672469-01",
+   "pagine": [
+    144
+   ]
+  },
+  {
+   "rv": "672067-01",
+   "cit": "Sez. L, n. 18568/2024, Sarracino, Rv. 672067-01",
+   "pagine": [
+    144
+   ]
+  },
+  {
+   "rv": "672684-01",
+   "cit": "Sez. L, n. 28579/2024, Rolfi, Rv. 672684-01",
+   "pagine": [
+    144
+   ]
+  },
+  {
+   "rv": "670354-01",
+   "cit": "Sez. L, n. 6507/2024, De Marinis, Rv. 670354-01",
+   "pagine": [
+    145
+   ]
+  },
+  {
+   "rv": "670328-01",
+   "cit": "Sez. L, n. 5745/2024, Cavallari, Rv. 670328-01",
+   "pagine": [
+    145
+   ]
+  },
+  {
+   "rv": "670691-01",
+   "cit": "Sez. L, n. 10571/2024, Fedele, Rv. 670691-01",
+   "pagine": [
+    145
+   ]
+  },
+  {
+   "rv": "660963-01",
+   "cit": "Sez. L, n. 6089/2021, Spena, Rv. 660963-01",
+   "pagine": [
+    145
+   ]
+  },
+  {
+   "rv": "671277-01",
+   "cit": "Sez. L, n. 15814/2024, Marotta, Rv. 671277-01",
+   "pagine": [
+    145
+   ]
+  },
+  {
+   "rv": "671885-01",
+   "cit": "Sez. L, n. 16778/2024, Tricomi, Rv. 671885-01",
+   "pagine": [
+    146
+   ]
+  },
+  {
+   "rv": "666994-01",
+   "cit": "Sez. L, n. 02992/2024, Zuliani, Rv. 666994-01",
+   "pagine": [
+    146
+   ]
+  },
+  {
+   "rv": "671599-01",
+   "cit": "Sez. L, n. 17912/2024, Zuliani, Rv. 671599-01",
+   "pagine": [
+    146
+   ]
+  },
+  {
+   "rv": "671184-01",
+   "cit": "Sez. L, n. 12868/2024, Buconi, Rv. 671184-01",
+   "pagine": [
+    146
+   ]
+  },
+  {
+   "rv": "672597-01",
+   "cit": "Sez. L, n. 26908/2024, Bellè, Rv. 672597-01",
+   "pagine": [
+    146
+   ]
+  },
+  {
+   "rv": "671882-02",
+   "cit": "Sez. L, n. 19681/2024, Cavallari, Rv. 671882-02",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "640465-01",
+   "cit": "Sez. L, n. 14112/2016, Di Paolantonio, Rv. 640465-01",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "671598-01",
+   "cit": "Sez. L, n. 17806/2024, Marotta, Rv. 671598-01",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "671206-01",
+   "cit": "Sez. L, n. 14127/2024, Sarracino, Rv. 671206-01",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "672246-01",
+   "cit": "Sez. L, n. 24545/2024, Zuliani, Rv. 672246-01",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "672002-01",
+   "cit": "Sez. L, n. 18969/2024, Sarracino, Rv. 672002-01",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "637054-01",
+   "cit": "Sez. L, n. 18679/2015, D’Antonio, Rv. 637054-01",
+   "pagine": [
+    147
+   ]
+  },
+  {
+   "rv": "671920-01",
+   "cit": "Sez. L, n. 18962/2024, Cavallari, Rv. 671920-01",
+   "pagine": [
+    148
+   ]
+  },
+  {
+   "rv": "672056-01",
+   "cit": "Sez. L, n. 18963/2024, Cavallari, Rv. 672056-01",
+   "pagine": [
+    148
+   ]
+  },
+  {
+   "rv": "670238-01",
+   "cit": "Sez. L, n. 5056/2024, Cavallari, Rv. 670238-01",
+   "pagine": [
+    148
+   ]
+  },
+  {
+   "rv": "670238-02",
+   "cit": "Sez. L, n. 5056/2024, Cavallari, Rv. 670238-02",
+   "pagine": [
+    148
+   ]
+  },
+  {
+   "rv": "670154-01",
+   "cit": "Sez. L, n. 5142/2024, Cavallari, Rv. 670154-01",
+   "pagine": [
+    148
+   ]
+  },
+  {
+   "rv": "670678-02",
+   "cit": "Sez. L, n. 8754/2024, Bellè, Rv. 670678-02",
+   "pagine": [
+    149
+   ]
+  },
+  {
+   "rv": "672328-01",
+   "cit": "Sez. L, n. 22368/2024, Zuliani, Rv. 672328-01",
+   "pagine": [
+    149
+   ]
+  },
+  {
+   "rv": "671195-01",
+   "cit": "Sez. L, n. 8680/2024, Fedele, Rv. 671195-01",
+   "pagine": [
+    149
+   ]
+  },
+  {
+   "rv": "672735-01",
+   "cit": "Sez. L, n. 28678/2024, Gnani, Rv. 672735-01",
+   "pagine": [
+    149,
+    179
+   ]
+  },
+  {
+   "rv": "670047-01",
+   "cit": "Sez. L, n. 4154/2024, Casciaro, Rv. 670047-01",
+   "pagine": [
+    150
+   ]
+  },
+  {
+   "rv": "671946-01",
+   "cit": "Sez. L, n. 20955/2024, Di Paolantonio, Rv. 671946-01",
+   "pagine": [
+    150
+   ]
+  },
+  {
+   "rv": "671924-01",
+   "cit": "Sez. L, n. 20784/2024, Bellè, Rv. 671924-01",
+   "pagine": [
+    150
+   ]
+  },
+  {
+   "rv": "669859-01",
+   "cit": "Sez. L, n. 02282/2024, Bellè, Rv. 669859-01",
+   "pagine": [
+    150
+   ]
+  },
+  {
+   "rv": "669865-01",
+   "cit": "Sez. L, n. 02276/2024, Zuliani, Rv. 669865-01",
+   "pagine": [
+    150
+   ]
+  },
+  {
+   "rv": "672939-01",
+   "cit": "Sez. L, n. 30339/2024, Marotta, Rv. 672939-01",
+   "pagine": [
+    150
+   ]
+  },
+  {
+   "rv": "673149-01",
+   "cit": "Sez. L, n. 31003/2024, Cavallari, Rv. 673149-01",
+   "pagine": [
+    151
+   ]
+  },
+  {
+   "rv": "671229-01",
+   "cit": "Sez. L, n. 15451/2024, Bellè, Rv. 671229-01",
+   "pagine": [
+    151
+   ]
+  },
+  {
+   "rv": "670194-01",
+   "cit": "Sez. L, n. 5583/2024, Rolfi, Rv. 670194-01",
+   "pagine": [
+    151
+   ]
+  },
+  {
+   "rv": "671212-01",
+   "cit": "Sez. L, n. 14456/2024, Casciaro, Rv. 671212-01",
+   "pagine": [
+    151
+   ]
+  },
+  {
+   "rv": "669771-01",
+   "cit": "Sez. L, n. 01066/2024, Fedele, Rv. 669771-01",
+   "pagine": [
+    151
+   ]
+  },
+  {
+   "rv": "672946-01",
+   "cit": "Sez. L, n. 31089/2024, Cerulo, Rv. 672946-01",
+   "pagine": [
+    152,
+    203
+   ]
+  },
+  {
+   "rv": "672395-01",
+   "cit": "Sez. U, n. 26603/2024, Rossetti, Rv. 672395-01",
+   "pagine": [
+    152
+   ]
+  },
+  {
+   "rv": "671758-01",
+   "cit": "Sez. U, n. 20006/2024, Iannello, Rv. 671758-01",
+   "pagine": [
+    152
+   ]
+  },
+  {
+   "rv": "670034-01",
+   "cit": "Sez. L, n. 2913/2024, Caval- lari, Rv. 670034-01",
+   "pagine": [
+    152
+   ]
+  },
+  {
+   "rv": "673308-01",
+   "cit": "Sez. L, n. 33596/2024, Casciaro, Rv. 673308-01",
+   "pagine": [
+    152
+   ]
+  },
+  {
+   "rv": "672948-01",
+   "cit": "Sez. L, n. 31350/2024, Sarracino, Rv. 672948-01",
+   "pagine": [
+    152
+   ]
+  },
+  {
+   "rv": "672464-01",
+   "cit": "Sez. L, n. 24574/2024, Zuliani, Rv. 672464-01",
+   "pagine": [
+    153
+   ]
+  },
+  {
+   "rv": "671221-02",
+   "cit": "Sez. L, n. 14914/2024, Rolfi, Rv. 671221-02",
+   "pagine": [
+    153
+   ]
+  },
+  {
+   "rv": "672944-01",
+   "cit": "Sez. L, n. 30784/2024, Cavallari, Rv. 672944-01",
+   "pagine": [
+    153
+   ]
+  },
+  {
+   "rv": "670346-01",
+   "cit": "Sez. L, n. 5738/2024, Buconi, Rv. 670346-01",
+   "pagine": [
+    153
+   ]
+  },
+  {
+   "rv": "670027-01",
+   "cit": "Sez. L, n. 01665/2024, Tricomi, Rv. 670027-01",
+   "pagine": [
+    154
+   ]
+  },
+  {
+   "rv": "649878-01",
+   "cit": "Sez. L, n. 18817/2018, De Felice, Rv. 649878-01",
+   "pagine": [
+    154
+   ]
+  },
+  {
+   "rv": "672583-01",
+   "cit": "Sez. L, n. 26084/2024, Gandini, Rv. 672583-01",
+   "pagine": [
+    154
+   ]
+  },
+  {
+   "rv": "671432-01",
+   "cit": "Sez. L, n. 15677/2024, Sarracino, Rv. 671432-01",
+   "pagine": [
+    154
+   ]
+  },
+  {
+   "rv": "672337-01",
+   "cit": "Sez. L, n. 22958/2024, Zuliani, Rv. 672337-01",
+   "pagine": [
+    154
+   ]
+  },
+  {
+   "rv": "672333-01",
+   "cit": "Sez. L, n. 22603/2024, Bellè, Rv. 672333-01",
+   "pagine": [
+    154
+   ]
+  },
+  {
+   "rv": "671279-01",
+   "cit": "Sez. L, n. 15955/2024, Buconi, Rv. 671279-01",
+   "pagine": [
+    155
+   ]
+  },
+  {
+   "rv": "673541-01",
+   "cit": "Sez. L, n. 33355/2024, Fedele, Rv. 673541-01",
+   "pagine": [
+    155
+   ]
+  },
+  {
+   "rv": "672005-01",
+   "cit": "Sez. L, n. 20197/2024, Casciaro, Rv. 672005-01",
+   "pagine": [
+    155
+   ]
+  },
+  {
+   "rv": "671199-01",
+   "cit": "Sez. L, n. 13318/2024, Marotta, Rv. 671199-01",
+   "pagine": [
+    155
+   ]
+  },
+  {
+   "rv": "670680-01",
+   "cit": "Sez. L, n. 9370/2024, Zuliani, Rv. 670680-01",
+   "pagine": [
+    156
+   ]
+  },
+  {
+   "rv": "671872-01",
+   "cit": "Sez. L, n. 19613/2024, Cavallari, Rv. 671872-01",
+   "pagine": [
+    156
+   ]
+  },
+  {
+   "rv": "670347-01",
+   "cit": "Sez. L, n. 05749/2024, Cavallari, Rv. 670347-01",
+   "pagine": [
+    156
+   ]
+  },
+  {
+   "rv": "670347-02",
+   "cit": "Sez. L, n. 5749/2024, Cavallari, Rv. 670347-02",
+   "pagine": [
+    156
+   ]
+  },
+  {
+   "rv": "672526-01",
+   "cit": "Sez. L, n. 25511/2024, Casciaro, Rv. 672526-01",
+   "pagine": [
+    156
+   ]
+  },
+  {
+   "rv": "673314-01",
+   "cit": "Sez. L, n. 34058/2024, Gnani, Rv. 673314-01",
+   "pagine": [
+    157,
+    178
+   ]
+  },
+  {
+   "rv": "672135-01",
+   "cit": "Sez. L, n. 21931/2024, Cavallari, Rv. 672135-01",
+   "pagine": [
+    157
+   ]
+  },
+  {
+   "rv": "671435-01",
+   "cit": "Sez. L, n. 16036/2024, Di Paolantonio, Rv. 671435-01",
+   "pagine": [
+    157
+   ]
+  },
+  {
+   "rv": "671435-02",
+   "cit": "Sez. L, n. 16036/2024, Di Paolantonio, Rv. 671435-02",
+   "pagine": [
+    157
+   ]
+  },
+  {
+   "rv": "673302-01",
+   "cit": "Sez. L, n. 32773/2024, Cavallari, Rv. 673302-01",
+   "pagine": [
+    157
+   ]
+  },
+  {
+   "rv": "670153-01",
+   "cit": "Sez. L, n. 5092/2024, Cavallari, Rv. 670153-01",
+   "pagine": [
+    157
+   ]
+  },
+  {
+   "rv": "669941-04",
+   "cit": "Sez. L, n. 1471/2024, Cavallari, Rv. 669941-04",
+   "pagine": [
+    158
+   ]
+  },
+  {
+   "rv": "669941-01",
+   "cit": "Sez. L, n. 01471/2024, Cavallari, Rv. 669941-01",
+   "pagine": [
+    158
+   ]
+  },
+  {
+   "rv": "669941-02",
+   "cit": "Sez. L, n. 01471/2024, Cavallari, Rv. 669941-02",
+   "pagine": [
+    158
+   ]
+  },
+  {
+   "rv": "669941-03",
+   "cit": "Sez. L, n. 01471/2024, Cavallari, Rv. 669941-03",
+   "pagine": [
+    158
+   ]
+  },
+  {
+   "rv": "670152-01",
+   "cit": "Sez. L, n. 04390/2024, Tricomi I., Rv. 670152-01",
+   "pagine": [
+    158
+   ]
+  },
+  {
+   "rv": "670415-01",
+   "cit": "Sez. L, n. 05086/2024, Buconi, Rv. 670415-01",
+   "pagine": [
+    159
+   ]
+  },
+  {
+   "rv": "646562-02",
+   "cit": "Sez. L, n. 30875/2017, Di Paolantonio, Rv. 646562-02",
+   "pagine": [
+    159
+   ]
+  },
+  {
+   "rv": "672598-01",
+   "cit": "Sez. L, n. 26928/2024, Zuliani, Rv. 672598-01",
+   "pagine": [
+    159
+   ]
+  },
+  {
+   "rv": "671219-02",
+   "cit": "Sez. L, n. 14896/2024, Sarracino, Rv. 671219-02",
+   "pagine": [
+    159
+   ]
+  },
+  {
+   "rv": "670684-01",
+   "cit": "Sez. L, n. 09801/2024, Tricomi I., Rv. 670684-01",
+   "pagine": [
+    159
+   ]
+  },
+  {
+   "rv": "31654",
+   "cit": "Sez. L, n. 31654/2024, Zuliani, Rv. 31654",
+   "pagine": [
+    160
+   ]
+  },
+  {
+   "rv": "671307-01",
+   "cit": "Sez. L, n. 16636/2024, Casciaro, Rv. 671307-01",
+   "pagine": [
+    160
+   ]
+  },
+  {
+   "rv": "670454-01",
+   "cit": "Sez. L, n. 07366/2024, Cavallari, Rv. 670454-01",
+   "pagine": [
+    160
+   ]
+  },
+  {
+   "rv": "669852-01",
+   "cit": "Sez. L, n. 1867/2024, Marotta, Rv. 669852-01",
+   "pagine": [
+    160
+   ]
+  },
+  {
+   "rv": "671219-01",
+   "cit": "Sez. L, n. 14896/2024, Sarracino, Rv. 671219-01",
+   "pagine": [
+    161
+   ]
+  },
+  {
+   "rv": "671274-01",
+   "cit": "Sez. L, n. 15682/2024, Casciaro, Rv. 671274-01",
+   "pagine": [
+    161
+   ]
+  },
+  {
+   "rv": "655701-01",
+   "cit": "Sez. L, n. 28928/2019, Bellè, Rv. 655701-01",
+   "pagine": [
+    161
+   ]
+  },
+  {
+   "rv": "669772-01",
+   "cit": "Sez. L, n. 01164/2024, Zuliani, Rv. 669772-01",
+   "pagine": [
+    161
+   ]
+  },
+  {
+   "rv": "671923-01",
+   "cit": "Sez. L, n. 19097/2024, Zuliani, Rv. 671923-01",
+   "pagine": [
+    161
+   ]
+  },
+  {
+   "rv": "655866-01",
+   "cit": "Sez. L, n. 30226/2019, Bellè, Rv. 655866-01",
+   "pagine": [
+    161
+   ]
+  },
+  {
+   "rv": "672599-01",
+   "cit": "Sez. L, n. 26936/2024, Casciaro, Rv. 672599-01",
+   "pagine": [
+    162
+   ]
+  },
+  {
+   "rv": "670049-01",
+   "cit": "Sez. L, n. 04280/2024, Bellè, Rv. 670049-01",
+   "pagine": [
+    162
+   ]
+  },
+  {
+   "rv": "670239-01",
+   "cit": "Sez. L, n. 05733/2024, Cavallari, Rv. 670239-01",
+   "pagine": [
+    162
+   ]
+  },
+  {
+   "rv": "671596-01",
+   "cit": "Sez. L, n. 17715/2024, Marotta, Rv. 671596-01",
+   "pagine": [
+    162
+   ]
+  },
+  {
+   "rv": "671182-01",
+   "cit": "Sez. L, n. 09138/2024, Michelini, Rv. 671182-01",
+   "pagine": [
+    162
+   ]
+  },
+  {
+   "rv": "671182-02",
+   "cit": "Sez. L, n. 09138/2024, Michelini, Rv. 671182-02",
+   "pagine": [
+    162
+   ]
+  },
+  {
+   "rv": "667295-01",
+   "cit": "Sez. L, n. 30535/2024, Fedele, Rv. 667295-01",
+   "pagine": [
+    163
+   ]
+  },
+  {
+   "rv": "672952-02",
+   "cit": "Sez. L, n. 30535/2024, Fedele, Rv. 672952-02",
+   "pagine": [
+    163
+   ]
+  },
+  {
+   "rv": "670600-01",
+   "cit": "Sez. L, n. 8956/2024, Zuliani, Rv. 670600-01",
+   "pagine": [
+    163
+   ]
+  },
+  {
+   "rv": "673048-01",
+   "cit": "Sez. L, n. 30527/2024, Buconi, Rv. 673048-01",
+   "pagine": [
+    163
+   ]
+  },
+  {
+   "rv": "672075-01",
+   "cit": "Sez. L, n. 21167/2024, Zuliani, Rv. 672075-01",
+   "pagine": [
+    164
+   ]
+  },
+  {
+   "rv": "673061-01",
+   "cit": "Sez. L, n. 29683/2024, De Marinis, Rv. 673061-01",
+   "pagine": [
+    164
+   ]
+  },
+  {
+   "rv": "669769-01",
+   "cit": "Sez. L, n. 989/2024, Zuliani, Rv. 669769-01",
+   "pagine": [
+    164
+   ]
+  },
+  {
+   "rv": "672943-01",
+   "cit": "Sez. L, n. 30752/2024, Buconi, Rv. 672943-01",
+   "pagine": [
+    164
+   ]
+  },
+  {
+   "rv": "671433-01",
+   "cit": "Sez. L, n. 15697/2024, Bellè, Rv. 671433-01",
+   "pagine": [
+    165
+   ]
+  },
+  {
+   "rv": "670986-01",
+   "cit": "Sez. L, n. 12211/2024, Di Paolantonio, Rv. 670986-01",
+   "pagine": [
+    165
+   ]
+  },
+  {
+   "rv": "673151-01",
+   "cit": "Sez. L, n. 31216/2024, Bellè, Rv. 673151-01",
+   "pagine": [
+    165
+   ]
+  },
+  {
+   "rv": "673151-02",
+   "cit": "Sez. L, n. 31216/2024, Bellè, Rv. 673151-02",
+   "pagine": [
+    165
+   ]
+  },
+  {
+   "rv": "670127-01",
+   "cit": "Sez. L, n. 04640/2024, Tricomi, Rv. 670127-01",
+   "pagine": [
+    165
+   ]
+  },
+  {
+   "rv": "673018-01",
+   "cit": "Sez. L, n. 29183/2024, Bellè, Rv. 673018-01",
+   "pagine": [
+    165,
+    192
+   ]
+  },
+  {
+   "rv": "670325-01",
+   "cit": "Sez. L, n. 5667/2024, Rolfi, Rv. 670325-01",
+   "pagine": [
+    166
+   ]
+  },
+  {
+   "rv": "672462-02",
+   "cit": "Sez. L, n. 24340/2024, Panariello, Rv. 672462-02",
+   "pagine": [
+    166
+   ]
+  },
+  {
+   "rv": "671281-01",
+   "cit": "Sez. L, n. 15974/2024, Cavallari, Rv. 671281-01",
+   "pagine": [
+    166
+   ]
+  },
+  {
+   "rv": "672001-01",
+   "cit": "Sez. L, n. 18965/2024, Cavallari, Rv. 672001-01",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "644508-01",
+   "cit": "Sez. L, n. 12898/2017, De Felice, Rv. 644508-01",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "672474-01",
+   "cit": "Sez. L, n. 25537/2024, Gandini, Rv. 672474-01",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "672587-03",
+   "cit": "Sez. L, n. 26272/2024, Cavallari, Rv. 672587-03",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "672665-01",
+   "cit": "Sez. L, n. 27152/2024, Zuliani, Rv. 672665-01",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "672471-01",
+   "cit": "Sez. L, n. 25517/2024, Tricomi I., Rv. 672471-01",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "672473-01",
+   "cit": "Sez. L, n. 25528/2024, Casciaro, Rv. 672473-01",
+   "pagine": [
+    167
+   ]
+  },
+  {
+   "rv": "672192-01",
+   "cit": "Sez. L, n. 22518/2024, Bellè, Rv. 672192-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "643067-01",
+   "cit": "Sez. L, n. 2510/2017, Tricomi, Rv. 643067-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "671280-01",
+   "cit": "Sez. L, n. 15971/2024, Cavallari, Rv. 671280-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "672265-01",
+   "cit": "Sez. L, n. 22325/2024, Marotta, Rv. 672265-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "672472-01",
+   "cit": "Sez. L, n. 25518/2024, Casciaro, Rv. 672472-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "672476-01",
+   "cit": "Sez. L, n. 25623/2024, Fedele, Rv. 672476-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "672476-02",
+   "cit": "Sez. L, n. 25623/2024, Fedele, Rv. 672476-02",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "669940-01",
+   "cit": "Sez. L, n. 3513/2024, Cavallari, Rv. 669940-01",
+   "pagine": [
+    168
+   ]
+  },
+  {
+   "rv": "669836-01",
+   "cit": "Sez. L, n. 1895/2024, Cavallari, Rv. 669836-01",
+   "pagine": [
+    169
+   ]
+  },
+  {
+   "rv": "669942-01",
+   "cit": "Sez. L, n. 2741/2024, Sarracino, Rv. 669942-01",
+   "pagine": [
+    169
+   ]
+  },
+  {
+   "rv": "670033-02",
+   "cit": "Sez. L, n. 2875/2024, Sarracino, Rv. 670033-02",
+   "pagine": [
+    169
+   ]
+  },
+  {
+   "rv": "650221-01",
+   "cit": "Sez. L, n. 21565/2018, Di Paolantonio, Rv. 650221-01",
+   "pagine": [
+    169
+   ]
+  },
+  {
+   "rv": "673296-01",
+   "cit": "Sez. L, n. 31795/2024, Bellè, Rv. 673296-01",
+   "pagine": [
+    169
+   ]
+  },
+  {
+   "rv": "672245-01",
+   "cit": "Sez. L, n. 24366/2024, Zuliani, Rv. 672245-01",
+   "pagine": [
+    169
+   ]
+  },
+  {
+   "rv": "670024-01",
+   "cit": "Sez. L, n. 01488/2024, Rolfi, Rv. 670024-01",
+   "pagine": [
+    170
+   ]
+  },
+  {
+   "rv": "671857-01",
+   "cit": "Sez. L, n. 18204/2024, Fedele, Rv. 671857-01",
+   "pagine": [
+    170
+   ]
+  },
+  {
+   "rv": "671213-01",
+   "cit": "Sez. L, n. 14457/2024, Casciaro, Rv. 671213-01",
+   "pagine": [
+    170
+   ]
+  },
+  {
+   "rv": "667187-01",
+   "cit": "Sez. L, n. 19885/2024, Cavallari, Rv. 667187-01",
+   "pagine": [
+    170
+   ]
+  },
+  {
+   "rv": "670984",
+   "cit": "Sez. L, n. 12837/2024, Buconi, Rv. 670984- 01",
+   "pagine": [
+    170
+   ]
+  },
+  {
+   "rv": "670717-01",
+   "cit": "Sez. L, n. 09982/2024, Buconi, Rv. 670717-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "664916-01",
+   "cit": "Sez. L, n. 18140/2022, Bellè, Rv. 664916-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "669866-01",
+   "cit": "Sez. L, n. 02695/2024, Sarracino, Rv. 669866-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "651752-01",
+   "cit": "Sez. L, n. 30811/2018, Di Paolantonio, Rv. 651752-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "673211-01",
+   "cit": "Sez. L, n. 31653/2024, Zuliani, Rv. 673211-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "673076-01",
+   "cit": "Sez. L, n. 31240/2024, Buconi, Rv. 673076-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "671228-01",
+   "cit": "Sez. L, n. 14781/2024, Casciaro, Rv. 671228-01",
+   "pagine": [
+    171
+   ]
+  },
+  {
+   "rv": "672601-01",
+   "cit": "Sez. L, n. 27872/2024, Cavallari, Rv. 672601-01",
+   "pagine": [
+    172
+   ]
+  },
+  {
+   "rv": "670685-01",
+   "cit": "Sez. L, n. 9895/2024, Buconi, Rv. 670685-01",
+   "pagine": [
+    172
+   ]
+  },
+  {
+   "rv": "670683-01",
+   "cit": "Sez. L, n. 9691/2024, Rolfi, Rv. 670683-01",
+   "pagine": [
+    172
+   ]
+  },
+  {
+   "rv": "670538-01",
+   "cit": "Sez. L, n. 8586/2024, Buconi, Rv. 670538-01",
+   "pagine": [
+    172
+   ]
+  },
+  {
+   "rv": "671204-01",
+   "cit": "Sez. L, n. 13684/2024, Cavallari, Rv. 671204-01",
+   "pagine": [
+    172
+   ]
+  },
+  {
+   "rv": "669770-01",
+   "cit": "Sez. L, n. 01055/2024, Bellè, Rv. 669770-01",
+   "pagine": [
+    173
+   ]
+  },
+  {
+   "rv": "673319-02",
+   "cit": "Sez. L, n. 34602/2024, Cavallari, Rv. 673319-02",
+   "pagine": [
+    173
+   ]
+  },
+  {
+   "rv": "673319-01",
+   "cit": "Sez. L, n. 34602/2024, Cavallari, Rv. 673319-01",
+   "pagine": [
+    173
+   ]
+  },
+  {
+   "rv": "670534-01",
+   "cit": "Sez. L, n. 7354/2024, De Marinis, Rv. 670534-01",
+   "pagine": [
+    173
+   ]
+  },
+  {
+   "rv": "667205-02",
+   "cit": "Sez. L, n. 18682/2024, Bellè, Rv. 667205-02",
+   "pagine": [
+    173
+   ]
+  },
+  {
+   "rv": "672055-01",
+   "cit": "Sez. L, n. 18682/2024, Bellè, Rv. 672055-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "671579-01",
+   "cit": "Sez. L, n. 16715/2024, Cavallari, Rv. 671579-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "671200-01",
+   "cit": "Sez. L, n. 13440/2024, Cavallari, Rv. 671200-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "664850-01",
+   "cit": "Sez. L, n. 14268/2022, Spena, Rv. 664850-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "671594-01",
+   "cit": "Sez. L, n. 17629/2024, Fedele, Rv. 671594-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "671223-01",
+   "cit": "Sez. L, n. 15198/2024, Di Paolantonio, Rv. 671223-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "670539-01",
+   "cit": "Sez. L, n. 8605/2024, Buconi, Rv. 670539-01",
+   "pagine": [
+    174
+   ]
+  },
+  {
+   "rv": "670357-01",
+   "cit": "Sez. L, n. 7084/2024, Cavallari, Rv. 670357-01",
+   "pagine": [
+    175
+   ]
+  },
+  {
+   "rv": "670932-01",
+   "cit": "Sez. L, n. 12507/2024, Marotta, Rv. 670932-01",
+   "pagine": [
+    175
+   ]
+  },
+  {
+   "rv": "671015-01",
+   "cit": "Sez. L, n. 11341/2024, Di Paolantonio, Rv. 671015-01",
+   "pagine": [
+    175
+   ]
+  },
+  {
+   "rv": "671595-01",
+   "cit": "Sez. L, n. 17692/2024, Marotta, Rv. 671595-01",
+   "pagine": [
+    175
+   ]
+  },
+  {
+   "rv": "671582-01",
+   "cit": "Sez. L, n. 16855/2024, Di Paolantonio, Rv. 671582-01",
+   "pagine": [
+    175
+   ]
+  },
+  {
+   "rv": "673320-02",
+   "cit": "Sez. L, n. 34605/2024, Cavallari, Rv. 673320-02",
+   "pagine": [
+    176
+   ]
+  },
+  {
+   "rv": "673320-01",
+   "cit": "Sez. L, n. 34605/2024, Cavallari, Rv. 673320-01",
+   "pagine": [
+    176
+   ]
+  },
+  {
+   "rv": "667207-01",
+   "cit": "Sez. L, n. 20427/2024, Bellè. Rv. 667207-01",
+   "pagine": [
+    176
+   ]
+  },
+  {
+   "rv": "670055-01",
+   "cit": "Sez. L, n. 04936/2024, Cerulo, Rv. 670055-01",
+   "pagine": [
+    177
+   ]
+  },
+  {
+   "rv": "670054-01",
+   "cit": "Sez. L, n. 04926/2024, Buffa, Rv. 670054-01",
+   "pagine": [
+    177
+   ]
+  },
+  {
+   "rv": "672264-01",
+   "cit": "Sez. L, n. 22061/2024, Marchese, Rv. 672264-01",
+   "pagine": [
+    178
+   ]
+  },
+  {
+   "rv": "672335-01",
+   "cit": "Sez. L, n. 22901/2024, Garri F., Rv. 672335-01",
+   "pagine": [
+    178
+   ]
+  },
+  {
+   "rv": "670629-01",
+   "cit": "Sez. L, n. 08631/2024, Gnani, Rv. 670629-01",
+   "pagine": [
+    178
+   ]
+  },
+  {
+   "rv": "672122-01",
+   "cit": "Sez. L, n. 21437/2024, Cavallari, Rv. 672122-01",
+   "pagine": [
+    179
+   ]
+  },
+  {
+   "rv": "670150-01",
+   "cit": "Sez. L, n. 04596/2024, Marchese, Rv. 670150-01",
+   "pagine": [
+    179
+   ]
+  },
+  {
+   "rv": "671874-01",
+   "cit": "Sez. L, n. 19759/2024, Cavallaro, Rv. 671874-01",
+   "pagine": [
+    179
+   ]
+  },
+  {
+   "rv": "672336-01",
+   "cit": "Sez. L, n. 22923/2024, Garri F., Rv. 672336-01",
+   "pagine": [
+    180
+   ]
+  },
+  {
+   "rv": "673321-01",
+   "cit": "Sez. L, n. 34706/2024, Cerulo, Rv. 673321-01",
+   "pagine": [
+    180
+   ]
+  },
+  {
+   "rv": "670902-01",
+   "cit": "Sez. L, n. 12589/2024, Cavallaro, Rv. 670902-01",
+   "pagine": [
+    180
+   ]
+  },
+  {
+   "rv": "671010-01",
+   "cit": "Sez. L, n. 11762/2024, Cavallaro, Rv. 671010-01",
+   "pagine": [
+    180
+   ]
+  },
+  {
+   "rv": "672938-01",
+   "cit": "Sez. L, n. 30273/2024, Cavallaro, Rv. 672938-01",
+   "pagine": [
+    180
+   ]
+  },
+  {
+   "rv": "671003-01",
+   "cit": "Sez. L, n. 11211/2024, Marchese, Rv. 671003-01",
+   "pagine": [
+    181
+   ]
+  },
+  {
+   "rv": "670045-01",
+   "cit": "Sez. L, n. 03976/2024, Gnani, Rv. 670045-01",
+   "pagine": [
+    181
+   ]
+  },
+  {
+   "rv": "672000-01",
+   "cit": "Sez. L, n. 18960/2024, Buffa, Rv. 672000-01",
+   "pagine": [
+    181
+   ]
+  },
+  {
+   "rv": "671304-01",
+   "cit": "Sez. L, n. 14858/2024, Gnani, Rv. 671304-01",
+   "pagine": [
+    182
+   ]
+  },
+  {
+   "rv": "669765-01",
+   "cit": "Sez. L, n. 00701/2024, Cavallaro, Rv. 669765-01",
+   "pagine": [
+    182
+   ]
+  },
+  {
+   "rv": "671225-01",
+   "cit": "Sez. L, n. 15294/2024, Buffa, Rv. 671225-01",
+   "pagine": [
+    182
+   ]
+  },
+  {
+   "rv": "672692-01",
+   "cit": "Sez. L, n. 30474/2024, Cerulo, Rv. 672692-01",
+   "pagine": [
+    182
+   ]
+  },
+  {
+   "rv": "669765-02",
+   "cit": "Sez. L, n. 00701/2024, Cavallaro, Rv. 669765-02",
+   "pagine": [
+    182
+   ]
+  },
+  {
+   "rv": "670051-01",
+   "cit": "Sez. L, n. 04528/2024, Solaini, Rv. 670051-01",
+   "pagine": [
+    183
+   ]
+  },
+  {
+   "rv": "670931-01",
+   "cit": "Sez. L, n. 12400/2024, Marchese, Rv. 670931-01",
+   "pagine": [
+    183
+   ]
+  },
+  {
+   "rv": "672690-01",
+   "cit": "Sez. L, n. 28671/2024, Marchese, Rv. 672690-01",
+   "pagine": [
+    183
+   ]
+  },
+  {
+   "rv": "671183-01",
+   "cit": "Sez. L, n. 12833/2024, Cavallaro, Rv. 671183-01",
+   "pagine": [
+    183
+   ]
+  },
+  {
+   "rv": "671009-01",
+   "cit": "Sez. L, n. 11730/2024, Riverso, Rv. 671009-01",
+   "pagine": [
+    183
+   ]
+  },
+  {
+   "rv": "671884-01",
+   "cit": "Sez. L, n. 19985/2024, Gnani, Rv. 671884-01",
+   "pagine": [
+    184
+   ]
+  },
+  {
+   "rv": "670447-01",
+   "cit": "Sez. L, n. 07285/2024, Gnani, Rv. 670447-01",
+   "pagine": [
+    184
+   ]
+  },
+  {
+   "rv": "671001-01",
+   "cit": "Sez. L, n. 11058 /2024, Mancino, Rv. 671001-01",
+   "pagine": [
+    184
+   ]
+  },
+  {
+   "rv": "672693-01",
+   "cit": "Sez. L, n. 30526/2024, Garri F., Rv. 672693-01",
+   "pagine": [
+    184
+   ]
+  },
+  {
+   "rv": "670349-03",
+   "cit": "Sez. L, n. 06154/2024, Cavallaro, Rv. 670349-03",
+   "pagine": [
+    185
+   ]
+  },
+  {
+   "rv": "672240-01",
+   "cit": "Sez. L, n. 24186/2024, Marchese, Rv. 672240-01",
+   "pagine": [
+    185
+   ]
+  },
+  {
+   "rv": "672465-01",
+   "cit": "Sez. L, n. 24584/2024, Man- cino, Rv. 672465-01",
+   "pagine": [
+    185
+   ]
+  },
+  {
+   "rv": "672687-01",
+   "cit": "Sez. L, n. 28594/2024, Cerulo, Rv. 672687-01",
+   "pagine": [
+    185
+   ]
+  },
+  {
+   "rv": "672989-01",
+   "cit": "Sez. L, n. 31060/2024, Cavallaro, Rv. 672989-01",
+   "pagine": [
+    185
+   ]
+  },
+  {
+   "rv": "670536-01",
+   "cit": "Sez. L, n. 07967/2024, Buffa, Rv. 670536-01",
+   "pagine": [
+    186
+   ]
+  },
+  {
+   "rv": "673118-01",
+   "cit": "Sez. L, n. 31403/2024, Cerulo, Rv. 673118-01",
+   "pagine": [
+    186
+   ]
+  },
+  {
+   "rv": "670161-01",
+   "cit": "Sez. L, n. 04729/2024, Buffa, Rv. 670161-01",
+   "pagine": [
+    187
+   ]
+  },
+  {
+   "rv": "673148-01",
+   "cit": "Sez. L, n. 30625/2024, Garri F., Rv. 673148-01",
+   "pagine": [
+    188
+   ]
+  },
+  {
+   "rv": "672228-01",
+   "cit": "Sez. L, n. 23696/2024, Marchese, Rv. 672228-01",
+   "pagine": [
+    188
+   ]
+  },
+  {
+   "rv": "672584-01",
+   "cit": "Sez. L, n. 26092/2024, Marchese, Rv. 672584-01",
+   "pagine": [
+    188
+   ]
+  },
+  {
+   "rv": "672200-01",
+   "cit": "Sez. L, n. 23552/2024, Buffa, Rv. 672200-01",
+   "pagine": [
+    188
+   ]
+  },
+  {
+   "rv": "673326-01",
+   "cit": "Sez. L, n. 34943/2024, Orio, Rv. 673326-01",
+   "pagine": [
+    188
+   ]
+  },
+  {
+   "rv": "672761-01",
+   "cit": "Sez. L, n. 27149/2024, Marchese, Rv. 672761-01",
+   "pagine": [
+    189
+   ]
+  },
+  {
+   "rv": "670598-01",
+   "cit": "Sez. L, n. 07382/2024, Cerulo, Rv. 670598-01",
+   "pagine": [
+    189
+   ]
+  },
+  {
+   "rv": "673120-01",
+   "cit": "Sez. L, n. 31599/2024, Cerulo, Rv. 673120-01",
+   "pagine": [
+    189
+   ]
+  },
+  {
+   "rv": "672683",
+   "cit": "Sez. L, n. 28433/2024, Garri F., Rv. 672683- 01",
+   "pagine": [
+    189
+   ]
+  },
+  {
+   "rv": "669766-01",
+   "cit": "Sez. L, n. 00716/2024, Cerulo, Rv. 669766-01",
+   "pagine": [
+    190
+   ]
+  },
+  {
+   "rv": "670940-01",
+   "cit": "Sez. L, n. 13102/2024, Gnani, Rv. 670940-01",
+   "pagine": [
+    190
+   ]
+  },
+  {
+   "rv": "671007-01",
+   "cit": "Sez. L, n. 11336/2024, Solaini, Rv. 671007-01",
+   "pagine": [
+    190
+   ]
+  },
+  {
+   "rv": "672143-01",
+   "cit": "Sez. L, n. 23414/2024, Cavallaro, Rv. 672143-01",
+   "pagine": [
+    191
+   ]
+  },
+  {
+   "rv": "672666-01",
+   "cit": "Sez. L, n. 27238/2024, Mancino, Rv. 672666-01",
+   "pagine": [
+    191
+   ]
+  },
+  {
+   "rv": "672198-01",
+   "cit": "Sez. L, n. 23411/2024, Cavallaro, Rv. 672198-01",
+   "pagine": [
+    191
+   ]
+  },
+  {
+   "rv": "672144-01",
+   "cit": "Sez. L, n. 23419/2024, Cavallaro, Rv. 672144-01",
+   "pagine": [
+    191
+   ]
+  },
+  {
+   "rv": "673021-01",
+   "cit": "Sez. L, n. 29768/2024, Cavallaro, Rv. 673021-01",
+   "pagine": [
+    191
+   ]
+  },
+  {
+   "rv": "671945-01",
+   "cit": "Sez. L, n. 22227/2024, Buffa, Rv. 671945-01",
+   "pagine": [
+    192
+   ]
+  },
+  {
+   "rv": "672467-01",
+   "cit": "Sez. L, n. 24916/2024, Buffa, Rv. 672467-01",
+   "pagine": [
+    192
+   ]
+  },
+  {
+   "rv": "672468-01",
+   "cit": "Sez. L, n. 24950/2024, Buffa, Rv. 672468-01",
+   "pagine": [
+    192
+   ]
+  },
+  {
+   "rv": "672937-01",
+   "cit": "Sez. L, n. 30258/2024, Buffa, Rv. 672937-01",
+   "pagine": [
+    192
+   ]
+  },
+  {
+   "rv": "672268-01",
+   "cit": "Sez. L, n. 23034/2024, Garri F., Rv. 672268-01",
+   "pagine": [
+    192
+   ]
+  },
+  {
+   "rv": "673298-01",
+   "cit": "Sez. L, n. 32121/2024, Cavallaro, Rv. 673298-01",
+   "pagine": [
+    193
+   ]
+  },
+  {
+   "rv": "670985-01",
+   "cit": "Sez. L, n. 12592/2024, Gnani, Rv. 670985-01",
+   "pagine": [
+    193
+   ]
+  },
+  {
+   "rv": "671036-01",
+   "cit": "Sez. L, n. 11553/2024, Mancino, Rv. 671036-01",
+   "pagine": [
+    193
+   ]
+  },
+  {
+   "rv": "671379-01",
+   "cit": "Sez. L, n. 15041/2024, Buffa, Rv. 671379-01",
+   "pagine": [
+    193
+   ]
+  },
+  {
+   "rv": "671871-01",
+   "cit": "Sez. L, n. 19530/2024, Solaini, Rv. 671871-01",
+   "pagine": [
+    194
+   ]
+  },
+  {
+   "rv": "672236-01",
+   "cit": "Sez. L, n. 23204/2024, Buffa, Rv. 672236-01",
+   "pagine": [
+    194
+   ]
+  },
+  {
+   "rv": "670599-01",
+   "cit": "Sez. L, n. 08636/2024, Gnani, Rv. 670599-01",
+   "pagine": [
+    194
+   ]
+  },
+  {
+   "rv": "670044-01",
+   "cit": "Sez. L, n. 03973/2024, Gnani, Rv. 670044-01",
+   "pagine": [
+    194
+   ]
+  },
+  {
+   "rv": "670050-01",
+   "cit": "Sez. L, n. 04365/2024, Gnani, Rv. 670050-01",
+   "pagine": [
+    195
+   ]
+  },
+  {
+   "rv": "672327-01",
+   "cit": "Sez. L, n. 22059/2024, Marchese, Rv. 672327-01",
+   "pagine": [
+    195
+   ]
+  },
+  {
+   "rv": "671211-01",
+   "cit": "Sez. L, n. 14447/2024, Cavallaro, Rv. 671211-01",
+   "pagine": [
+    195
+   ]
+  },
+  {
+   "rv": "671230-01",
+   "cit": "Sez. L, n. 15453 del 03/06/2024, Gnani, Rv. 671230-01",
+   "pagine": [
+    195
+   ]
+  },
+  {
+   "rv": "672990-01",
+   "cit": "Sez. L, n. 30994/2024, Mancino, Rv. 672990-01",
+   "pagine": [
+    196
+   ]
+  },
+  {
+   "rv": "673539-01",
+   "cit": "Sez. L, n. 30702/2024, Cavallari, Rv. 673539-01",
+   "pagine": [
+    196
+   ]
+  },
+  {
+   "rv": "672679-01",
+   "cit": "Sez. L, n. 27290/2024, Mancino, Rv. 672679-01",
+   "pagine": [
+    196
+   ]
+  },
+  {
+   "rv": "672332-01",
+   "cit": "Sez. L, n. 23039/2024, Garri F., Rv. 672332-01",
+   "pagine": [
+    196
+   ]
+  },
+  {
+   "rv": "670329-01",
+   "cit": "Sez. L, n. 05812/2024, Cerulo, Rv. 670329-01",
+   "pagine": [
+    196
+   ]
+  },
+  {
+   "rv": "670326-01",
+   "cit": "Sez. L, n. 05737/2024, Cerulo, Rv. 670326-01",
+   "pagine": [
+    197
+   ]
+  },
+  {
+   "rv": "670330-01",
+   "cit": "Sez. L, n. 05912/2024, Cerulo, Rv. 670330-01",
+   "pagine": [
+    197
+   ]
+  },
+  {
+   "rv": "669656-01",
+   "cit": "Sez. L, n. 00389/2024, Buffa, Rv. 669656-01",
+   "pagine": [
+    197
+   ]
+  },
+  {
+   "rv": "673542-01",
+   "cit": "Sez. L, n. 34866/2024, Gandini, Rv. 673542-01",
+   "pagine": [
+    197
+   ]
+  },
+  {
+   "rv": "673317-01",
+   "cit": "Sez. L, n. 34491/2024, Gnani, Rv. 673317-01",
+   "pagine": [
+    198
+   ]
+  },
+  {
+   "rv": "670988-01",
+   "cit": "Sez. L, n. 11965/2024, Mancino, Rv. 670988-01",
+   "pagine": [
+    198
+   ]
+  },
+  {
+   "rv": "672299-01",
+   "cit": "Sez. L, n. 22877/2024, Cerulo, Rv. 672299-01",
+   "pagine": [
+    198
+   ]
+  },
+  {
+   "rv": "672303-01",
+   "cit": "Sez. L, n. 22993/2024, Cerulo, Rv. 672303-01",
+   "pagine": [
+    199
+   ]
+  },
+  {
+   "rv": "672304-01",
+   "cit": "Sez. L, n. 23040/2024, Garri F., Rv. 672304-01",
+   "pagine": [
+    199
+   ]
+  },
+  {
+   "rv": "673324-01",
+   "cit": "Sez. L, n. 34894/2024, Gnani, Rv. 673324-01",
+   "pagine": [
+    199
+   ]
+  },
+  {
+   "rv": "672302-01",
+   "cit": "Sez. L, n. 22922/2024, Mar- chese, Rv. 672302-01",
+   "pagine": [
+    200
+   ]
+  },
+  {
+   "rv": "669768-01",
+   "cit": "Sez. L, n. 00846/2024, Gnani, Rv. 669768-01",
+   "pagine": [
+    200
+   ]
+  },
+  {
+   "rv": "672301-01",
+   "cit": "Sez. L, n. 22921/2024, Cavallaro, Rv. 672301-01",
+   "pagine": [
+    200
+   ]
+  },
+  {
+   "rv": "669710-02",
+   "cit": "Sez. L, n. 00396/2024, Rv. 669710-02",
+   "pagine": [
+    200
+   ]
+  },
+  {
+   "rv": "673182-01",
+   "cit": "Sez. L, n. 31398/2024, Gandini, Rv. 673182-01",
+   "pagine": [
+    200
+   ]
+  },
+  {
+   "rv": "669710-01",
+   "cit": "Sez. L, n. 00396/2024, Buffa, Rv. 669710-01",
+   "pagine": [
+    200
+   ]
+  },
+  {
+   "rv": "673323-01",
+   "cit": "Sez. L, n. 34861/2024, Gandini, Rv. 673323-01",
+   "pagine": [
+    201
+   ]
+  },
+  {
+   "rv": "673313-01",
+   "cit": "Sez. L, n. 33891/2024, Solaini, Rv. 673313-01",
+   "pagine": [
+    201
+   ]
+  },
+  {
+   "rv": "672694-01",
+   "cit": "Sez. L, n. 27350/2024, Pagetta, Rv. 672694-01",
+   "pagine": [
+    201
+   ]
+  },
+  {
+   "rv": "671580-01",
+   "cit": "Sez. L, n. 16740/2024, Gnani, Rv. 671580-01",
+   "pagine": [
+    201
+   ]
+  },
+  {
+   "rv": "672331-01",
+   "cit": "Sez. L, n. 23499/2024, Garri F., Rv. 672331-01",
+   "pagine": [
+    202
+   ]
+  },
+  {
+   "rv": "671581-01",
+   "cit": "Sez. L, n. 16833/2024, Gnani, Rv. 671581-01",
+   "pagine": [
+    202
+   ]
+  },
+  {
+   "rv": "672199-01",
+   "cit": "Sez. L, n. 23474/2024, Buffa, Rv. 672199-01",
+   "pagine": [
+    202
+   ]
+  },
+  {
+   "rv": "673315-01",
+   "cit": "Sez. L, n. 34283/2024, Cavallaro, Rv. 673315-01",
+   "pagine": [
+    202
+   ]
+  },
+  {
+   "rv": "670601-01",
+   "cit": "Sez. L, n. 09009/2024, Rv. 670601-01",
+   "pagine": [
+    202
+   ]
+  },
+  {
+   "rv": "671272-01",
+   "cit": "Sez. L, n. 15597/2024, Cavallari, Rv. 671272-01",
+   "pagine": [
+    203
+   ]
+  },
+  {
+   "rv": "671270-01",
+   "cit": "Sez. L, n. 14626/2024, Tricomi, Rv. 671270-01",
+   "pagine": [
+    203
+   ]
+  },
+  {
+   "rv": "672656-01",
+   "cit": "Sez. L, n. 26580/2024, Solaini, Rv. 672656-01",
+   "pagine": [
+    204
+   ]
+  },
+  {
+   "rv": "669706-01",
+   "cit": "Sez. L, n. 00357/2024, Garri F., Rv. 669706-01",
+   "pagine": [
+    204
+   ]
+  },
+  {
+   "rv": "673062-01",
+   "cit": "Sez. L, n. 29689/2024, Marchese, Rv. 673062-01",
+   "pagine": [
+    204
+   ]
+  },
+  {
+   "rv": "670041-01",
+   "cit": "Sez. L, n. 03523/2024, Cerulo, Rv. 670041-01",
+   "pagine": [
+    204
+   ]
+  },
+  {
+   "rv": "669860-01",
+   "cit": "Sez. L, n. 02691/2024, Buffa, Rv. 669860-01",
+   "pagine": [
+    204
+   ]
+  },
+  {
+   "rv": "671008-01",
+   "cit": "Sez. L, n. 11659/2024, Cerulo, Rv. 671008-01",
+   "pagine": [
+    205
+   ]
+  },
+  {
+   "rv": "672197-01",
+   "cit": "Sez. L, n. 23325/2024, Cavallaro, Rv. 672197-01",
+   "pagine": [
+    205
+   ]
+  },
+  {
+   "rv": "672627-01",
+   "cit": "Sez. L, n. 26620/2024, Solaini, Rv. 672627-01",
+   "pagine": [
+    205
+   ]
+  },
+  {
+   "rv": "669702-01",
+   "cit": "Sez. L, n. 00220/2024, Cerulo, Rv. 669702-01",
+   "pagine": [
+    207
+   ]
+  },
+  {
+   "rv": "673063-01",
+   "cit": "Sez. L, n. 29731/2024, Buffa, Rv. 673063-01",
+   "pagine": [
+    207
+   ]
+  },
+  {
+   "rv": "672691-01",
+   "cit": "Sez. L, n. 28846 del 08/11/2024, Buffa, Rv. 672691-01",
+   "pagine": [
+    207
+   ]
+  },
+  {
+   "rv": "673067-01",
+   "cit": "Sez. L, n. 30152/2024, Marchese, Rv. 673067-01",
+   "pagine": [
+    208
+   ]
+  },
+  {
+   "rv": "672696-01",
+   "cit": "Sez. L, n. 30436/2024, Gnani, Rv. 672696-01",
+   "pagine": [
+    208
+   ]
+  },
+  {
+   "rv": "672991-01",
+   "cit": "Sez. L, n. 30820/2024, Cavallaro, Rv. 672991-01",
+   "pagine": [
+    208
+   ]
+  },
+  {
+   "rv": "672945-01",
+   "cit": "Sez. L, n. 30816/2024, Cavallaro, Rv. 672945-01",
+   "pagine": [
+    208
+   ]
+  },
+  {
+   "rv": "673318-01",
+   "cit": "Sez. L, n. 34503/2024, Marchese, Rv. 673318-01",
+   "pagine": [
+    209
+   ]
+  },
+  {
+   "rv": "669651-01",
+   "cit": "Sez. L, n. 00287/2024, Solaini, Rv. 669651-01",
+   "pagine": [
+    209
+   ]
+  },
+  {
+   "rv": "670906-01",
+   "cit": "Sez. L, n. 12595/2024, Buffa, Rv. 670906-01",
+   "pagine": [
+    209
+   ]
+  },
+  {
+   "rv": "671305-01",
+   "cit": "Sez. L, n. 16610/2024, Cerulo, Rv. 671305-01",
+   "pagine": [
+    210
+   ]
+  },
+  {
+   "rv": "673316-01",
+   "cit": "Sez. L, n. 34299/2024, Cavallaro, Rv. 673316-01",
+   "pagine": [
+    210
+   ]
+  },
+  {
+   "rv": "673322-01",
+   "cit": "Sez. L, n. 34714/2024, Magnanensi, Rv. 673322-01",
+   "pagine": [
+    210
+   ]
+  },
+  {
+   "rv": "671918-01",
+   "cit": "Sez. L, n. 16875/2024, Marchese, Rv. 671918-01",
+   "pagine": [
+    210
+   ]
+  },
+  {
+   "rv": "673200-01",
+   "cit": "Sez. L, n. 31577/2024, Gnani, Rv. 673200-01",
+   "pagine": [
+    210
+   ]
+  },
+  {
+   "rv": "669764-01",
+   "cit": "Sez. L, n. 00620/2024, Buffa, Rv. 669764-01",
+   "pagine": [
+    211
+   ]
+  },
+  {
+   "rv": "672947-01",
+   "cit": "Sez. L, n. 31191/2024, Marchese, Rv. 672947-01",
+   "pagine": [
+    211
+   ]
+  },
+  {
+   "rv": "672636-01",
+   "cit": "Sez. L, n. 27141/2024, Mancino, Rv. 672636-01",
+   "pagine": [
+    211
+   ]
+  },
+  {
+   "rv": "670997-01",
+   "cit": "Sez. L, n. 10728/2024, Cavallaro, Rv. 670997-01",
+   "pagine": [
+    211
+   ]
+  },
+  {
+   "rv": "670453-01",
+   "cit": "Sez. L, n. 07225/2024, Riverso, Rv. 670453-01",
+   "pagine": [
+    212
+   ]
+  },
+  {
+   "rv": "670448-01",
+   "cit": "Sez. L, n. 07288/2024, Cavallari, Rv. 670448-01",
+   "pagine": [
+    212
+   ]
+  },
+  {
+   "rv": "670939-01",
+   "cit": "Sez. L, n. 13006/2024, Solaini, Rv. 670939-01",
+   "pagine": [
+    213
+   ]
+  },
+  {
+   "rv": "671927-01",
+   "cit": "Sez. L, n. 22592/2024, Garri F., Rv. 671927-01",
+   "pagine": [
+    213
+   ]
+  },
+  {
+   "rv": "672300-01",
+   "cit": "Sez. L, n. 22897/2024, Garri F., Rv. 672300-01",
+   "pagine": [
+    213
+   ]
+  },
+  {
+   "rv": "671584-01",
+   "cit": "Sez. L, n. 16905/2024, Cavallaro, Rv. 671584-01",
+   "pagine": [
+    214
+   ]
+  },
+  {
+   "rv": "672734-01",
+   "cit": "Sez. L, n. 28326/2024, Solaini, Rv. 672734-01",
+   "pagine": [
+    214
+   ]
+  },
+  {
+   "rv": "673015-01",
+   "cit": "Sez. L, n. 30435/2024, Solaini, Rv. 673015-01",
+   "pagine": [
+    214
+   ]
+  },
+  {
+   "rv": "671004-01",
+   "cit": "Sez. L, n. 11218/2024, Mancino, Rv. 671004-01",
+   "pagine": [
+    214
+   ]
+  },
+  {
+   "rv": "670907-01",
+   "cit": "Sez. L, n. 12777/2024, Buffa, Rv. 670907-01",
+   "pagine": [
+    214
+   ]
+  },
+  {
+   "rv": "671197-01",
+   "cit": "Sez. L, n. 13023/2024, Buffa, Rv. 671197-01",
+   "pagine": [
+    215
+   ]
+  },
+  {
+   "rv": "673220-01",
+   "cit": "Sez. L, n. 32168/2024, Marchese, Rv. 673220-01",
+   "pagine": [
+    215
+   ]
+  },
+  {
+   "rv": "672910-01",
+   "cit": "Sez. 3, n. 29950/2024, Rossetti, Rv. 672910-01",
+   "pagine": [
+    215
+   ]
+  },
+  {
+   "rv": "670689-01",
+   "cit": "Sez. L, n. 10015/2024, Gnani, Rv. 670689-01",
+   "pagine": [
+    216
+   ]
+  },
+  {
+   "rv": "673068-01",
+   "cit": "Sez. L, n. 30191/2024, Cavallaro, Rv. 673068-01",
+   "pagine": [
+    216
+   ]
+  },
+  {
+   "rv": "672074-01",
+   "cit": "Sez. L, n. 20684/2024, Magnanensi, Rv. 672074-01",
+   "pagine": [
+    216
+   ]
+  },
+  {
+   "rv": "672194-01",
+   "cit": "Sez. L, n. 23257/2024, Magnanensi, Rv. 672194-01",
+   "pagine": [
+    217
+   ]
+  },
+  {
+   "rv": "673060-02",
+   "cit": "Sez. L, n. 29600/2024, Orio, Rv. 673060-02",
+   "pagine": [
+    218
+   ]
+  },
+  {
+   "rv": "673064-01",
+   "cit": "Sez. L, n. 29965/2024, Magnanesi, Rv. 673064-01",
+   "pagine": [
+    218
+   ]
+  },
+  {
+   "rv": "673325-01",
+   "cit": "Sez. L, n. 34937/2024, Gandini, Rv. 673325-01",
+   "pagine": [
+    218
+   ]
+  },
+  {
+   "rv": "671898-01",
+   "cit": "Sez. L, n. 18395/2024, Gnani, Rv. 671898-01",
+   "pagine": [
+    218
+   ]
+  },
+  {
+   "rv": "673014-01",
+   "cit": "Sez. L, n. 30315/2024, Garri F., Rv. 673014-01",
+   "pagine": [
+    218
+   ]
+  },
+  {
+   "rv": "672688-01",
+   "cit": "Sez. L, n. 28652/2024, Buffa, Rv. 672688-01",
+   "pagine": [
+    218
+   ]
+  },
+  {
+   "rv": "672306-01",
+   "cit": "Sez. L, n. 22903/2024, Cerulo, Rv. 672306-01",
+   "pagine": [
+    219
+   ]
+  },
+  {
+   "rv": "673016-01",
+   "cit": "Sez. L, n. 28972/2024, Gnani, Rv. 673016-01",
+   "pagine": [
+    219
+   ]
+  },
+  {
+   "rv": "668209-01",
+   "cit": "Sez. L, n. 18477/2023, Patti, (Rv. 668209-01",
+   "pagine": [
+    220
+   ]
+  },
+  {
+   "rv": "671002-01",
+   "cit": "Sez. L, n. 11198/2024, Mancino, Rv. 671002-01",
+   "pagine": [
+    220
+   ]
+  },
+  {
+   "rv": "671587-01",
+   "cit": "Sez. L, n. 17111/2024, Solaini, Rv. 671587-01",
+   "pagine": [
+    220
+   ]
+  },
+  {
+   "rv": "671207-01",
+   "cit": "Sez. L, n. 14139/2024, Cavallari, Rv. 671207-01",
+   "pagine": [
+    221
+   ]
+  },
+  {
+   "rv": "671583-01",
+   "cit": "Sez. L, n. 16878/2024, Solaini, Rv. 671583-01",
+   "pagine": [
+    221
+   ]
+  },
+  {
+   "rv": "671948-01",
+   "cit": "Sez. L, n. 20963/2024, Cinque, Rv. 671948-01",
+   "pagine": [
+    221
+   ]
+  },
+  {
+   "rv": "651960-01",
+   "cit": "Sez. U, n. 32773/2018, Scaldaferri, Rv. 651960-01",
+   "pagine": [
+    222
+   ]
+  },
+  {
+   "rv": "665662",
+   "cit": "Sez. U, n. 27174/2022, Scarpa, Rv. 665662- 01",
+   "pagine": [
+    222
+   ]
+  },
+  {
+   "rv": "672847-01",
+   "cit": "Sez. U, n. 30605/2024, Di Paolantonio, Rv. 672847-01",
+   "pagine": [
+    222
+   ]
+  },
+  {
+   "rv": "672485-01",
+   "cit": "Sez. 1, n. 25027/2024, Reggiani, Rv. 672485-01",
+   "pagine": [
+    222
+   ]
+  },
+  {
+   "rv": "670666-02",
+   "cit": "Sez. U, n. 9448/2024, Mercolino, Rv. 670666-02",
+   "pagine": [
+    223
+   ]
+  },
+  {
+   "rv": "671025-01",
+   "cit": "Sez. 1, n. 8868/2024, D’Orazio, Rv. 671025-01",
+   "pagine": [
+    223
+   ]
+  },
+  {
+   "rv": "670208-01",
+   "cit": "Sez. T, n. 2640/2024, Paolitto, Rv. 670208-01",
+   "pagine": [
+    223
+   ]
+  },
+  {
+   "rv": "672485-02",
+   "cit": "Sez. 1, n. 25027/2024, Reggiani, Rv. 672485-02",
+   "pagine": [
+    223
+   ]
+  },
+  {
+   "rv": "672779-01",
+   "cit": "Sez. 1, n. 27354/2024, D’Orazio, Rv. 672779-01",
+   "pagine": [
+    224
+   ]
+  },
+  {
+   "rv": "672484-02",
+   "cit": "Sez. 1, n. 25109/2024, D’Orazio, Rv. 672484-02",
+   "pagine": [
+    224
+   ]
+  },
+  {
+   "rv": "672879-01",
+   "cit": "Sez. 1, n. 28808/2024, Russo, Rv. 672879-01",
+   "pagine": [
+    224
+   ]
+  },
+  {
+   "rv": "672518-01",
+   "cit": "Sez. 1, n. 23961/2024, D’O- razio, Rv. 672518-01",
+   "pagine": [
+    224
+   ]
+  },
+  {
+   "rv": "672405-01",
+   "cit": "Sez. 1, n. 25154/2024, Mer- colino, Rv. 672405-01",
+   "pagine": [
+    225
+   ]
+  },
+  {
+   "rv": "627217-01",
+   "cit": "Sez. U, n. 17868/2013, Botta, Rv. 627217-01",
+   "pagine": [
+    225
+   ]
+  },
+  {
+   "rv": "671115-01",
+   "cit": "Sez. 1, n. 11608/2024, Reggiani, Rv. 671115-01",
+   "pagine": [
+    225
+   ]
+  },
+  {
+   "rv": "672486-01",
+   "cit": "Sez. 1, n. 25162/2024, Marulli, Rv. 672486-01",
+   "pagine": [
+    225
+   ]
+  },
+  {
+   "rv": "672419-02",
+   "cit": "Sez. 1, n. 25707/2024, Reggiani, Rv. 672419-02",
+   "pagine": [
+    225
+   ]
+  },
+  {
+   "rv": "670564-01",
+   "cit": "Sez. 1, n. 8163/2024, Parise, Rv. 670564-01",
+   "pagine": [
+    226
+   ]
+  },
+  {
+   "rv": "672479-01",
+   "cit": "Sez. 1, n. 24122/2024, Caiazzo, Rv. 672479-01",
+   "pagine": [
+    226
+   ]
+  },
+  {
+   "rv": "672748-01",
+   "cit": "Sez. 1, n. 25972/2024, D’Orazio, Rv. 672748-01",
+   "pagine": [
+    226
+   ]
+  },
+  {
+   "rv": "672410-01",
+   "cit": "Sez. 1, n. 25203/2024, Marulli, Rv. 672410-01",
+   "pagine": [
+    226
+   ]
+  },
+  {
+   "rv": "671814-01",
+   "cit": "Sez. 3, n. 19806/2024, Rubino, Rv. 671814-01",
+   "pagine": [
+    226
+   ]
+  },
+  {
+   "rv": "671711-01",
+   "cit": "Sez. 2, n. 17585/2024, Grasso, Rv. 671711-01",
+   "pagine": [
+    227
+   ]
+  },
+  {
+   "rv": "673227-01",
+   "cit": "Sez. 1, n. 31365/2024, D’Orazio, Rv. 673227-01",
+   "pagine": [
+    227
+   ]
+  },
+  {
+   "rv": "671328-01",
+   "cit": "Sez. 1, n. 11767/2024, D’Orazio, Rv. 671328-01",
+   "pagine": [
+    227
+   ]
+  },
+  {
+   "rv": "648780-01",
+   "cit": "Sez. 1, n. 12468/2018, Lamorgese, Rv. 648780-01",
+   "pagine": [
+    227
+   ]
+  },
+  {
+   "rv": "670480-02",
+   "cit": "Sez. 1, n. 6977/2024, Lamorgese, Rv. 670480-02",
+   "pagine": [
+    228
+   ]
+  },
+  {
+   "rv": "663582-01",
+   "cit": "Sez. U, n. 758/2022, Lamorgese, Rv. 663582-01",
+   "pagine": [
+    228
+   ]
+  },
+  {
+   "rv": "672478-01",
+   "cit": "Sez. 1, n. 24000/2024, D’Orazio, Rv. 672478-01",
+   "pagine": [
+    228
+   ]
+  },
+  {
+   "rv": "670634-01",
+   "cit": "Sez. 1, n. 6593/2024, Reggiani, Rv. 670634-01",
+   "pagine": [
+    228
+   ]
+  },
+  {
+   "rv": "672412-01",
+   "cit": "Sez. 1, n. 25246/2024, Marulli, Rv. 672412-01",
+   "pagine": [
+    228
+   ]
+  },
+  {
+   "rv": "672484-01",
+   "cit": "Sez. 1, n. 25109/2024, D’Orazio, Rv. 672484-01",
+   "pagine": [
+    229
+   ]
+  },
+  {
+   "rv": "670480-01",
+   "cit": "Sez. 1, n. 6977/2024, Lamorgese, Rv. 670480-01",
+   "pagine": [
+    229
+   ]
+  },
+  {
+   "rv": "673083-01",
+   "cit": "Sez. 1, n. 29245/2024, D’Orazio, Rv. 673083-01",
+   "pagine": [
+    229
+   ]
+  },
+  {
+   "rv": "648781-01",
+   "cit": "Sez. 1, n. 12846/2018, Marulli, Rv. 648781-01",
+   "pagine": [
+    229
+   ]
+  },
+  {
+   "rv": "671663-01",
+   "cit": "Sez. 1, n. 18222/2024, Russo, Rv. 671663-01",
+   "pagine": [
+    229
+   ]
+  },
+  {
+   "rv": "672875-02",
+   "cit": "Sez. 1, n. 28423/2024, Marulli, Rv. 672875-02",
+   "pagine": [
+    229
+   ]
+  },
+  {
+   "rv": "672768-01",
+   "cit": "Sez. 1, n. 27137/2024, D’Orazio, Rv. 672768-01",
+   "pagine": [
+    230
+   ]
+  },
+  {
+   "rv": "672773-01",
+   "cit": "Sez. 1, n. 27260/2024, D’Orazio, Rv. 672773-01",
+   "pagine": [
+    230
+   ]
+  },
+  {
+   "rv": "670972",
+   "cit": "Sez. 1, n. 10500/2024, Terrusi, Rv. 670972- 01",
+   "pagine": [
+    230
+   ]
+  },
+  {
+   "rv": "672822-01",
+   "cit": "Sez. 2, n. 27703/2024, Varrone, Rv. 672822-01",
+   "pagine": [
+    231
+   ]
+  },
+  {
+   "rv": "673358-01",
+   "cit": "Sez. 1, n. 32676/2024, Reggiani, Rv. 673358-01",
+   "pagine": [
+    231
+   ]
+  },
+  {
+   "rv": "672788-01",
+   "cit": "Sez. 1, n. 27694/2024, Varotti, Rv. 672788-01",
+   "pagine": [
+    231
+   ]
+  },
+  {
+   "rv": "669985-01",
+   "cit": "Sez. 2, n. 02173/2024, Papa, Rv. 669985-01",
+   "pagine": [
+    231
+   ]
+  },
+  {
+   "rv": "673364-01",
+   "cit": "Sez. 1, n. 34430/2024, Varotti, Rv. 673364-01",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "672359-02",
+   "cit": "Sez. 1, n. 24086/2024, Parise, Rv. 672359-02",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "670290-01",
+   "cit": "Sez. 2, n. 03353/2024, Guida, Rv. 670290-01",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "673084-01",
+   "cit": "Sez. 1, n. 29262/2024, Varotti, Rv. 673084-01",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "669999-01",
+   "cit": "Sez. 2, n. 03318/2024, Fortunato, Rv. 669999-01",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "672791-01",
+   "cit": "Sez. 1, n. 27830/2024, D’O- razio, Rv. 672791-01",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "671145-01",
+   "cit": "Sez. 3, n. 13157/2024, Tatangelo, Rv. 671145-01",
+   "pagine": [
+    232
+   ]
+  },
+  {
+   "rv": "670883-01",
+   "cit": "Sez. 1, n. 10603/2024, Mercolino, Rv. 670883-01",
+   "pagine": [
+    233
+   ]
+  },
+  {
+   "rv": "671465-01",
+   "cit": "Sez. 1, n. 14522/2024, Fidanzia, Rv. 671465-01",
+   "pagine": [
+    233
+   ]
+  },
+  {
+   "rv": "670305-01",
+   "cit": "Sez. 2, n. 03721/2024, Cavallino, Rv. 670305-01",
+   "pagine": [
+    233
+   ]
+  },
+  {
+   "rv": "671450-01",
+   "cit": "Sez. 1, n. 11904/2024, Mercolino, Rv. 671450-01",
+   "pagine": [
+    233
+   ]
+  },
+  {
+   "rv": "671450-02",
+   "cit": "Sez. 1, n. 11904/2024, Mercolino, Rv. 671450-02",
+   "pagine": [
+    233
+   ]
+  },
+  {
+   "rv": "671450-03",
+   "cit": "Sez. 1, n. 11904/2024, Mercolino, Rv. 671450-03",
+   "pagine": [
+    233
+   ]
+  },
+  {
+   "rv": "671465-02",
+   "cit": "Sez. 1, n. 14522/2024, Fidanzia, Rv. 671465-02",
+   "pagine": [
+    234
+   ]
+  },
+  {
+   "rv": "673350-02",
+   "cit": "Sez. 3, n. 34984/2024, Spaziani, Rv. 673350-02",
+   "pagine": [
+    234
+   ]
+  },
+  {
+   "rv": "673404-01",
+   "cit": "Sez. 1, n. 33941/2024, D’Orazio, Rv. 673404-01",
+   "pagine": [
+    234
+   ]
+  },
+  {
+   "rv": "673510-01",
+   "cit": "Sez. 1, n. 30956/2024, Caiazzo, Rv. 673510-01",
+   "pagine": [
+    234
+   ]
+  },
+  {
+   "rv": "673397-01",
+   "cit": "Sez. 1, n. 35053/2024, Zuliani, Rv. 673397-01",
+   "pagine": [
+    235
+   ]
+  },
+  {
+   "rv": "650213-01",
+   "cit": "Sez. L., n. 21378/2018, Torrice, Rv. 650213-01",
+   "pagine": [
+    238
+   ]
+  },
+  {
+   "rv": "648740-01",
+   "cit": "Sez. L, n. 13480/2018, De Felice, Rv. 648740-01",
+   "pagine": [
+    238
+   ]
+  },
+  {
+   "rv": "671217-01",
+   "cit": "Sez. L, n. 14751/2024, Panariello, Rv. 671217-01",
+   "pagine": [
+    239
+   ]
+  },
+  {
+   "rv": "666949-01",
+   "cit": "Sez. L, n. 06171/2023, Piccone, Rv. 666949-01",
+   "pagine": [
+    239
+   ]
+  },
+  {
+   "rv": "672421-01",
+   "cit": "Sez. 2, n. 23726/2024, Fortunato, Rv. 672421-01",
+   "pagine": [
+    239
+   ]
+  },
+  {
+   "rv": "659212-01",
+   "cit": "Sez. 6-2, n. 18158/2020, Tedesco, Rv. 659212-01",
+   "pagine": [
+    240
+   ]
+  },
+  {
+   "rv": "655278-01",
+   "cit": "Sez. 6-2, n. 21146/2019, Carrato, Rv. 655278-01",
+   "pagine": [
+    240
+   ]
+  },
+  {
+   "rv": "611243-01",
+   "cit": "Sez. U, n. 01786/2010, Goldoni, Rv. 611243-01",
+   "pagine": [
+    240
+   ]
+  },
+  {
+   "rv": "648753-01",
+   "cit": "Sez. 2, n. 12503/2018, Carrato, Rv. 648753-01",
+   "pagine": [
+    240
+   ]
+  },
+  {
+   "rv": "648150-01",
+   "cit": "Sez. 2, n. 09286/2018, Criscuolo, Rv. 648150-01",
+   "pagine": [
+    240
+   ]
+  },
+  {
+   "rv": "651033-01",
+   "cit": "Sez. 2, n. 27909/2018, Picaroni, Rv. 651033-01",
+   "pagine": [
+    241
+   ]
+  },
+  {
+   "rv": "657117-01",
+   "cit": "Sez. 2, n. 04962/2020, Varrone, Rv. 657117-01",
+   "pagine": [
+    241
+   ]
+  },
+  {
+   "rv": "673034-01",
+   "cit": "Sez. 2, n. 29315/2024, Var- rone, Rv. 673034-01",
+   "pagine": [
+    242
+   ]
+  },
+  {
+   "rv": "672714-01",
+   "cit": "Sez. T, n. 27651/2024, Rosetti, Rv. 672714-01",
+   "pagine": [
+    242
+   ]
+  },
+  {
+   "rv": "668913-01",
+   "cit": "Sez. 2, n. 24299/2023, Papa, Rv. 668913-01",
+   "pagine": [
+    242
+   ]
+  },
+  {
+   "rv": "668804-02",
+   "cit": "Sez. 2, n. 24386/2023, Papa, Rv. 668804-02",
+   "pagine": [
+    243
+   ]
+  },
+  {
+   "rv": "673454-01",
+   "cit": "Sez. 2, n. 32082/2024, Falaschi, Rv. 673454-01",
+   "pagine": [
+    243
+   ]
+  },
+  {
+   "rv": "672095-01",
+   "cit": "Sez. L, n. 20977/2024, Cinque, Rv. 672095-01",
+   "pagine": [
+    243
+   ]
+  },
+  {
+   "rv": "672907-01",
+   "cit": "Sez. 3, n. 29884/2024, Condello, Rv. 672907-01",
+   "pagine": [
+    243
+   ]
+  },
+  {
+   "rv": "671781-02",
+   "cit": "Sez. 2, n. 19957/2024, Oliva, Rv. 671781-02",
+   "pagine": [
+    243
+   ]
+  },
+  {
+   "rv": "671775-01",
+   "cit": "Sez. 2, n. 19716/2024, Manna, Rv. 671775-01",
+   "pagine": [
+    244
+   ]
+  },
+  {
+   "rv": "671906-01",
+   "cit": "Sez. 2, n. 21541/2024, Guida, Rv. 671906-01",
+   "pagine": [
+    244
+   ]
+  },
+  {
+   "rv": "673041-01",
+   "cit": "Sez. 2, n. 29801/2024, Besso Marcheis, Rv. 673041-01",
+   "pagine": [
+    244
+   ]
+  },
+  {
+   "rv": "672090-01",
+   "cit": "Sez. U, n. 22891/2024, Giusti, Rv. 672090-01",
+   "pagine": [
+    244
+   ]
+  },
+  {
+   "rv": "671521-01",
+   "cit": "Sez. U, n. 16031/2024, Scoditti, Rv. 671521-01",
+   "pagine": [
+    245
+   ]
+  },
+  {
+   "rv": "670071-01",
+   "cit": "Sez. 3, n. 2577/2024, Condello, Rv. 670071-01",
+   "pagine": [
+    245
+   ]
+  },
+  {
+   "rv": "670379-01",
+   "cit": "Sez. 2, n. 5133/2024, Bertuzzi, Rv. 670379-01",
+   "pagine": [
+    245
+   ]
+  },
+  {
+   "rv": "670741-01",
+   "cit": "Sez. 2, n. 10224/2024, Criscuolo, Rv. 670741-01",
+   "pagine": [
+    245
+   ]
+  },
+  {
+   "rv": "670319-01",
+   "cit": "Sez. 2, n. 5124/2024, Bertuzzi, Rv. 670319-01",
+   "pagine": [
+    245
+   ]
+  },
+  {
+   "rv": "672576-01",
+   "cit": "Sez. 3, n. 29388/2024, Rossi, Rv. 672576-01",
+   "pagine": [
+    246
+   ]
+  },
+  {
+   "rv": "670499-01",
+   "cit": "Sez. 2, n. 6790/2024, Besso Marcheis, Rv. 670499-01",
+   "pagine": [
+    246
+   ]
+  },
+  {
+   "rv": "670925-01",
+   "cit": "Sez. 6, n. 07704/2022, Fortunato, non massimata). Sez. T, n. 12722/2024, Crivelli, Rv. 670925-01",
+   "pagine": [
+    246
+   ]
+  },
+  {
+   "rv": "670551-01",
+   "cit": "Sez. T, n. 5115/2024, Fracanzani, Rv. 670551-01",
+   "pagine": [
+    246
+   ]
+  },
+  {
+   "rv": "670313-02",
+   "cit": "Sez. 2, n. 4006/2024, Carrato, Rv. 670313-02",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "672011",
+   "cit": "Sez. T, n. 20823/2024, Caradonna, Rv. 672011- 01",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "672030-01",
+   "cit": "Sez. T, n. 20697/2024, Caradonna, Rv. 672030-01",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "672012-01",
+   "cit": "Sez. T, n. 21092/2024, Salemme, Rv. 672012-01",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "671984-01",
+   "cit": "Sez. 2, n. 21397/2024, Guida, Rv. 671984-01",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "672377-01",
+   "cit": "Sez. T, n. 25222/2024, Lume, Rv. 672377-01",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "652721-02",
+   "cit": "Sez. T, n. 05577/2019, D’Orazio, Rv. 652721-02",
+   "pagine": [
+    247
+   ]
+  },
+  {
+   "rv": "672151-02",
+   "cit": "Sez. T, n. 23572/2024, Gori, Rv. 672151-02",
+   "pagine": [
+    248
+   ]
+  },
+  {
+   "rv": "671905-01",
+   "cit": "Sez. 2, n. 21500/2024, Scarpa, Rv. 671905-01",
+   "pagine": [
+    248
+   ]
+  },
+  {
+   "rv": "669969",
+   "cit": "Sez. 2, n. 1154/2024, Amato, Rv. 669969- 02",
+   "pagine": [
+    248
+   ]
+  },
+  {
+   "rv": "672289-01",
+   "cit": "Sez. 2, n. 24401/2024, Amato, Rv. 672289-01",
+   "pagine": [
+    248
+   ]
+  },
+  {
+   "rv": "672804-01",
+   "cit": "Sez. 2, n. 27009/2024, Carrato, Rv. 672804-01",
+   "pagine": [
+    248
+   ]
+  },
+  {
+   "rv": "672804-02",
+   "cit": "Sez. 2, n. 27009/2024, Carrato, Rv. 672804-02",
+   "pagine": [
+    248
+   ]
+  },
+  {
+   "rv": "672804-03",
+   "cit": "Sez. 2, n. 27009/2024, Carrato, Rv. 672804-03",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "672801-01",
+   "cit": "Sez. 2, n. 26766/2024, Guida, Rv. 672801-01",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "672801-05",
+   "cit": "Sez. 2, n. 26766/2024, Guida, Rv. 672801-05",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "672801-02",
+   "cit": "Sez. 2, n. 26766/2024, Guida, Rv. 672801-02",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "672801-03",
+   "cit": "Sez. 2, n. 26766/2024, Guida, Rv. 672801-03",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "671491-01",
+   "cit": "Sez. 2, n. 12323/2024, Carrato, Rv. 671491-01",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "670744-01",
+   "cit": "Sez. 2, n. 10348/2024, Criscuolo, Rv. 670744-01",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "669977-01",
+   "cit": "Sez. 2, n. 1624/2024, Bertuzzi, Rv. 669977-01",
+   "pagine": [
+    249
+   ]
+  },
+  {
+   "rv": "673505-01",
+   "cit": "Sez. 2, n. 33255/2024, Guida, Rv. 673505-01",
+   "pagine": [
+    250
+   ]
+  },
+  {
+   "rv": "673090-01",
+   "cit": "Sez. 2, n. 29655/2024, Scarpa, Rv. 673090-01",
+   "pagine": [
+    250
+   ]
+  },
+  {
+   "rv": "672177-01",
+   "cit": "Sez. 2, n. 21894/2024, Papa, Rv. 672177-01",
+   "pagine": [
+    250
+   ]
+  },
+  {
+   "rv": "673449-01",
+   "cit": "Sez. 2, n. 31747/2024, Besso Marcheis, Rv. 673449-01",
+   "pagine": [
+    250
+   ]
+  },
+  {
+   "rv": "660403-01",
+   "cit": "Sez. U, n. 02866/2021, Oricchio, Rv. 660403-01",
+   "pagine": [
+    251
+   ]
+  },
+  {
+   "rv": "650355-01",
+   "cit": "Sez. 6-2, n. 22000/2018, Carrato, Rv. 650355-01",
+   "pagine": [
+    251
+   ]
+  },
+  {
+   "rv": "668719-01",
+   "cit": "Sez. 2, n. 23817/2023, Rolfi, Rv. 668719-01",
+   "pagine": [
+    251
+   ]
+  },
+  {
+   "rv": "667284",
+   "cit": "Sez. 2, n. 06722/2023, Carrato, Rv. 667284",
+   "pagine": [
+    251
+   ]
+  },
+  {
+   "rv": "666802",
+   "cit": "Sez. 2, n. 03426/2023, Amato, Rv. 666802",
+   "pagine": [
+    251
+   ]
+  },
+  {
+   "rv": "673142-01",
+   "cit": "Sez. 2, n. 30129/2024, Caponi, Rv. 673142-01",
+   "pagine": [
+    251
+   ]
+  },
+  {
+   "rv": "668051-01",
+   "cit": "Sez. 2, n. 16772/2023, Caponi, Rv. 668051-01",
+   "pagine": [
+    252
+   ]
+  },
+  {
+   "rv": "664208-01",
+   "cit": "Sez. 2, n. 07364/2022, Cavallari, Rv. 664208-01",
+   "pagine": [
+    252
+   ]
+  },
+  {
+   "rv": "664915-01",
+   "cit": "Sez. 6-2, n. 14304/2022, Varrone, Rv. 664915-01",
+   "pagine": [
+    252
+   ]
+  },
+  {
+   "rv": "672575-01",
+   "cit": "Sez. 3, n. 29383/2024, Rossi, Rv. 672575-01",
+   "pagine": [
+    252
+   ]
+  },
+  {
+   "rv": "671147-01",
+   "cit": "Sez. 3, n. 13304/2024, Tatangelo, Rv. 671147-01",
+   "pagine": [
+    253
+   ]
+  },
+  {
+   "rv": "663569-01",
+   "cit": "Sez. 2, n. 01056/2022, Besso Marcheis, Rv. 663569-01",
+   "pagine": [
+    253
+   ]
+  },
+  {
+   "rv": "663809-01",
+   "cit": "Sez. 6-2, n. 00922/2022, Dongiacomo, Rv. 663809-01",
+   "pagine": [
+    253
+   ]
+  },
+  {
+   "rv": "664072-01",
+   "cit": "Sez. 6-3, n. 03582/2022, Rossetti, Rv. 664072-01",
+   "pagine": [
+    253
+   ]
+  },
+  {
+   "rv": "663087-01",
+   "cit": "Sez. 6-2, n. 37999/2021, Varrone, Rv. 663087-01",
+   "pagine": [
+    253
+   ]
+  },
+  {
+   "rv": "604645-01",
+   "cit": "Sez. U, n. 20544/2008, Carbone, Rv. 604645-01",
+   "pagine": [
+    253
+   ]
+  },
+  {
+   "rv": "673036-01",
+   "cit": "Sez. 2, n. 29652/2024, Guida, Rv. 673036-01",
+   "pagine": [
+    254
+   ]
+  },
+  {
+   "rv": "670887-01",
+   "cit": "Sez. 2, n. 10505/2024, Carrato, Rv. 670887-01",
+   "pagine": [
+    254
+   ]
+  },
+  {
+   "rv": "670317-01",
+   "cit": "Sez. 2, n. 4187/2024, Amato, Rv. 670317-01",
+   "pagine": [
+    254
+   ]
+  },
+  {
+   "rv": "667568-01",
+   "cit": "Sez. 2, n. 03432/2023, Carrato, Rv. 667568-01",
+   "pagine": [
+    254
+   ]
+  },
+  {
+   "rv": "673453-01",
+   "cit": "Sez. 2, n. 32079/2024, Falaschi, Rv. 673453-01",
+   "pagine": [
+    254
+   ]
+  },
+  {
+   "rv": "672813-01",
+   "cit": "Sez. 2, n. 25905/2024, Falaschi, Rv. 672813-01",
+   "pagine": [
+    255
+   ]
+  },
+  {
+   "rv": "672802-01",
+   "cit": "Sez. 2, n. 26793/2024, Guida, Rv. 672802-01",
+   "pagine": [
+    255
+   ]
+  },
+  {
+   "rv": "672288-01",
+   "cit": "Sez. 2, n. 24396/2024, Amato, Rv. 672288-01",
+   "pagine": [
+    255
+   ]
+  },
+  {
+   "rv": "672751-01",
+   "cit": "Sez. 1, n. 26375/2024, Tricomi L., Rv. 672751-01",
+   "pagine": [
+    256
+   ]
+  },
+  {
+   "rv": "672749-01",
+   "cit": "Sez. 1, n. 26094/2024, Tricomi L., Rv. 672749-01",
+   "pagine": [
+    257
+   ]
+  },
+  {
+   "rv": "620923-01",
+   "cit": "Sez. 1, n. 27832/2011, Di Palma, Rv. 620923-01",
+   "pagine": [
+    258
+   ]
+  },
+  {
+   "rv": "673129-01",
+   "cit": "Sez. 1, n. 29277/2024, Campese, Rv. 673129-01",
+   "pagine": [
+    258
+   ]
+  },
+  {
+   "rv": "670721-01",
+   "cit": "Sez. 1, n. 9428/2024, Tricomi L., Rv. 670721-01",
+   "pagine": [
+    258
+   ]
+  },
+  {
+   "rv": "602202-01",
+   "cit": "Sez. 2, n. 3879/2008, Piccialli, Rv. 602202-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "599154-01",
+   "cit": "Sez. 2, n. 21249/2007, Trombetta, Rv. 599154-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "589161-01",
+   "cit": "Sez. 1, n. 11893/2006, Spagna Musso, Rv. 589161-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "585543-01",
+   "cit": "Sez. 2, n. 24790/2005, Cioffi, Rv. 585543-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "564810-01",
+   "cit": "Sez. 1, n. 10582/2003, Macioce, Rv. 564810-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "548373-01",
+   "cit": "Sez. 1, n. 9935/2001, Forte, Rv. 548373-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "534073-01",
+   "cit": "Sez. 3, n. 1855/2000, Varrone, Rv. 534073-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "512029-01",
+   "cit": "Sez. 1, n. 477/1998, Catalano, Rv. 512029-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "488434-01",
+   "cit": "Sez. 1, n. 9263/1994, Senofonte, Rv. 488434-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "670310-01",
+   "cit": "Sez. 2, n. 3984/2024, Amato, Rv. 670310-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "660825-01",
+   "cit": "Sez. 6-2, n. 8263/2021, Falaschi, Rv. 660825-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "672770-01",
+   "cit": "Sez. 1, n. 27148/2024, Caiazzo, Rv. 672770-01",
+   "pagine": [
+    259
+   ]
+  },
+  {
+   "rv": "670522-01",
+   "cit": "Sez. U, n. 7616/2024, De Masi, Rv. 670522-01",
+   "pagine": [
+    261
+   ]
+  },
+  {
+   "rv": "671388-01",
+   "cit": "Sez. U, n. 16682/2024, Garri, Rv. 671388-01",
+   "pagine": [
+    262
+   ]
+  },
+  {
+   "rv": "670508-01",
+   "cit": "Sez. U, n. 7838/2024, Criscuolo, Rv. 670508-01",
+   "pagine": [
+    262
+   ]
+  },
+  {
+   "rv": "671523-01",
+   "cit": "Sez. U, n. 16784/2024, Giusti, Rv. 671523-01",
+   "pagine": [
+    262
+   ]
+  },
+  {
+   "rv": "672861-01",
+   "cit": "Sez. U, n. 31016/2024, Iofrida, Rv. 672861-01",
+   "pagine": [
+    263
+   ]
+  },
+  {
+   "rv": "672093-01",
+   "cit": "Sez. U, n. 24283/2024, Falabella, Rv. 672093-01",
+   "pagine": [
+    263
+   ]
+  },
+  {
+   "rv": "652078-03",
+   "cit": "Sez. U., n. 33017/2018, Cirillo, Rv. 652078-03",
+   "pagine": [
+    263
+   ]
+  },
+  {
+   "rv": "672394-01",
+   "cit": "Sez. U, n. 26371/2024, Rossetti, Rv. 672394-01",
+   "pagine": [
+    264
+   ]
+  },
+  {
+   "rv": "670668-01",
+   "cit": "Sez. U, n. 9716/2024, Patti, Rv. 670668-01",
+   "pagine": [
+    264
+   ]
+  },
+  {
+   "rv": "670665-01",
+   "cit": "Sez. U, n. 9375/2024, Fuochi Tinarelli, Rv. 670665-01",
+   "pagine": [
+    264
+   ]
+  },
+  {
+   "rv": "670008-01",
+   "cit": "Sez. U, n. 3657/2024, Mercolino, Rv. 670008-01",
+   "pagine": [
+    264
+   ]
+  },
+  {
+   "rv": "671516-01",
+   "cit": "Sez. U, n. 13319/2024, Di Paolantonio, Rv. 671516-01",
+   "pagine": [
+    265
+   ]
+  },
+  {
+   "rv": "670757-01",
+   "cit": "Sez. U, n. 8492/2024, Graziosi, Rv. 670757-01",
+   "pagine": [
+    265
+   ]
+  },
+  {
+   "rv": "671516-02",
+   "cit": "Sez. U, n. 13319/2024, Di Paolantonio, Rv. 671516-02",
+   "pagine": [
+    265
+   ]
+  },
+  {
+   "rv": "671516-03",
+   "cit": "Sez. U, n. 13319/2024, Di Paolantonio, Rv. 671516-03",
+   "pagine": [
+    266
+   ]
+  },
+  {
+   "rv": "672322-01",
+   "cit": "Sez. U, n. 25975/2024, Marotta, Rv. 672322-01",
+   "pagine": [
+    266
+   ]
+  },
+  {
+   "rv": "670664-01",
+   "cit": "Sez. U, n. 9156/2024, Crucitti, Rv. 670664-01",
+   "pagine": [
+    266
+   ]
+  },
+  {
+   "rv": "671763-01",
+   "cit": "Sez. U, 20881/2024, Grasso, Rv. 671763-01",
+   "pagine": [
+    267
+   ]
+  },
+  {
+   "rv": "672372-01",
+   "cit": "Sez. U, n.26369/2024, Rossetti, Rv. 672372-01",
+   "pagine": [
+    267
+   ]
+  },
+  {
+   "rv": "672372-02",
+   "cit": "Sez. U, n. 26369/2024, Rossetti, Rv. 672372-02",
+   "pagine": [
+    267
+   ]
+  },
+  {
+   "rv": "670758-01",
+   "cit": "Sez. U, 09749/2024, Sestini, Rv. 670758-01",
+   "pagine": [
+    267
+   ]
+  },
+  {
+   "rv": "672189-02",
+   "cit": "Sez. U, 24285/2024, Falabella, Rv. 672189-02",
+   "pagine": [
+    267
+   ]
+  },
+  {
+   "rv": "661739-01",
+   "cit": "Sez. U., 19030/2021, Criscuolo, Rv. 661739-01",
+   "pagine": [
+    267
+   ]
+  },
+  {
+   "rv": "670759-01",
+   "cit": "Sez. U, 09949/2024, Tedesco, Rv. 670759-01",
+   "pagine": [
+    268
+   ]
+  },
+  {
+   "rv": "672188-01",
+   "cit": "Sez. U, n. 24279/2024, Falabella, Rv. 672188-01",
+   "pagine": [
+    268
+   ]
+  },
+  {
+   "rv": "671762-01",
+   "cit": "Sez. U, n. 20877/2024, Grasso, Rv. 671762-01",
+   "pagine": [
+    268
+   ]
+  },
+  {
+   "rv": "672859-01",
+   "cit": "Sez. U, n. 30886/2024, Tricomi, Rv. 672859-01",
+   "pagine": [
+    268
+   ]
+  },
+  {
+   "rv": "672820-01",
+   "cit": "Sez. 2, n. 27588/2024, Mondini, Rv. 672820-01",
+   "pagine": [
+    269
+   ]
+  },
+  {
+   "rv": "672824-01",
+   "cit": "Sez. 2, n. 27709/2024, Criscuolo, Rv. 672824-01",
+   "pagine": [
+    269
+   ]
+  },
+  {
+   "rv": "672819-02",
+   "cit": "Sez. 2, n. 27563/2024, Criscuolo, Rv. 672819-02",
+   "pagine": [
+    269
+   ]
+  },
+  {
+   "rv": "672819-01",
+   "cit": "Sez. 2, n. 27563/2024, Criscuolo, Rv. 672819-01",
+   "pagine": [
+    269
+   ]
+  },
+  {
+   "rv": "673044-01",
+   "cit": "Sez. 2, n. 30906/2024, Picaro, Rv. 673044-01",
+   "pagine": [
+    269
+   ]
+  },
+  {
+   "rv": "673039-01",
+   "cit": "Sez. 2, n. 29707/2024, Criscuolo, Rv. 673039-01",
+   "pagine": [
+    270
+   ]
+  }
+ ]
+}
