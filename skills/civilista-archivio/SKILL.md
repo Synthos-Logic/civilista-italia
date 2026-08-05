@@ -67,11 +67,31 @@ Dipendenza: `pdfplumber` (`pip install pdfplumber`).
 
 ## Le fonti civili da cui partire
 
-La KB del kit nasce dalle **Rassegne annuali della giurisprudenza di legittimità — Gli
-orientamenti delle Sezioni Civili** (Ufficio del Massimario, 3 volumi per anno), fonte
-ufficiale e pubblica. Gli URL e le altre fonti civili aperte (pronunce segnalate, rassegne
-mensili, rinvii pregiudiziali ex art. 363-bis, open data della Corte costituzionale) sono
-elencati con licenze e limiti in `documentazione/FONTI_CIVILI.md`.
+La KB del kit nasce da due serie ufficiali dell'Ufficio del Massimario:
+
+- **Rassegne annuali — Gli orientamenti delle Sezioni Civili** (3 volumi per anno): l'orientamento
+  consolidato, ma pubblicate con **12-18 mesi di ritardo**;
+- **Rassegne mensili della giurisprudenza civile**: le massime del mese, con ~4-5 mesi di ritardo —
+  sono ciò che copre il periodo per cui l'annuale non è ancora uscita.
+
+Gli URL e le altre fonti civili aperte (pronunce segnalate, rinvii pregiudiziali ex art. 363-bis,
+open data della Corte costituzionale) sono elencati con licenze e limiti in
+`documentazione/FONTI_CIVILI.md`.
+
+## Prima di pubblicare o condividere i Markdown: oscurare i difensori
+
+Le **rassegne mensili** riportano sotto ogni massima la riga delle parti nella forma
+`E. (COGNOME NOME) contro A. (COGNOME NOME)`: le parti sono già ridotte a iniziale dalla fonte,
+i **difensori no**. Prima di pubblicare o inviare i `.md`:
+
+```bash
+python3 skills/civilista-archivio/scripts/oscura_difensori.py KNOWLEDGE_BASE/_INDICE
+# --dry-run per contare senza scrivere
+```
+
+Sostituisce il nominativo con `[omissis]` e lascia intatti massima, estremi, classificazione,
+presidente/estensore/relatore/P.M. (dati istituzionali della citazione) e l'ancoraggio alle pagine.
+**Non usarlo sui documenti di causa di un fascicolo**: lì i nomi servono.
 
 Quando l'avvocato porta materiale proprio (sentenze di merito, pareri, atti di causa),
 va indicizzato **nella zona giusta**: la giurisprudenza generale in `KNOWLEDGE_BASE/`,
@@ -81,17 +101,22 @@ il materiale di una causa in `FASCICOLI/<caso>/` — lo scoping è per costruzio
 
 - **NON fa OCR.** Se il PDF è una scansione (poco testo estraibile) lo script si ferma
   e lo segnala: va prima passato per un OCR. Non convertire mai una scansione "alla cieca".
-- L'estrazione strutturale è tarata sulle Rassegne del Massimario (PARTE/SEZIONE/CAPITOLO).
-  Nei volumi civili il sommario di ciascuna parte viene talvolta indicizzato **due volte**
+- L'estrazione strutturale è tarata sulle Rassegne **annuali** (PARTE/SEZIONE/CAPITOLO).
+  Nei volumi annuali il sommario di ciascuna parte viene talvolta indicizzato **due volte**
   (voce del sommario + voce del corpo, a pagine consecutive): è rumore noto, non un errore
-  di ancoraggio. Su documenti con struttura diversa l'indice strutturale può essere parziale:
-  in quel caso la ricerca per concetto si fa con `grep` direttamente sul `.md`.
-- L'indice citazionale riconosce il formato **civile** `Sez. 2, n. 13949/2024, Varrone, Rv. 671693-01`
-  e anche quello **penale** `Sez. 3, n. 23006 del 22/06/2026, Rossi, Rv. …`, con le varianti
-  reali (`Sez. U.`, `S.U.`, `Sez. 6 - L`, relatore andato a capo, "n. … del 2024").
-  Copertura misurata sulla Rassegna civile 2024 vol. I: **1.178 citazioni su 1.207 occorrenze "Rv."**.
-  Restano fuori soprattutto i richiami *orfani* del tipo "*la medesima decisione (Rv. …)*",
-  che non sono citazioni autonome: se servono, si aggiungono a mano.
+  di ancoraggio. Le Rassegne **mensili** non hanno quella struttura: il loro indice strutturale
+  è vuoto per costruzione e la ricerca per concetto si fa con `grep` sul `.md` o dal registro
+  citazionale (che per le mensili è ricco: ogni massima porta la sua classificazione per materia).
+- L'indice citazionale riconosce **tre forme reali**:
+  annuale civile `Sez. 2, n. 13949/2024, Varrone, Rv. 671693-01`;
+  mensile civile `Sez. U, Ordinanza interlocutoria n. 26471 del 01/10/2025 (Rv. 676180-01)`;
+  penale `Sez. 3, n. 23006 del 22/06/2026, Rossi, Rv. …`.
+  Più le varianti (`Sez. U.`, `S.U.`, `Sez. 6 - L`, relatore andato a capo, "n. … del 2024").
+  Copertura misurata sulla Rassegna annuale 2024 vol. I: **1.178 su 1.207 occorrenze "Rv."**.
+- **I richiami non sono citazioni.** Nelle mensili il blocco "*Massime precedenti Vedi: N. … del …
+  Rv. …*" rimanda a precedenti che non stanno in quel documento: **non** vengono indicizzati, ed è
+  voluto — il registro citazionale deve contenere solo massime realmente leggibili alla pagina
+  indicata. Restano fuori, per la stessa ragione, i richiami *orfani* "*la medesima decisione (Rv. …)*".
 - **Tutto il prodotto è materiale di lavoro**: la conversione non sostituisce la lettura
   della fonte ufficiale da parte dell'avvocato.
 

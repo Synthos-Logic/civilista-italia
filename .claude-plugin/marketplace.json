@@ -1,13 +1,18 @@
 {
   "name": "civilista-italia",
-  "owner": { "name": "Synthos Logic", "email": "info@synthoslogic.com" },
+  "owner": {
+    "name": "Synthos Logic",
+    "email": "info@synthoslogic.com"
+  },
   "plugins": [
     {
       "name": "civilista-italia",
-      "description": "Kit operativo per avvocati civilisti italiani — Knowledge Base della giurisprudenza civile di legittimita' con citazioni verificabili (protocollo quote-then-claim) e skill di archiviazione/indicizzazione. Kit in costruzione: skill operative in arrivo.",
-      "version": "0.1.0",
+      "description": "Kit operativo per avvocati civilisti italiani: 9 skill (avvio guidato, analisi del caso, termini civili anche a ritroso, redazione atti, ADR e condizioni di procedibilita', quantificazione del danno e spese, ricerca giurisprudenziale ancorata, verifica pre-deposito, archivio), 8 schede di materia e Knowledge Base della giurisprudenza civile di legittimita' con citazioni verificabili (10.080 massime, 2023 - febbraio 2026) sotto protocollo anti-allucinazione quote-then-claim. Di Synthos Logic.",
+      "version": "0.4.0",
       "source": "./",
-      "author": { "name": "Synthos Logic" },
+      "author": {
+        "name": "Synthos Logic"
+      },
       "homepage": "https://github.com/Synthos-Logic/civilista-italia",
       "repository": "https://github.com/Synthos-Logic/civilista-italia",
       "license": "MIT",

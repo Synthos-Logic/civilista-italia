@@ -39,10 +39,10 @@ RE_CAPITOLO= re.compile(r'^(CAPITOLO\s+[IVXLC]+)\b')
 # ("la medesima decisione (Rv. ...)"), che non sono citazioni autonome.
 RE_CIT = re.compile(
     r'(?:Sez[.,]?\s*(?:U|L|T|F|\d+)(?:\s*-\s*(?:[A-Z]|\d+))?\.?|S\.\s*U\.)'   # organo
-    r'[,\s]*(?:Sentenza|Ordinanza|sent\.|ord\.)?[,\s]*'                          # tipo (opz.)
+    r'[,\s]*(?:Sentenza|Ordinanza(?:\s+interlocutoria)?|Decreto|sent\.|ord\.)?[,\s]*'  # tipo (opz.)
     r'(?:n\.\s*)?\d{1,6}\s*'                                                     # numero
     r'(?:/\s*\d{4}|del\s+(?:\d{1,2}/\d{1,2}/)?\d{4})'                          # /anno | del [gg/mm/]aaaa
-    r'[\s\S]{0,70}?Rv\.\s*\d+(?:\s*-\s*\d+)?')                                # coda fino a Rv
+    r'[\s\S]{0,80}?Rv\.\s*\d+(?:\s*-\s*\d+)?')                                # coda fino a Rv
 RE_RV = re.compile(r'Rv\.\s*(\d+(?:-\d+)?)')
 RE_TOCLEADER = re.compile(r'(?:\.\s*){4,}\d*\s*$')  # sommario: puntini anche spaziati
 

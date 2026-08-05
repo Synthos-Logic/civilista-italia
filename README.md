@@ -3,14 +3,38 @@
 **Assistente operativo per avvocati civilisti italiani, con giurisprudenza ancorata e verificabile.**
 Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penalista-italia), da cui eredita l'impianto anti-allucinazione.
 
-> **Versione 0.1 — kit in costruzione.** Contiene la Knowledge Base civile e la skill di archivio. Le skill operative (scadenze, atti, analisi del caso, giurisprudenza, verifica) sono in lavorazione e vengono rilasciate dopo la validazione sul campo.
+> **Versione 0.4.** Nove skill, otto schede di materia e la Knowledge Base civile. Il set operativo è completo: dall'avvio del fascicolo alla verifica dell'atto prima del deposito.
+
+## Le skill
+
+| Skill | A cosa serve |
+|---|---|
+| `civilista-inizia` | Avvio guidato: dal primo messaggio al primo fascicolo operativo, su un caso vero |
+| `civilista-caso` | Analisi e strategia: onere della prova, preclusioni, procedibilità, punti deboli, convenienza economica |
+| `civilista-scadenze` | Termini civili con ragionamento esplicito — inclusi i termini **a ritroso**, dove la scadenza di sabato si anticipa invece di prorogarsi |
+| `civilista-giurisprudenza` | Ricerca in KB con citazioni verificabili e copertura dichiarata |
+| `civilista-verifica` | Controllo pre-deposito a 10 punti: citazioni, termini, decadenze, procedibilità, forma dell'atto |
+| `civilista-atti` | Redazione degli atti: citazione, comparsa, memorie 171-ter, monitorio e opposizione, appello, cassazione, precetto, diffida |
+| `civilista-adr` | Condizione di procedibilità: mediazione o negoziazione, effetti su prescrizione e decadenza, conduzione |
+| `civilista-quantificazione` | Quanto si chiede e quanto costa: danno, interessi e rivalutazione, nota spese, rischio economico |
+| `civilista-archivio` | Conversione e indicizzazione di nuove fonti nella KB |
+
+**Otto schede di materia** in `KNOWLEDGE_BASE/06_SCHEDE_MATERIA/` (inadempimento, recupero crediti e decreto ingiuntivo, responsabilità extracontrattuale e sanitaria, danno da circolazione, locazioni e sfratti, condominio, famiglia): fatti costitutivi e onere della prova, termini, condizione di procedibilità, rito e competenza, difese dai due lati, quantificazione, errori ricorrenti. Senza numeri di sentenza — quelli si prendono dalla KB.
 
 ---
 
 ## Cosa c'è già, e perché conta
 
-**6.122 massime civili indicizzate e citabili con riscontro testuale.**
-La KB è costruita sulle *Rassegne annuali della giurisprudenza di legittimità — Gli orientamenti delle Sezioni Civili* dell'Ufficio del Massimario della Corte di cassazione, anni **2023** e **2024** (3 volumi ciascuna, fonte ufficiale e pubblica).
+**10.080 massime civili indicizzate e citabili con riscontro testuale**, dal 2023 a **febbraio 2026**. Due fonti ufficiali e pubbliche dell'Ufficio del Massimario:
+
+| Fonte | Periodo | Massime |
+|---|---|---|
+| *Rassegne annuali — Gli orientamenti delle Sezioni Civili* (3 volumi per anno) | 2023 e 2024 | 6.122 |
+| *Rassegne mensili della giurisprudenza civile* | gennaio 2025 → febbraio 2026 | 3.958 |
+
+Le due fonti si integrano perché il Massimario lavora su tempi diversi: **la Rassegna annuale consolida l'anno e arriva con 12-18 mesi di ritardo** (quella del 2024 è uscita l'8 gennaio 2026; la 2025 non esiste ancora), mentre le mensili escono a circa 4-5 mesi. Nella KB il periodo recente è quindi coperto dalle mensili, in attesa del consolidato.
+
+Due lacune dichiarate, per onestà: **febbraio e marzo 2025 non risultano pubblicati** sul portale della Corte, e da marzo 2026 in poi le mensili non sono ancora uscite.
 
 Ogni massima è raggiungibile così:
 
@@ -25,6 +49,8 @@ Esempio reale dalla KB:
 > (2024 Massimario Civile Volume I, p. 201)
 
 **Il principio è: ancora o astieniti.** Se una massima non è nella KB, il kit dichiara *"non presente in KB"* invece di ricostruirla a memoria. È la regola che distingue uno strumento professionale da un generatore di citazioni plausibili — un problema reale, sanzionato dalla stessa Cassazione.
+
+**Nota sui dati personali.** Le Rassegne mensili riportano, sotto ogni massima, la riga delle parti (già ridotte a iniziali dalla fonte) con il **nome del difensore**. Nei Markdown pubblicati questi nominativi sono sostituiti con `[omissis]` — 8.813 occorrenze — tramite `oscura_difensori.py`. Restano i dati istituzionali della citazione (presidente, estensore, relatore, P.M.) e resta intatto tutto il resto: massima, estremi, classificazione, ancoraggio alle pagine.
 
 ---
 
