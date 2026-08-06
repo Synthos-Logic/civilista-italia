@@ -1,5 +1,27 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.8.1] — 2026-08-06
+Correzioni emerse dalla verifica sul repository pubblicato.
+
+### Corretto — conteggio doppio delle rassegne mensili dopo la sincronizzazione
+Un fascicolo del Massimario puo' coprire due mesi (aprile-maggio, luglio-agosto). La pipeline
+lo nomina con il mese di apertura (`2025_04`), il seed del kit lo nominava con il periodo intero
+(`2025_04-05`). Alla prima sincronizzazione i due nomi convivevano: **stessa rassegna presente
+due volte**, KB dichiarata a 11.647 massime invece di 10.080 e ogni ricerca che restituiva la
+stessa massima da "due fonti" diverse. `sincronizza_giurisprudenza.py` ora elimina le versioni
+locali con lo stesso prefisso `AAAA_MM` prima di copiare: la pipeline e' proprietaria di quei file.
+Verificato su zona pulita.
+
+### Corretto — testi disallineati
+- `CLAUDE.md` dichiarava ancora "versione 0.4: nove skill, otto schede": ora dichiara la 0.8.1
+  con dodici skill e dodici schede, **e l'elenco esplicito di cio' che resta fuori copertura**
+  (sfratti passo passo, successioni e divisioni, esecuzione forzata oltre i fondamentali,
+  licenziamenti collettivi, contratti tipici);
+- il README delle schede di materia era fermo alla "versione 0.1";
+- tre file citavano ancora `cassazione-penale-db`, nome del repository dati prima della rinomina
+  (`PROTOCOLLO_GROUNDING.md`, `aggiorna_indice.py`, `indicizza_schede.py`).
+
+
 ## [0.8.0] — 2026-08-06
 Il kit entra nelle tre materie che fanno la giornata di uno studio civile.
 

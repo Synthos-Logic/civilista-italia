@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-sincronizza_giurisprudenza.py — Kit Civilista Italia (v0.5.0)
+sincronizza_giurisprudenza.py — Kit Civilista Italia (v0.8.1)
 Scarica/aggiorna la BANCA DATI GIURISPRUDENZIALE del kit (repo pubblico
 Synthos-Logic/giurisprudenza-db — nessun account GitHub richiesto):
 
@@ -23,9 +23,9 @@ sync scarica solo la finestra scelta (sparse checkout), i successivi solo i
 delta. Le cartelle SEGNALATE (settore civile) e CONSULTA sono di proprietà della pipeline:
 le modifiche locali vengono sovrascritte.
 
-Uso: python3 sincronizza_segnalate.py <dir_zona> [--tutto] [--da-anno N] [--solo-segnalate]
+Uso: python3 sincronizza_giurisprudenza.py <dir_zona> [--tutto] [--da-anno N] [--solo-segnalate]
 """
-import argparse, datetime, os, shutil, subprocess, sys
+import argparse, datetime, os, re, shutil, subprocess, sys
 
 REPO_URL = "https://github.com/Synthos-Logic/giurisprudenza-db.git"
 ANNI_FINESTRA = 10  # default richiesto dall'uso di studio: ultimi 10 anni
@@ -110,17 +110,37 @@ def main():
     # Le RASSEGNE MENSILI sono un caso a parte: arrivano dalla pipeline gia' convertite in
     # Markdown e gia' indicizzate, e vanno a vivere accanto alle Rassegne annuali dentro
     # _INDICE/, non in una cartella separata. Copia file per file (mai rmtree su _INDICE:
-    # li' ci sono anche le annuali e l'indice master) e sovrascrive le versioni precedenti:
-    # la convenzione di nome e' la stessa (AAAA_MM_Rassegna_Mensile_Civile.md).
+    # li' ci sono anche le annuali e l'indice master).
+    #
+    # ATTENZIONE alla convenzione di nome. Un fascicolo puo' coprire due mesi (aprile-maggio,
+    # luglio-agosto): la pipeline lo nomina col mese di apertura (2025_04), il seed del kit
+    # lo nominava col periodo intero (2025_04-05). Senza il guard qui sotto i due nomi
+    # convivono, la stessa rassegna finisce due volte in KB e ogni ricerca restituisce la
+    # stessa massima da "due fonti" diverse. Prima di copiare si eliminano quindi le versioni
+    # locali con lo stesso prefisso AAAA_MM: la pipeline e' la proprietaria di questi file.
     src_rass = os.path.join(cache, "CIVILE", "RASSEGNE")
     if os.path.isdir(src_rass):
         dest_idx = os.path.join(zona, "_INDICE")
         os.makedirs(dest_idx, exist_ok=True)
+        entranti = [f for f in sorted(os.listdir(src_rass))
+                    if f.endswith((".md", ".index.json")) and f not in ("INDICE.md", "LOG_ERRORI.md")]
+
+        rimossi = 0
+        prefissi = {f[:7] for f in entranti if re.match(r"\d{4}_\d{2}", f)}  # es. '2025_04'
+        for locale in sorted(os.listdir(dest_idx)):
+            if not locale.endswith((".md", ".index.json")) or "Rassegna_Mensile" not in locale:
+                continue
+            if locale[:7] in prefissi and locale not in entranti:
+                os.remove(os.path.join(dest_idx, locale))
+                rimossi += 1
+        if rimossi:
+            print(f"[sync] rimossi {rimossi} file di rassegne con nome superato "
+                  "(stesso periodo, nome diverso): evita il conteggio doppio in KB")
+
         copiati = 0
-        for nome_file in sorted(os.listdir(src_rass)):
-            if nome_file.endswith((".md", ".index.json")) and nome_file not in ("INDICE.md", "LOG_ERRORI.md"):
-                shutil.copy2(os.path.join(src_rass, nome_file), os.path.join(dest_idx, nome_file))
-                copiati += 1
+        for nome_file in entranti:
+            shutil.copy2(os.path.join(src_rass, nome_file), os.path.join(dest_idx, nome_file))
+            copiati += 1
         if copiati:
             print(f"[sync] rassegne mensili civili aggiornate: {copiati} file in _INDICE/")
     for percorso_repo, nome in da_copiare:

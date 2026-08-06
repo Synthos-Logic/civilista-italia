@@ -1,6 +1,6 @@
-# 2025 07 08 Rassegna Mensile Civile
+# 2025 07 Rassegna Mensile Civile
 
-> Conversione automatica da `2025_07-08_Rassegna_Mensile_Civile.pdf`. `<!-- pag. N -->` = pagina del PDF originale.
+> Conversione automatica da `2025_07_Rassegna_Mensile_Civile.pdf`. `<!-- pag. N -->` = pagina del PDF originale.
 
 
 <!-- pag. 1 -->

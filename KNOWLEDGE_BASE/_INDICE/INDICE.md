@@ -1,6 +1,6 @@
 # INDICE GIURISPRUDENZA CIVILE — Knowledge Base
 
-> Generato il 2026-08-05 da 16 fonti. Sentenze indicizzate (Rv): 10080.
+> Generato il 2026-08-06 da 16 fonti. Sentenze indicizzate (Rv): 10080.
 >
 > **Protocollo quote-then-claim.** Per citare una massima: cerca qui il numero **Rv** o la parte → ottieni *file* e *pagina* → apri il .md al marcatore `<!-- pag. N -->`, leggi e **incolla la massima testuale**. Per cercare un concetto: usa l'indice strutturale qui sotto oppure `grep` sul file .md. **Ciò che non è qui NON è nella KB**: in tal caso si dichiara 'non presente in KB', non si cita a memoria.
 
@@ -260,13 +260,13 @@
 ### 2025 01 Rassegna Mensile Civile _( massimario )_  ·  `2025_01_Rassegna_Mensile_Civile.md`
 
 
-### 2025 04 05 Rassegna Mensile Civile _( massimario )_  ·  `2025_04-05_Rassegna_Mensile_Civile.md`
+### 2025 04 Rassegna Mensile Civile _( massimario )_  ·  `2025_04_Rassegna_Mensile_Civile.md`
 
 
 ### 2025 06 Rassegna Mensile Civile _( massimario )_  ·  `2025_06_Rassegna_Mensile_Civile.md`
 
 
-### 2025 07 08 Rassegna Mensile Civile _( massimario )_  ·  `2025_07-08_Rassegna_Mensile_Civile.md`
+### 2025 07 Rassegna Mensile Civile _( massimario )_  ·  `2025_07_Rassegna_Mensile_Civile.md`
 
 
 ### 2025 09 Rassegna Mensile Civile _( massimario )_  ·  `2025_09_Rassegna_Mensile_Civile.md`
@@ -6692,7 +6692,7 @@ Backbone del grounding: ogni riga è una sentenza realmente presente nelle Rasse
 - `Rv 673827-01` (p.153) — Sez. T, Ordinanza n. 2385 del 31/01/2025 (Rv. 673827-01
 - `Rv 673828-01` (p.153) — Sez. T, Ordinanza n. 2391 del 31/01/2025 (Rv. 673828-01
 
-### 2025 04 05 Rassegna Mensile Civile _( massimario )_  ·  `2025_04-05_Rassegna_Mensile_Civile.md`
+### 2025 04 Rassegna Mensile Civile _( massimario )_  ·  `2025_04_Rassegna_Mensile_Civile.md`
 
 - `Rv 674003-01` (p.93) — Sez. 2, Ordinanza n. 8555 del 01/04/2025 (Rv. 674003-01
 - `Rv 674004-01` (p.92) — Sez. 2, Ordinanza n. 8560 del 01/04/2025 (Rv. 674004-01
@@ -7840,7 +7840,7 @@ Backbone del grounding: ogni riga è una sentenza realmente presente nelle Rasse
 - `Rv 675881-02` (p.70) — Sez. 3, Ordinanza n. 15028 del 04/06/2025 (Rv. 675881-02
 - `Rv 675881-03` (p.71) — Sez. 3, Ordinanza n. 15028 del 04/06/2025 (Rv. 675881-03
 
-### 2025 07 08 Rassegna Mensile Civile _( massimario )_  ·  `2025_07-08_Rassegna_Mensile_Civile.md`
+### 2025 07 Rassegna Mensile Civile _( massimario )_  ·  `2025_07_Rassegna_Mensile_Civile.md`
 
 - `Rv 674911-01` (p.39,p.556) — Sez. 1, Ordinanza n. 18427 del 07/07/2025 (Rv. 674911-01
 - `Rv 674911-02` (p.40,p.556) — Sez. 1, Ordinanza n. 18427 del 07/07/2025 (Rv. 674911-02

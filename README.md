@@ -3,7 +3,7 @@
 **Assistente operativo per avvocati civilisti italiani, con giurisprudenza ancorata e verificabile.**
 Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penalista-italia), da cui eredita l'impianto anti-allucinazione.
 
-> **Versione 0.8.** Dodici skill, dodici schede di materia, Knowledge Base con aggiornamento settimanale automatico.
+> **Versione 0.8.1.** Dodici skill, dodici schede di materia, Knowledge Base con aggiornamento settimanale automatico.
 
 Il kit copre per prime le materie che pesano davvero nella pratica quotidiana di uno studio civile: **decreto ingiuntivo e opposizione**, **diritto del lavoro**, **diritto di famiglia**. Poi contratti, responsabilità civile, locazioni e condominio.
 

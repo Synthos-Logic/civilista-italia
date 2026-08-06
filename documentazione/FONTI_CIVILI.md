@@ -52,6 +52,14 @@ Sono la fonte che tiene aggiornata la KB tra un'annuale e l'altra. Quelle usate 
 fonte, verificato sul contenuto (provvedimenti del 01/10/2025 e 14/10/2025). In KB è archiviata come
 `2025_10`.
 
+⚠️ **Come vanno rinominati i PDF prima di indicizzarli.** Lo schema in KB è
+`AAAA_MM_Rassegna_Mensile_Civile.pdf`, dove `MM` è il **mese di apertura** del fascicolo anche
+quando ne copre due: aprile-maggio 2025 è `2025_04`, luglio-agosto 2025 è `2025_07`. Non usare
+`2025_04-05`: la pipeline settimanale pubblica i file con il mese di apertura, e un nome diverso
+in locale farebbe convivere due copie della stessa rassegna, con la stessa massima citata da
+"due fonti". Dalla v0.8.1 `sincronizza_giurisprudenza.py` rimuove da sé le copie con nome
+superato, ma se indicizzi un PDF a mano il nome corretto lo devi dare tu.
+
 **Lacune della fonte**: **febbraio e marzo 2025 non risultano pubblicati**. Da marzo 2026 in poi le
 mensili non sono ancora uscite (al 5/8/2026 l'ultima è febbraio 2026).
 
