@@ -3,7 +3,9 @@
 **Assistente operativo per avvocati civilisti italiani, con giurisprudenza ancorata e verificabile.**
 Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penalista-italia), da cui eredita l'impianto anti-allucinazione.
 
-> **Versione 0.4.** Nove skill, otto schede di materia e la Knowledge Base civile. Il set operativo è completo: dall'avvio del fascicolo alla verifica dell'atto prima del deposito.
+> **Versione 0.8.** Dodici skill, dodici schede di materia, Knowledge Base con aggiornamento settimanale automatico.
+
+Il kit copre per prime le materie che pesano davvero nella pratica quotidiana di uno studio civile: **decreto ingiuntivo e opposizione**, **diritto del lavoro**, **diritto di famiglia**. Poi contratti, responsabilità civile, locazioni e condominio.
 
 ## Le skill
 
@@ -15,11 +17,14 @@ Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penali
 | `civilista-giurisprudenza` | Ricerca in KB con citazioni verificabili e copertura dichiarata |
 | `civilista-verifica` | Controllo pre-deposito a 10 punti: citazioni, termini, decadenze, procedibilità, forma dell'atto |
 | `civilista-atti` | Redazione degli atti: citazione, comparsa, memorie 171-ter, monitorio e opposizione, appello, cassazione, precetto, diffida |
+| `civilista-monitorio` | Decreto ingiuntivo end-to-end: quando conviene, provvisoria esecuzione, opposizione, istanze ex artt. 648 e 649, check-list dei primi sette giorni |
+| `civilista-lavoro` | Licenziamenti (60 giorni + 180), crediti retributivi, mansioni, rito lavoro — che **non si sospende ad agosto** |
+| `civilista-famiglia` | Separazione e divorzio, affidamento e mantenimento, rito 473-bis, negoziazione assistita, ordini di protezione |
 | `civilista-adr` | Condizione di procedibilità: mediazione o negoziazione, effetti su prescrizione e decadenza, conduzione |
 | `civilista-quantificazione` | Quanto si chiede e quanto costa: danno, interessi e rivalutazione, nota spese, rischio economico |
 | `civilista-archivio` | Conversione e indicizzazione di nuove fonti nella KB |
 
-**Otto schede di materia** in `KNOWLEDGE_BASE/06_SCHEDE_MATERIA/` (inadempimento, recupero crediti e decreto ingiuntivo, responsabilità extracontrattuale e sanitaria, danno da circolazione, locazioni e sfratti, condominio, famiglia): fatti costitutivi e onere della prova, termini, condizione di procedibilità, rito e competenza, difese dai due lati, quantificazione, errori ricorrenti. Senza numeri di sentenza — quelli si prendono dalla KB.
+**Dodici schede di materia** in `KNOWLEDGE_BASE/06_SCHEDE_MATERIA/` (inadempimento, recupero crediti, opposizione a decreto ingiuntivo, responsabilità extracontrattuale e sanitaria, danno da circolazione, locazioni e sfratti, condominio, separazione e divorzio, mantenimento e affidamento, licenziamento, crediti di lavoro): fatti costitutivi e onere della prova, termini, condizione di procedibilità, rito e competenza, difese dai due lati, quantificazione, errori ricorrenti. Senza numeri di sentenza — quelli si prendono dalla KB.
 
 ---
 
@@ -31,6 +36,8 @@ Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penali
 |---|---|---|
 | *Rassegne annuali — Gli orientamenti delle Sezioni Civili* (3 volumi per anno) | 2023 e 2024 | 6.122 |
 | *Rassegne mensili della giurisprudenza civile* | gennaio 2025 → febbraio 2026 | 3.958 |
+
+A queste si aggiunge, **ogni lunedì e senza che tu debba fare nulla**, il flusso della pipeline pubblica: pronunce civili segnalate dall'Ufficio del Massimario, rinvii pregiudiziali ex art. 363-bis, nuove rassegne mensili convertite e indicizzate, e le segnalazioni dalle riviste civilistiche.
 
 Le due fonti si integrano perché il Massimario lavora su tempi diversi: **la Rassegna annuale consolida l'anno e arriva con 12-18 mesi di ritardo** (quella del 2024 è uscita l'8 gennaio 2026; la 2025 non esiste ancora), mentre le mensili escono a circa 4-5 mesi. Nella KB il periodo recente è quindi coperto dalle mensili, in attesa del consolidato.
 
@@ -56,21 +63,28 @@ Esempio reale dalla KB:
 
 ## Perimetro dichiarato
 
-Il kit lavora, in ordine di profondità: **obbligazioni, contratti e recupero crediti** · **responsabilità civile e danni** · **locazioni e condominio** · **famiglia e persone** (con l'avvertenza che il Tribunale unico per le persone, i minorenni e le famiglie non è ancora operativo).
+In ordine di quanto pesano nella pratica quotidiana:
 
-Fuori perimetro, per ora: lavoro, tributario, crisi d'impresa, protezione internazionale.
+1. **Recupero crediti e procedimento monitorio** — decreto ingiuntivo e opposizione
+2. **Diritto del lavoro** — licenziamenti, crediti retributivi, rito lavoro
+3. **Diritto di famiglia** — separazione, divorzio, figli, assegni
+4. **Obbligazioni e contratti**
+5. **Responsabilità civile e danni**
+6. **Locazioni e condominio**
+
+Due avvertenze che il kit ripete sempre all'avvocato: le **cause di lavoro non si sospendono ad agosto**, e il **Tribunale per le persone, i minorenni e le famiglie non è ancora operativo**.
+
+Fuori perimetro, per ora: tributario, crisi d'impresa, protezione internazionale.
 
 ---
 
 ## Installazione
 
-Il kit si installa come plugin Cowork dal marketplace:
+**Guida completa passo passo: [`docs/INSTALLAZIONE.md`](docs/INSTALLAZIONE.md)** — dieci minuti, nessuna competenza tecnica.
 
-```
-/plugin marketplace add Synthos-Logic/civilista-italia
-```
+In sintesi: nell'app Claude, **Personalizza → + → Crea plugin → Aggiungi marketplace**, incolla `Synthos-Logic/civilista-italia`, **Sincronizza**, poi **+** sulla scheda del kit. Scarica lo ZIP del progetto (**Code → Download ZIP**), rinomina la cartella in `Civile-Italia` e collegala a Cowork. Infine scrivi *"Aggiorna la banca dati della giurisprudenza"* per scaricare le pronunce segnalate.
 
-Poi si copia la cartella di lavoro (`KNOWLEDGE_BASE/`, `FASCICOLI/`, `CLAUDE.md`) nella cartella dello studio e si compilano i dati in `CLAUDE.md`.
+Verifica con `/civilista-italia:versione`; per una guida rapida alle competenze, `/civilista-italia:aiuto`.
 
 **I PDF delle Rassegne non sono versionati** (troppo grandi): la KB contiene i Markdown convertiti e gli indici, che è ciò che serve per citare. Per riscaricare i PDF originali, vedi `documentazione/FONTI_CIVILI.md`.
 

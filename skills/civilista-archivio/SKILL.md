@@ -97,6 +97,42 @@ Quando l'avvocato porta materiale proprio (sentenze di merito, pareri, atti di c
 va indicizzato **nella zona giusta**: la giurisprudenza generale in `KNOWLEDGE_BASE/`,
 il materiale di una causa in `FASCICOLI/<caso>/` — lo scoping è per costruzione.
 
+## Banca dati delle pronunce segnalate — sincronizzazione settimanale
+
+Le **pronunce civili segnalate** dall'Ufficio del Massimario (pagina "Giurisprudenza Civile" del
+sito della Corte) sono raccolte da una pipeline centrale nel repo pubblico
+`Synthos-Logic/giurisprudenza-db`, aggiornata **ogni lunedì**. Ogni scheda porta la massima
+ufficiale, l'esito in sintesi, la classificazione per materia e il **link al PDF autentico**
+pubblicato dalla Corte: fonte verificabile con un clic.
+
+Per scaricarla o aggiornarla (repo pubblico: **non serve alcun account GitHub**):
+
+```bash
+python3 skills/civilista-archivio/scripts/sincronizza_giurisprudenza.py KNOWLEDGE_BASE
+# --solo-segnalate  evita la copia dell'archivio della Corte costituzionale
+# --tutto           Consulta completa dal 1956 (default: ultimi 10 anni)
+```
+
+Lo script mantiene una cache git locale (primo scaricamento una tantum, poi solo differenze),
+copia in `02_GIURISPRUDENZA/SEGNALATE/`, `02_GIURISPRUDENZA/RINVII_PREGIUDIZIALI/` e
+`02_GIURISPRUDENZA/CONSULTA/`, e reindicizza la zona.
+
+**Rinvii pregiudiziali ex art. 363-bis c.p.c.** (`RINVII_PREGIUDIZIALI/`): sono le questioni che un
+giudice di merito ha rimesso alla Corte sospendendo il giudizio. Nel civile fanno le veci delle
+questioni SU pendenti del penale. **Non sono precedenti e non si citano come autorità**: servono a
+sapere che il punto è controverso e che la Corte si pronuncerà — utili per istanze di sospensione,
+motivi in subordine e scelte di strategia. Il quesito integrale sta nel PDF dell'ordinanza di
+rimessione linkato in scheda, non sulla pagina della Corte: va letto lì, non riassunto.
+
+Avvertenze:
+- la cartella `SEGNALATE/` è **di proprietà della pipeline**: le modifiche locali vengono
+  sovrascritte al sync successivo. Le note personali vanno altrove in KB.
+- le segnalate **non hanno ancora numero Rv** (arriva con la Rassegna annuale): si citano per
+  numero/anno con riferimento alla scheda e al PDF ufficiale. Quando la stessa pronuncia comparirà
+  nella Rassegna annuale con Rv, si preferisce la citazione con Rv.
+- alcune schede riportano **più numeri** (`numeri_collegati`): sono pronunce gemelle che la Corte
+  pubblica insieme. Vanno citate per il numero pertinente al caso.
+
 ## Limiti — leggere con attenzione
 
 - **NON fa OCR.** Se il PDF è una scansione (poco testo estraibile) lo script si ferma

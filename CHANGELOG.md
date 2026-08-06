@@ -1,5 +1,95 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.8.0] — 2026-08-06
+Il kit entra nelle tre materie che fanno la giornata di uno studio civile.
+
+### Aggiunto — tre skill verticali
+- **`civilista-monitorio`** — il ciclo completo del decreto ingiuntivo: quando conviene rispetto al
+  rito semplificato o all'ordinario, prova scritta, provvisoria esecuzione ex art. 642, notifica e
+  inefficacia, esecutorieta'. Dal lato del debitore: i 40 giorni (che **la domanda di mediazione non
+  sospende**), l'inversione sostanziale dell'onere della prova, le istanze ex artt. 648 e 649 su cui
+  si decide la partita nei primi trenta giorni, l'opposizione tardiva, e una **check-list dei primi
+  sette giorni** dal ricevimento di un decreto.
+- **`civilista-lavoro`** — licenziamenti con le **due fasi del termine** (60 giorni per l'impugnazione
+  stragiudiziale, 180 per il deposito del ricorso: e' li' che si perdono le cause), regimi
+  sanzionatori distinti per data di assunzione, rito lavoro dopo l'abrogazione del rito Fornero
+  (artt. 441-bis ss.), crediti retributivi e mansioni, conciliazione in sede protetta, cenni al
+  contenzioso previdenziale. **Le cause di lavoro non si sospendono nel periodo feriale**: e' scritto
+  in tre punti diversi perche' e' l'errore piu' frequente.
+- **`civilista-famiglia`** — la mappa delle strade (consensuale, giudiziale, negoziazione assistita,
+  ufficiale di stato civile) con presupposti, tempi e quando conviene davvero; rito unificato
+  473-bis con l'obbligo di deposito della documentazione economica; affidamento, mantenimento,
+  ascolto del minore e curatore speciale; casa familiare e ordini di protezione. Include una regola
+  di condotta: se emergono elementi di violenza domestica o rischio per minori, **si segnala
+  all'avvocato e non si tratta come un contenzioso ordinario**.
+
+### Aggiunto — quattro schede di materia
+`E_LAVORO/LICENZIAMENTO.md`, `E_LAVORO/CREDITI_DI_LAVORO.md`,
+`D_FAMIGLIA_E_PERSONE/MANTENIMENTO_E_AFFIDAMENTO.md`,
+`A_CONTRATTI_E_CREDITI/OPPOSIZIONE_A_DECRETO_INGIUNTIVO.md`. Dodici schede in tutto.
+
+### Corretto — audit di coerenza sui dati critici
+Costruendo le nuove skill sono emerse due discordanze fra fonti secondarie, risolte sul testo
+coordinato:
+- **onere di attivare la mediazione nell'opposizione a decreto ingiuntivo**: `civilista-atti` lo
+  attribuiva all'opponente; l'art. 5-bis D.Lgs. 28/2010 lo pone sul **ricorrente monitorio**. Corretto;
+- **durata della mediazione**: e' di **sei mesi** (art. 6 modificato dal D.Lgs. 216/2024), non tre.
+  Molte fonti online riportano ancora il testo previgente. Allineate tutte le occorrenze;
+- confermato che nell'opposizione a decreto ingiuntivo i **termini di comparizione non sono piu'
+  dimezzati per legge** (soppressione operata dalla L. 218/2011).
+
+### Cambiato
+- **Perimetro riscritto in ordine di frequenza reale**: monitorio, lavoro, famiglia, contratti,
+  responsabilita' civile, locazioni e condominio. Il lavoro non e' piu' fuori perimetro.
+- `/civilista-italia:versione` e `/civilista-italia:aiuto` aggiornati alle 12 skill.
+
+## [0.7.0] — 2026-08-06
+Documentazione d'installazione e comandi rapidi: il kit si puo' consegnare a un collega.
+
+### Aggiunto
+- **`docs/INSTALLAZIONE.md`** — guida passo passo scritta a parole, senza schermate: dove si trova
+  ogni comando nell'app, cosa deve comparire a ogni passaggio, cosa fare quando non compare.
+  Tre passi: plugin, cartella di lavoro, banca dati che si aggiorna da sola. Include la procedura
+  di sblocco quando il catalogo del marketplace si congela, la sezione problemi comuni e la nota
+  sulla convivenza con il Kit Penalista.
+- **Comandi rapidi**: `/civilista-italia:versione` (confronta la versione installata con quella
+  pubblicata, propone lo sblocco se il client e' rimasto indietro e **controlla anche la freschezza
+  della banca dati**) e `/civilista-italia:aiuto` (guida rapida alle 9 skill in italiano piano).
+
+## [0.6.0] — 2026-08-06
+Arrivano i rinvii pregiudiziali: il kit sa anche cosa sta per essere deciso.
+
+### Aggiunto
+- **Rinvii pregiudiziali ex art. 363-bis c.p.c.** nella banca dati sincronizzata
+  (`02_GIURISPRUDENZA/RINVII_PREGIUDIZIALI/`, 103 schede dal 2023): questioni rimesse alla Corte da
+  giudici di merito — e anche da TAR, Corte dei conti e Corti di giustizia tributaria — con data
+  dell'ordinanza, ufficio remittente, R.G. del giudizio a quo, materia e PDF ufficiale.
+  Sono l'analogo civile delle questioni SU pendenti del kit penale.
+- `sincronizza_giurisprudenza.py` scarica anche questa cartella.
+
+### Regola d'uso (nella skill `civilista-archivio`)
+Un rinvio **pendente non e' un precedente**: non si cita come autorita'. Serve a sapere che il punto
+e' controverso e che la Corte si pronuncera'. Il quesito integrale sta nel PDF dell'ordinanza di
+rimessione, non sulla pagina della Corte: si legge li', non si riassume.
+
+## [0.5.0] — 2026-08-05
+La Knowledge Base civile smette di essere statica: arriva il flusso settimanale.
+
+### Aggiunto
+- **`sincronizza_giurisprudenza.py`** in `civilista-archivio`: scarica le **pronunce civili
+  segnalate** dal repo pubblico `Synthos-Logic/giurisprudenza-db` (aggiornato ogni lunedì da una
+  GitHub Action) e l'archivio della Corte costituzionale, poi reindicizza la zona. Nessun account
+  GitHub richiesto; cache git locale con aggiornamenti incrementali.
+- Sezione dedicata nella skill `civilista-archivio`, con le avvertenze d'uso: la cartella
+  `SEGNALATE/` e' della pipeline (le modifiche locali vengono sovrascritte), le segnalate non hanno
+  ancora numero Rv, alcune schede portano piu' numeri (pronunce gemelle).
+
+### Nota
+Il seed della banca dati civile e' di **296 schede** (2023-2026). Da questo momento la KB ha due
+binari: le Rassegne (stock consolidato, con Rv) e le segnalate (flusso settimanale, con PDF
+ufficiale). La gerarchia delle fonti resta quella di `GERARCHIA_FONTI.md`: le Sezioni Unite
+segnalate pesano come livello 1.
+
 ## [0.4.0] — 2026-08-05
 Il set di skill e' completo: si passa dall'analisi alla produzione dell'atto.
 

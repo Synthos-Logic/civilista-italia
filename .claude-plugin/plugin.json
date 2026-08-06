@@ -1,7 +1,7 @@
 {
   "name": "civilista-italia",
-  "version": "0.4.0",
-  "description": "Kit operativo per avvocati civilisti italiani: 9 skill (avvio guidato, analisi del caso, termini civili anche a ritroso, redazione atti, ADR e condizioni di procedibilita', quantificazione del danno e spese, ricerca giurisprudenziale ancorata, verifica pre-deposito, archivio), 8 schede di materia e Knowledge Base della giurisprudenza civile di legittimita' con citazioni verificabili (10.080 massime, 2023 - febbraio 2026) sotto protocollo anti-allucinazione quote-then-claim. Di Synthos Logic.",
+  "version": "0.8.0",
+  "description": "Kit operativo per avvocati civilisti italiani: 12 skill con verticali dedicate a decreto ingiuntivo e opposizione, diritto del lavoro e diritto di famiglia; 12 schede di materia; Knowledge Base della giurisprudenza civile con citazioni verificabili (10.080 massime) e aggiornamento settimanale automatico di pronunce segnalate, rinvii pregiudiziali e rassegne del Massimario. Protocollo anti-allucinazione quote-then-claim. Di Synthos Logic.",
   "author": {
     "name": "Synthos Logic"
   },

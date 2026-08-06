@@ -472,7 +472,7 @@ esegui `civilista-verifica`, con controllo sulla completezza della prova scritta
   Impostare l'opposizione in modo da resistere anche a quella istanza.
 - **Mediazione**: nei procedimenti per ingiunzione la condizione di procedibilità si esperisce
   **dopo** la pronuncia sulle istanze di concessione e di sospensione della provvisoria
-  esecuzione. L'**onere di avviare la mediazione grava sulla parte opponente**: verifica il
+  esecuzione. L'**onere di attivare la mediazione grava sul ricorrente per decreto ingiuntivo**, non sull'opponente (art. 5-bis D.Lgs. 28/2010): verifica il
   testo vigente dell'art. 5 D.Lgs. 28/2010 e metti la scadenza in scadenziario il giorno
   stesso dell'ordinanza. È un punto su cui le opposizioni si perdono in rito.
 

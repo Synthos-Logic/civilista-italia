@@ -41,7 +41,8 @@ Le schede **non sono una fonte** e non sostituiscono la verifica.
 
 - Sono sintesi di lavoro redatte per orientare, non per essere citate in atti. Nessuna affermazione contenuta qui va riportata in un atto senza averla riscontrata sul testo normativo vigente e, per la giurisprudenza, sulla Knowledge Base.
 - **Nelle schede non compaiono numeri di sentenza, per scelta.** La giurisprudenza del kit sta nella KB (Rassegne del Massimario civile) e si cerca lì, con la skill `civilista-giurisprudenza`, seguendo il PROTOCOLLO_GROUNDING: si apre la fonte, si incolla la massima testuale con l'indicazione del file e della pagina. Dove una scheda dice "orientamento consolidato" o "questione controversa", quella è un'indicazione di ricerca, non una citazione: va trasformata in una massima ancorata prima di finire in un atto. Meglio un rinvio che una citazione inventata.
-- Le schede coprono il **perimetro dichiarato del kit** (contratti e crediti, responsabilità e danni, locazioni e condominio, famiglia e persone). Fuori da lì non ci sono schede e non vanno improvvisate.
+- Le schede coprono il **perimetro dichiarato del kit** (contratti e crediti, responsabilità e danni, locazioni e condominio, famiglia e persone, lavoro). Fuori da lì non ci sono schede e non vanno improvvisate.
+- **Attenzione ai termini nelle schede di lavoro:** le controversie dell'art. 409 c.p.c. non sono soggette alla sospensione feriale. La sezione "termini" delle schede `E_LAVORO/` va letta con questa avvertenza.
 
 ---
 
@@ -68,10 +69,11 @@ Se un numero compare senza data di riferimento, va trattato come non verificato.
 
 | Cartella | Materia | Schede |
 |---|---|---|
-| `A_CONTRATTI_E_CREDITI/` | Obbligazioni, contratti, recupero crediti | Inadempimento contrattuale; Recupero crediti e decreto ingiuntivo |
+| `A_CONTRATTI_E_CREDITI/` | Obbligazioni, contratti, recupero crediti | Inadempimento contrattuale; Recupero crediti e decreto ingiuntivo; Opposizione a decreto ingiuntivo |
 | `B_RESPONSABILITA_E_DANNI/` | Responsabilità civile e quantificazione | Responsabilità extracontrattuale; Responsabilità sanitaria; Danno da circolazione stradale |
 | `C_LOCAZIONI_E_CONDOMINIO/` | Immobili e beni comuni | Locazioni e sfratti; Condominio |
-| `D_FAMIGLIA_E_PERSONE/` | Famiglia, minori, persone | Separazione, divorzio e figli |
+| `D_FAMIGLIA_E_PERSONE/` | Famiglia, minori, persone | Separazione, divorzio e figli; Mantenimento e affidamento |
+| `E_LAVORO/` | Rapporto di lavoro subordinato | Licenziamento individuale; Crediti di lavoro |
 
 ---
 
