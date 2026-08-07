@@ -94,7 +94,7 @@ Ogni massima è raggiungibile così:
 
 **Il principio è: ancora o astieniti.** Se una massima non è nella KB, il kit dichiara *"non presente in KB"* invece di ricostruirla a memoria. È la regola che distingue uno strumento professionale da un generatore di citazioni plausibili — un problema reale, sanzionato dalla stessa Cassazione.
 
-**Nota sui dati personali.** Le Rassegne mensili riportano, sotto ogni massima, la riga delle parti (già ridotte a iniziali dalla fonte) con il **nome del difensore**. Nei Markdown pubblicati questi nominativi sono sostituiti con `[omissis]` — 8.813 occorrenze — tramite `oscura_difensori.py`. Restano i dati istituzionali della citazione (presidente, estensore, relatore, P.M.) e resta intatto tutto il resto: massima, estremi, classificazione, ancoraggio alle pagine.
+**Nota sui dati personali.** Le Rassegne mensili riportano, sotto ogni massima, la riga delle parti (già ridotte a iniziali dalla fonte) con il **nome del difensore**. Nei testi pubblicati questi nominativi sono sostituiti con **[omissis]** — 8.813 occorrenze, da una procedura automatica. Restano i dati istituzionali della citazione (presidente, estensore, relatore, P.M.) e resta intatto tutto il resto: massima, estremi, classificazione, ancoraggio alle pagine.
 
 ---
 
@@ -166,18 +166,35 @@ Guida rapida alle competenze: `/civilista-italia:aiuto`.
 
 ---
 
-## Come si aggiunge una fonte
+## Come si aggiunge un documento
+
+Hai una sentenza, una rassegna o una circolare che vuoi poter citare come tutto il resto? **Non devi scrivere comandi.** Metti il file nella cartella del kit — o allegalo direttamente alla conversazione — e dillo a parole:
+
+> *«Aggiungi questa sentenza alla knowledge base»*
+> *«Converti questa rassegna e indicizzala»*
+
+Al resto pensa il kit: converte il documento in testo, costruisce l'indice per concetti (concetto → pagina) e il registro delle citazioni (numero Rv → pagina → massima), e aggiorna il registro delle fonti. Da quel momento il documento è citabile con la stessa regola di tutti gli altri — numero, fonte, pagina.
+
+Due avvertenze, dette prima: i **PDF scansionati** (pagine fotografate, senza testo selezionabile) vengono segnalati e saltati, perché il kit non fa riconoscimento ottico; e ciò che non entra nel registro **non è in Knowledge Base**, quindi non verrà mai citato — è la stessa regola che impedisce al kit di inventare.
+
+<details>
+<summary>Se preferisci farlo da terminale</summary>
+
+Metti il PDF in `KNOWLEDGE_BASE/02_GIURISPRUDENZA/` e poi:
 
 ```bash
-# metti il PDF in KNOWLEDGE_BASE/02_GIURISPRUDENZA/ e poi:
 python3 skills/civilista-archivio/scripts/aggiorna_indice.py KNOWLEDGE_BASE
 ```
 
-Conversione in Markdown, indice strutturale (concetto → pagina), registro citazionale (Rv → pagina → massima), registro fonti. Il tutto senza OCR: i PDF scansionati vengono segnalati e saltati.
+Lo stesso script vale per la zona di un singolo fascicolo: `aggiorna_indice.py FASCICOLI/<nome-caso>`.
+
+</details>
 
 ---
 
 ## Documentazione
+
+Per usare il kit non serve aprire nessuno di questi file. Sono qui per chi vuole guardarci dentro — o controllare che faccia davvero quello che dice.
 
 - `CLAUDE.md` — istruzioni operative e regole vincolanti
 - `KNOWLEDGE_BASE/00_META/PROTOCOLLO_GROUNDING.md` — il protocollo quote-then-claim

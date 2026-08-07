@@ -1,5 +1,25 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.8.5] — 2026-08-07
+
+### Corretto — il README spiegava l'impianto idraulico invece del rubinetto
+La sezione «Come si aggiunge una fonte» mostrava un comando da terminale
+(`python3 skills/civilista-archivio/scripts/aggiorna_indice.py KNOWLEDGE_BASE`) a un pubblico che
+non aprira' mai un terminale. Ma quel comando **non e' l'interfaccia**: e' cio' che il kit esegue
+da se' quando l'avvocato dice *«aggiungi questa sentenza alla knowledge base»*. Stavamo
+documentando l'idraulica e nascondendo il rubinetto.
+
+Riscritta come si usa davvero: metti il file nella cartella o allegalo alla conversazione, e dillo
+a parole. Il comando resta, ma dentro un blocco richiudibile per chi preferisce il terminale.
+
+Nella stessa passata, due frasi che parlavano al lettore sbagliato:
+- la nota sui dati personali attribuiva l'oscuramento dei nomi dei difensori a `oscura_difensori.py`.
+  Il nome del file non dice nulla a un avvocato, e quella nota la leggono **tutti** perche' riguarda
+  la protezione dei dati: ora dice "una procedura automatica";
+- la sezione «Documentazione» elencava percorsi di file senza premettere che **per usare il kit non
+  serve aprirne nessuno**: sono li' per chi vuole controllare che faccia quello che dice.
+
+
 ## [0.8.4] — 2026-08-07
 
 ### Corretto — il rimando al kit gemello portava nel posto sbagliato
