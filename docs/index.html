@@ -8,81 +8,10 @@
 <meta property="og:title" content="Kit Civilista Italiano">
 <meta property="og:description" content="Un assistente per lo studio civile che non inventa giurisprudenza: ogni sentenza che cita si apre, si legge e si verifica prima di finire in un atto.">
 <meta property="og:type" content="website">
-<style>
-:root{
-  --ink:#12161D; --text:#1B212B; --muted:#5C6675; --line:#DDE1E7;
-  --bg:#FFFFFF; --soft:#F6F7F9; --accent:#1D4F91; --accent-soft:#E8EEF7;
-  --ok:#166F4E; --ok-soft:#E4F1EB;
-}
-*{box-sizing:border-box;margin:0;padding:0;}
-html{scroll-behavior:smooth;}
-body{
-  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;
-  color:var(--text); background:var(--bg); line-height:1.6;
-  -webkit-font-smoothing:antialiased;
-}
-.wrap{max-width:980px;margin:0 auto;padding:0 24px;}
-img{max-width:100%;height:auto;display:block;}
-
-/* hero */
-header{background:var(--ink);color:#fff;padding:76px 0 72px;}
-.rule{width:56px;height:4px;background:#7FA8DC;border-radius:2px;margin-bottom:26px;}
-h1{font-size:clamp(34px,5.4vw,52px);font-weight:800;letter-spacing:-.025em;line-height:1.06;}
-.claim{margin-top:20px;font-size:clamp(17px,2.3vw,22px);color:#C3CBD6;max-width:720px;}
-.claim b{color:#fff;font-weight:600;}
-.chips{margin-top:28px;display:flex;flex-wrap:wrap;gap:10px;}
-.chip{font-size:14px;color:#B9C4D2;border:1px solid #333C4A;border-radius:999px;padding:7px 16px;}
-.cta{margin-top:34px;display:flex;flex-wrap:wrap;gap:12px;}
-.btn{
-  display:inline-block;padding:13px 24px;border-radius:9px;font-size:16px;font-weight:600;
-  text-decoration:none;transition:opacity .15s;
-}
-.btn:hover{opacity:.88;}
-.btn-p{background:#fff;color:var(--ink);}
-.btn-s{border:1px solid #414B5A;color:#DCE3EB;}
-
-/* sezioni */
-section{padding:64px 0;border-bottom:1px solid var(--line);}
-section.alt{background:var(--soft);}
-.eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;}
-h2{font-size:clamp(24px,3.4vw,31px);font-weight:750;letter-spacing:-.015em;color:var(--ink);line-height:1.2;}
-section > .wrap > p{margin-top:14px;font-size:17.5px;color:#39414E;max-width:760px;}
-section > .wrap > p + p{margin-top:12px;}
-.fig{margin-top:32px;border:1px solid var(--line);border-radius:12px;overflow:hidden;}
-.cap{margin-top:10px;font-size:14.5px;color:var(--muted);}
-
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;margin-top:32px;}
-.card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 22px 24px;}
-section.alt .card{background:#fff;}
-.card h3{font-size:17.5px;font-weight:680;color:var(--ink);margin-bottom:8px;}
-.card p{font-size:15.5px;color:var(--muted);}
-
-.callout{
-  margin-top:30px;background:var(--ok-soft);border-radius:11px;padding:20px 24px;
-  font-size:16.5px;color:#2C4A3E;
-}
-.callout b{font-weight:680;}
-.warn{background:#FDF3E7;color:#5A4326;}
-
-ol.steps{margin-top:28px;list-style:none;counter-reset:s;}
-ol.steps li{counter-increment:s;position:relative;padding-left:52px;margin-bottom:22px;}
-ol.steps li::before{
-  content:counter(s);position:absolute;left:0;top:1px;
-  width:32px;height:32px;border-radius:9px;background:var(--accent-soft);color:var(--accent);
-  font-weight:700;font-size:15px;display:flex;align-items:center;justify-content:center;
-}
-ol.steps h3{font-size:17.5px;font-weight:680;color:var(--ink);margin-bottom:4px;}
-ol.steps p{font-size:16px;color:#4A5464;}
-code{
-  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
-  background:#EDEFF3;border-radius:5px;padding:2px 7px;font-size:.92em;color:#2A3444;
-}
-a{color:var(--accent);}
-footer{padding:44px 0 60px;font-size:15px;color:var(--muted);}
-footer p{margin-bottom:10px;}
-</style>
+<link rel="stylesheet" href="stile.css">
 </head>
 <body>
+<button class="tema" onclick="cambiaTema()" id="tema-btn">Notte</button>
 
 <header>
   <div class="wrap">
@@ -182,8 +111,8 @@ footer p{margin-bottom:10px;}
     <h2>Le segnalazioni valgono più dei complimenti</h2>
     <p>Il kit è alla prima uscita sul campo. Se lo usi su un fascicolo vero e qualcosa non torna — un termine, una regola, una citazione che non trovi — <a href="https://github.com/Synthos-Logic/civilista-italia/issues">apri una segnalazione</a>. Il gemello penale è arrivato dov'è esattamente così.</p>
     <div class="cta">
-      <a class="btn btn-p" style="background:var(--ink);color:#fff;" href="https://github.com/Synthos-Logic/civilista-italia">Vai al progetto</a>
-      <a class="btn btn-s" style="border-color:var(--line);color:var(--accent);" href="https://github.com/Synthos-Logic/penalista-italia">Il kit gemello per il penale</a>
+      <a class="btn btn-dark" href="https://github.com/Synthos-Logic/civilista-italia">Vai al progetto</a>
+      <a class="btn btn-line" href="https://synthos-logic.github.io/penalista-italia/">Il kit gemello per il penale</a>
     </div>
   </div>
 </section>
@@ -195,5 +124,23 @@ footer p{margin-bottom:10px;}
   </div>
 </footer>
 
+
+<script>
+  function applicaTema(tema){
+    document.documentElement.setAttribute('data-theme', tema);
+    var b = document.getElementById('tema-btn');
+    if (b) b.textContent = (tema === 'dark') ? 'Giorno' : 'Notte';
+    try { localStorage.setItem('synthos-tema', tema); } catch(e){}
+  }
+  function cambiaTema(){
+    var ora = document.documentElement.getAttribute('data-theme') || 'light';
+    applicaTema(ora === 'dark' ? 'light' : 'dark');
+  }
+  (function(){
+    var salvato = 'light';
+    try { salvato = localStorage.getItem('synthos-tema') || 'light'; } catch(e){}
+    applicaTema(salvato);
+  })();
+</script>
 </body>
 </html>

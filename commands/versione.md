@@ -1,7 +1,7 @@
 ---
 description: Mostra la versione installata del Kit Civilista Italiano e verifica se su GitHub esiste una versione piu recente
 ---
-La versione installata di questo plugin e la **0.8.3** (agosto 2026), con 12 skill: inizia, caso, scadenze, atti, monitorio, lavoro, famiglia, adr, quantificazione, giurisprudenza, verifica, archivio.
+La versione installata di questo plugin e la **0.8.4** (agosto 2026), con 12 skill: inizia, caso, scadenze, atti, monitorio, lavoro, famiglia, adr, quantificazione, giurisprudenza, verifica, archivio.
 
 Esegui questi passi nell'ordine:
 

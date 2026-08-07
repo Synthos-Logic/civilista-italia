@@ -4,7 +4,7 @@
 
 Tre passi: il **plugin** (le competenze), la **cartella di lavoro** (i tuoi fascicoli e la Knowledge Base), la **banca dati** (la giurisprudenza che si aggiorna da sola ogni settimana).
 
-Questa guida è scritta a parole, senza schermate: dove serve, il testo descrive esattamente dove si trova ogni comando.
+Le schermate dei primi passaggi sono qui sotto. Dove manca l'immagine, il testo descrive esattamente dove si trova ogni comando.
 
 ---
 
@@ -14,11 +14,19 @@ Questa guida è scritta a parole, senza schermate: dove serve, il testo descrive
 
 Apri l'app Claude sul computer. In basso a sinistra, nella barra laterale, c'è la voce **Personalizza** (icona a forma di cursore/bacchetta). Cliccala: si apre la schermata "Personalizza Claude", con in alto le sezioni **Skills**, **Plugin**, **Connettori**.
 
+![La schermata «Personalizza Claude»](img/installazione/01-personalizza.png)
+
 ### 1.2 Aggiungi il marketplace
 
 In alto a destra nella schermata trovi un pulsante **+**. Cliccalo e scegli **Crea plugin**, poi **Aggiungi marketplace**.
 
-Si apre una finestra con un solo campo di testo, intitolata "Aggiungi marketplace". Incolla esattamente questa riga:
+![Il menu del pulsante +, con la voce «Aggiungi marketplace»](img/installazione/02-crea-plugin.png)
+
+Si apre una finestra con un solo campo di testo, intitolata "Aggiungi marketplace".
+
+![La finestra «Aggiungi marketplace», vuota](img/installazione/03-aggiungi-marketplace-vuoto.png)
+
+Incolla esattamente questa riga:
 
 ```
 Synthos-Logic/civilista-italia

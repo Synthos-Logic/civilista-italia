@@ -1,5 +1,24 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.8.4] — 2026-08-07
+
+### Corretto — il rimando al kit gemello portava nel posto sbagliato
+Il pulsante «Il kit gemello per il penale» sulla pagina di presentazione puntava al **repository**,
+non al **sito** del kit penale, che esiste da tempo. Mandava un avvocato dalla pagina pulita alla
+lista dei file: esattamente cio' che la pagina serve a evitare.
+
+### Cambiato — stile comune ai due kit
+Lo stile della pagina vive ora in `docs/stile.css`, condiviso con il kit penale (copia identica nei
+due repository, sono repo separati). Aggiunto l'interruttore giorno/notte, come sulle pagine del
+gemello; il tema chiaro resta il default.
+
+### Aggiunto — le prime schermate nella guida di installazione
+`docs/INSTALLAZIONE.md` mostra ora le schermate dei primi tre passaggi. Vengono dal kit penale:
+l'interfaccia dei primi passi e' identica per i due kit, e stavamo scrivendo "senza schermate" una
+guida per cui le immagini esistevano gia' nel repository gemello. Dal quarto passaggio in poi
+compare il nome del marketplace, quindi restano da rifare per il civile.
+
+
 ## [0.8.3] — 2026-08-07
 
 ### Aggiunto — la pagina del progetto smette di sembrare un repository di codice
