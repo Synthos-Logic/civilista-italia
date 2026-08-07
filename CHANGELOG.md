@@ -1,5 +1,25 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.8.3] — 2026-08-07
+
+### Aggiunto — la pagina del progetto smette di sembrare un repository di codice
+Il pubblico del kit sono avvocati, e la prima cosa che vedono aprendo GitHub non e' il README:
+e' la lista dei file, il pulsante Code, i commit. Due interventi:
+
+- **Pagina di presentazione** (`docs/index.html`, servita da GitHub Pages su
+  `synthos-logic.github.io/civilista-italia`): una pagina vera, senza arredamento da
+  programmatori, con il problema, un esempio di lavoro, il perimetro e l'installazione.
+  **Non contiene numeri volatili** — niente conteggi di massime, niente numero di versione —
+  perche' una pagina che invecchia in silenzio e' peggio di una pagina che non c'e';
+- **Quattro immagini nel README** (`docs/img/`): intestazione, schema dell'installazione,
+  catena della citazione `Rv → file → pagina → testo`, e uno **screenshot di lavoro reale**
+  con l'apertura di un fascicolo per decreto ingiuntivo. Sono PNG e non SVG: GitHub sanifica
+  gli SVG serviti dal repository e ne perde colori e stili.
+
+Aggiunti anche quattro badge (versione, licenza, cadenza di aggiornamento, tempo di
+installazione), presi da dati vivi dove possibile: quello della versione legge l'ultima release.
+
+
 ## [0.8.2] — 2026-08-06
 
 ### Aggiunto — pagina iniziale del progetto piu' utile a chi arriva per la prima volta

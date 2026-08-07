@@ -1,9 +1,16 @@
+![Kit Civilista Italiano — un assistente per lo studio civile che non inventa giurisprudenza](docs/img/banner.png)
+
+[![Versione](https://img.shields.io/github/v/release/Synthos-Logic/civilista-italia?label=versione&color=1D4F91)](https://github.com/Synthos-Logic/civilista-italia/releases)
+[![Licenza MIT](https://img.shields.io/badge/licenza-MIT-166F4E)](LICENSE)
+[![Banca dati](https://img.shields.io/badge/banca%20dati-aggiornata%20ogni%20lunedì-1D4F91)](https://github.com/Synthos-Logic/giurisprudenza-db)
+[![Guida](https://img.shields.io/badge/installazione-10%20minuti-5C6675)](docs/INSTALLAZIONE.md)
+
 # Kit Civilista Italiano
 
 **Assistente operativo per avvocati civilisti italiani, con giurisprudenza ancorata e verificabile.**
 Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penalista-italia), da cui eredita l'impianto anti-allucinazione.
 
-> **Versione 0.8.2.** Dodici skill, dodici schede di materia, Knowledge Base con aggiornamento settimanale automatico.
+**➜ [Pagina di presentazione del progetto](https://synthos-logic.github.io/civilista-italia/)** — se questa pagina ti sembra troppo tecnica, comincia da lì.
 
 Il kit copre per prime le materie che pesano davvero nella pratica quotidiana di uno studio civile: **decreto ingiuntivo e opposizione**, **diritto del lavoro**, **diritto di famiglia**. Poi contratti, responsabilità civile, locazioni e condominio.
 
@@ -18,6 +25,10 @@ Un cliente arriva in studio con un decreto ingiuntivo notificato ieri. Apri una 
 > *«Un cliente ha ricevuto un decreto ingiuntivo per 38.000 euro, notificato il 3 settembre. Da dove partiamo?»*
 
 Non devi scegliere un comando: la frase attiva da sola `civilista-monitorio`. Quello che succede dopo, in sintesi.
+
+![Apertura di un fascicolo per decreto ingiuntivo: la prima domanda è da che lato si sta](docs/img/conversazione.png)
+
+*La prima cosa che chiede è la direzione, perché cambia tutto il lavoro che segue. Poi:*
 
 **1. Prima le tre date, non la strategia.** Il kit chiede data di notifica, data di pronuncia e termine scritto nel decreto, e verifica se il decreto è **provvisoriamente esecutivo ex art. 642** — perché in quel caso il cliente può essere pignorato *durante* l'opposizione, e questo cambia l'ordine delle cose da fare. Poi calcola i **40 giorni** dell'art. 641 con il ragionamento in chiaro, sospensione feriale inclusa, e li scrive nello scadenziario del fascicolo con due allarmi: a metà termine e a sette giorni dalla scadenza.
 
@@ -79,9 +90,7 @@ Due lacune dichiarate, per onestà: **febbraio e marzo 2025 non risultano pubbli
 
 Ogni massima è raggiungibile così:
 
-```
-numero Rv  →  file .md  →  pagina  →  testo della massima
-```
+![Dal numero Rv al file, alla pagina, al testo della massima](docs/img/citazione.png)
 
 **Il principio è: ancora o astieniti.** Se una massima non è nella KB, il kit dichiara *"non presente in KB"* invece di ricostruirla a memoria. È la regola che distingue uno strumento professionale da un generatore di citazioni plausibili — un problema reale, sanzionato dalla stessa Cassazione.
 
@@ -108,7 +117,9 @@ Due avvertenze che il kit ripete sempre all'avvocato: le **cause di lavoro non s
 
 ## Installazione
 
-**Dieci minuti, nessuna competenza tecnica.** Tre passi: il *plugin* (le competenze), la *cartella di lavoro* (i tuoi fascicoli), la *banca dati* (la giurisprudenza che si aggiorna da sola).
+**Dieci minuti, nessuna competenza tecnica.**
+
+![I tre pezzi: il plugin, la cartella di lavoro, la banca dati](docs/img/installazione.png)
 
 ### 1. Il plugin
 

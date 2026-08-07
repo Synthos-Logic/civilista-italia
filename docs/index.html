@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kit Civilista Italiano — un assistente per lo studio civile che non inventa giurisprudenza</title>
+<meta name="description" content="Assistente operativo per avvocati civilisti italiani. Ogni sentenza citata si apre, si legge e si verifica. Gratuito, fonti ufficiali della Cassazione, aggiornamento automatico settimanale.">
+<meta property="og:title" content="Kit Civilista Italiano">
+<meta property="og:description" content="Un assistente per lo studio civile che non inventa giurisprudenza: ogni sentenza che cita si apre, si legge e si verifica prima di finire in un atto.">
+<meta property="og:type" content="website">
+<style>
+:root{
+  --ink:#12161D; --text:#1B212B; --muted:#5C6675; --line:#DDE1E7;
+  --bg:#FFFFFF; --soft:#F6F7F9; --accent:#1D4F91; --accent-soft:#E8EEF7;
+  --ok:#166F4E; --ok-soft:#E4F1EB;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;
+  color:var(--text); background:var(--bg); line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:980px;margin:0 auto;padding:0 24px;}
+img{max-width:100%;height:auto;display:block;}
+
+/* hero */
+header{background:var(--ink);color:#fff;padding:76px 0 72px;}
+.rule{width:56px;height:4px;background:#7FA8DC;border-radius:2px;margin-bottom:26px;}
+h1{font-size:clamp(34px,5.4vw,52px);font-weight:800;letter-spacing:-.025em;line-height:1.06;}
+.claim{margin-top:20px;font-size:clamp(17px,2.3vw,22px);color:#C3CBD6;max-width:720px;}
+.claim b{color:#fff;font-weight:600;}
+.chips{margin-top:28px;display:flex;flex-wrap:wrap;gap:10px;}
+.chip{font-size:14px;color:#B9C4D2;border:1px solid #333C4A;border-radius:999px;padding:7px 16px;}
+.cta{margin-top:34px;display:flex;flex-wrap:wrap;gap:12px;}
+.btn{
+  display:inline-block;padding:13px 24px;border-radius:9px;font-size:16px;font-weight:600;
+  text-decoration:none;transition:opacity .15s;
+}
+.btn:hover{opacity:.88;}
+.btn-p{background:#fff;color:var(--ink);}
+.btn-s{border:1px solid #414B5A;color:#DCE3EB;}
+
+/* sezioni */
+section{padding:64px 0;border-bottom:1px solid var(--line);}
+section.alt{background:var(--soft);}
+.eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;}
+h2{font-size:clamp(24px,3.4vw,31px);font-weight:750;letter-spacing:-.015em;color:var(--ink);line-height:1.2;}
+section > .wrap > p{margin-top:14px;font-size:17.5px;color:#39414E;max-width:760px;}
+section > .wrap > p + p{margin-top:12px;}
+.fig{margin-top:32px;border:1px solid var(--line);border-radius:12px;overflow:hidden;}
+.cap{margin-top:10px;font-size:14.5px;color:var(--muted);}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;margin-top:32px;}
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 22px 24px;}
+section.alt .card{background:#fff;}
+.card h3{font-size:17.5px;font-weight:680;color:var(--ink);margin-bottom:8px;}
+.card p{font-size:15.5px;color:var(--muted);}
+
+.callout{
+  margin-top:30px;background:var(--ok-soft);border-radius:11px;padding:20px 24px;
+  font-size:16.5px;color:#2C4A3E;
+}
+.callout b{font-weight:680;}
+.warn{background:#FDF3E7;color:#5A4326;}
+
+ol.steps{margin-top:28px;list-style:none;counter-reset:s;}
+ol.steps li{counter-increment:s;position:relative;padding-left:52px;margin-bottom:22px;}
+ol.steps li::before{
+  content:counter(s);position:absolute;left:0;top:1px;
+  width:32px;height:32px;border-radius:9px;background:var(--accent-soft);color:var(--accent);
+  font-weight:700;font-size:15px;display:flex;align-items:center;justify-content:center;
+}
+ol.steps h3{font-size:17.5px;font-weight:680;color:var(--ink);margin-bottom:4px;}
+ol.steps p{font-size:16px;color:#4A5464;}
+code{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  background:#EDEFF3;border-radius:5px;padding:2px 7px;font-size:.92em;color:#2A3444;
+}
+a{color:var(--accent);}
+footer{padding:44px 0 60px;font-size:15px;color:var(--muted);}
+footer p{margin-bottom:10px;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="rule"></div>
+    <h1>Kit Civilista Italiano</h1>
+    <p class="claim">Un assistente per lo studio civile che <b>non inventa giurisprudenza</b>: ogni sentenza che cita si apre, si legge e si verifica prima di finire in un atto.</p>
+    <div class="chips">
+      <div class="chip">Gratuito</div>
+      <div class="chip">Fonti ufficiali della Cassazione</div>
+      <div class="chip">Aggiornamento automatico settimanale</div>
+      <div class="chip">Di Synthos Logic</div>
+    </div>
+    <div class="cta">
+      <a class="btn btn-p" href="#installazione">Come si installa</a>
+      <a class="btn btn-s" href="https://github.com/Synthos-Logic/civilista-italia">Il progetto su GitHub</a>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Il problema</div>
+    <h2>Gli assistenti basati sull'intelligenza artificiale, quando non sanno, inventano</h2>
+    <p>E con la giurisprudenza inventano benissimo: numero plausibile, sezione plausibile, massima scritta meglio dell'originale. Non è teoria — la Cassazione ha già sanzionato la citazione di precedenti inesistenti in un ricorso.</p>
+    <p>Questo kit parte da lì. La regola è una sola: <b>non si cita ciò che non si può mostrare.</b></p>
+    <div class="fig"><img src="img/citazione.png" alt="Dal numero Rv al file, alla pagina, al testo della massima"></div>
+    <div class="cap">Ogni massima è raggiungibile in quattro passaggi. Se una pronuncia non è nell'archivio, il kit lo dichiara invece di ricostruirla a memoria.</div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="eyebrow">Come lavora</div>
+    <h2>Parte dalle domande che un collega esperto farebbe per primo</h2>
+    <p>Non risponde subito per sembrare veloce. Prima capisce da che lato si sta, poi calcola i termini, poi ragiona sul merito — nell'ordine in cui le cose contano davvero.</p>
+    <div class="fig"><img src="img/conversazione.png" alt="Esempio di conversazione: apertura di un fascicolo per decreto ingiuntivo"></div>
+    <div class="cap">Apertura di un fascicolo per decreto ingiuntivo: la prima cosa che chiede è la direzione, perché cambia tutto il lavoro che segue.</div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Prima i termini, poi tutto il resto</h3>
+        <p>I quaranta giorni per opporsi, i sessanta più centottanta del licenziamento, i termini <b>a ritroso</b> dove la scadenza di sabato si anticipa invece di prorogarsi. Sempre con il ragionamento in chiaro.</p>
+      </div>
+      <div class="card">
+        <h3>Le trappole, dette prima</h3>
+        <p>Che la domanda di mediazione non sospende i termini di decadenza. Che le cause di lavoro non si fermano ad agosto. Sono gli errori che chiudono una causa prima di aprirla.</p>
+      </div>
+      <div class="card">
+        <h3>Anche quanto costa</h3>
+        <p>Danno, interessi, rivalutazione, nota spese e rischio di soccombenza: il conto reale, per il parere scritto al cliente, prima di decidere se conviene agire.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Perimetro</div>
+    <h2>Copre per prime le materie che riempiono l'agenda</h2>
+    <p><b>Decreto ingiuntivo e opposizione</b>, <b>diritto del lavoro</b>, <b>diritto di famiglia</b> — con competenze dedicate. Poi contratti, responsabilità civile e danni, locazioni e condominio.</p>
+    <div class="callout warn">
+      <b>Cosa non fa, detto prima e non dopo.</b> Fuori perimetro: tributario, crisi d'impresa, protezione internazionale, previdenza in senso proprio, societario. Non ha la giurisprudenza di merito, perché la banca dati del Ministero è accessibile solo con SPID e non è riutilizzabile. E ogni atto che produce è una <b>bozza</b>: la revisione resta dell'avvocato.
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="installazione">
+  <div class="wrap">
+    <div class="eyebrow">Installazione</div>
+    <h2>Tre pezzi, dieci minuti, nessuna competenza tecnica</h2>
+    <p>Serve l'app Claude sul computer. Non si scrive codice: si incolla un nome, si clicca due volte, si scarica una cartella.</p>
+
+    <ol class="steps">
+      <li>
+        <h3>Il plugin</h3>
+        <p>Nell'app Claude: <b>Personalizza → + → Crea plugin → Aggiungi marketplace</b>, e incolla <code>Synthos-Logic/civilista-italia</code>. Poi <b>Sincronizza</b> e il <b>+</b> sulla scheda del kit.</p>
+      </li>
+      <li>
+        <h3>La cartella di lavoro</h3>
+        <p>Sul progetto GitHub: <b>Code → Download ZIP</b>. Rinomina la cartella in <code>Civile-Italia</code> e collegala a Cowork. I tuoi fascicoli restano sul tuo computer.</p>
+      </li>
+      <li>
+        <h3>La banca dati</h3>
+        <p>In una conversazione con la cartella collegata, scrivi <i>«Aggiorna la banca dati della giurisprudenza»</i>. Da lì in poi si aggiorna da sola ogni lunedì. Nessun account GitHub richiesto.</p>
+      </li>
+    </ol>
+
+    <div class="callout">Poi apri una conversazione nuova e scrivi <b>«Iniziamo»</b>: il kit ti guida al primo fascicolo su un caso vero, non su una dimostrazione.</div>
+
+    <p style="margin-top:26px;">Guida completa passo passo, con cosa fare se qualcosa non torna: <a href="https://github.com/Synthos-Logic/civilista-italia/blob/main/docs/INSTALLAZIONE.md">docs/INSTALLAZIONE.md</a>.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="eyebrow">Se lo provi</div>
+    <h2>Le segnalazioni valgono più dei complimenti</h2>
+    <p>Il kit è alla prima uscita sul campo. Se lo usi su un fascicolo vero e qualcosa non torna — un termine, una regola, una citazione che non trovi — <a href="https://github.com/Synthos-Logic/civilista-italia/issues">apri una segnalazione</a>. Il gemello penale è arrivato dov'è esattamente così.</p>
+    <div class="cta">
+      <a class="btn btn-p" style="background:var(--ink);color:#fff;" href="https://github.com/Synthos-Logic/civilista-italia">Vai al progetto</a>
+      <a class="btn btn-s" style="border-color:var(--line);color:var(--accent);" href="https://github.com/Synthos-Logic/penalista-italia">Il kit gemello per il penale</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>Codice e struttura: licenza MIT. I contenuti delle Rassegne sono documenti ufficiali della Corte di cassazione, riprodotti citando la fonte e senza finalità commerciali, come prescritto dalle note legali del portale della Corte. Il kit non redistribuisce banche dati soggette a restrizioni.</p>
+    <p>Di <b>Synthos Logic</b>. Gli atti prodotti dal kit sono sempre bozze soggette alla revisione del difensore.</p>
+  </div>
+</footer>
+
+</body>
+</html>
