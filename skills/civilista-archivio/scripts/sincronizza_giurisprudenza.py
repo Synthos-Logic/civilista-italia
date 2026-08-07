@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-sincronizza_giurisprudenza.py — Kit Civilista Italia (v0.8.1)
+sincronizza_giurisprudenza.py — Kit Civilista Italia (v0.8.2)
 Scarica/aggiorna la BANCA DATI GIURISPRUDENZIALE del kit (repo pubblico
 Synthos-Logic/giurisprudenza-db — nessun account GitHub richiesto):
 
@@ -38,6 +38,25 @@ def run(cmd, cwd=None):
 def conta_schede(radice):
     return sum(1 for dp, dn, fn in os.walk(radice) for f in fn
                if f.endswith(".md") and not f.startswith(("INDICE", "RASSEGNE", "LOG_", "RADAR_")))
+
+
+def risolvi(cache, candidati):
+    """Primo percorso esistente nella cache, fra i candidati elencati dal piu' nuovo
+    al piu' vecchio.
+
+    Serve perche' la disposizione delle cartelle nel repo dati puo' cambiare: GitHub
+    reindirizza le rinomine di REPOSITORY, non i percorsi INTERNI, quindi uno spostamento
+    romperebbe ogni installazione non aggiornata. Elencare qui i percorsi accettati rende
+    lo spostamento indolore per chi ha gia' questa versione.
+
+    VINCOLO: i candidati devono riferirsi tutti alla STESSA materia. Il civile NON deve
+    mai ripiegare su SEGNALATE/ di radice, che e' il penale: si riempirebbe la Knowledge
+    Base civile di giurisprudenza penale senza dirlo. Meglio fermarsi con un errore.
+    """
+    for c in candidati:
+        if os.path.isdir(os.path.join(cache, c)):
+            return c
+    return None
 
 
 def imposta_sparse(cache, da_anno, tutto):
@@ -104,8 +123,12 @@ def main():
     # ---- copia nelle zone di destinazione
     # (percorso nel repo dati, cartella locale): nel repo il civile sta sotto CIVILE/,
     # in locale resta SEGNALATE/ come nel kit penale — le skill non cambiano percorsi.
-    da_copiare = ([("CIVILE/SEGNALATE", "SEGNALATE"), ("CIVILE/RPC", "RINVII_PREGIUDIZIALI")]
-                  + ([] if a.solo_segnalate else [("CONSULTA", "CONSULTA")]))
+    # (candidati nel repo dati, nome della cartella locale). Il nome locale non cambia mai:
+    # le skill e gli indici puntano a 02_GIURISPRUDENZA/SEGNALATE/ e li' restano.
+    # Per il civile c'e' un solo candidato di proposito: vedi il vincolo in risolvi().
+    da_copiare = ([(("CIVILE/SEGNALATE",), "SEGNALATE"),
+                   (("CIVILE/RPC",), "RINVII_PREGIUDIZIALI")]
+                  + ([] if a.solo_segnalate else [(("CONSULTA",), "CONSULTA")]))
 
     # Le RASSEGNE MENSILI sono un caso a parte: arrivano dalla pipeline gia' convertite in
     # Markdown e gia' indicizzate, e vanno a vivere accanto alle Rassegne annuali dentro
@@ -118,8 +141,9 @@ def main():
     # convivono, la stessa rassegna finisce due volte in KB e ogni ricerca restituisce la
     # stessa massima da "due fonti" diverse. Prima di copiare si eliminano quindi le versioni
     # locali con lo stesso prefisso AAAA_MM: la pipeline e' la proprietaria di questi file.
-    src_rass = os.path.join(cache, "CIVILE", "RASSEGNE")
-    if os.path.isdir(src_rass):
+    perc_rass = risolvi(cache, ("CIVILE/RASSEGNE",))
+    src_rass = os.path.join(cache, perc_rass) if perc_rass else None
+    if src_rass:
         dest_idx = os.path.join(zona, "_INDICE")
         os.makedirs(dest_idx, exist_ok=True)
         entranti = [f for f in sorted(os.listdir(src_rass))
@@ -143,11 +167,14 @@ def main():
             copiati += 1
         if copiati:
             print(f"[sync] rassegne mensili civili aggiornate: {copiati} file in _INDICE/")
-    for percorso_repo, nome in da_copiare:
-        src = os.path.join(cache, percorso_repo)
-        if not os.path.isdir(src):
-            print(f"[sync][ERRORE] il repo scaricato non contiene {percorso_repo}/: struttura cambiata?")
+    for candidati, nome in da_copiare:
+        percorso = risolvi(cache, candidati)
+        if percorso is None:
+            elenco = ", ".join(c + "/" for c in candidati)
+            print(f"[sync][ERRORE] il repo scaricato non contiene nessuno di questi percorsi: "
+                  f"{elenco} — struttura cambiata?")
             sys.exit(1)
+        src = os.path.join(cache, percorso)
         dest = os.path.join(zona, "02_GIURISPRUDENZA", nome)
         if os.path.isdir(dest):
             shutil.rmtree(dest)
@@ -171,7 +198,7 @@ def main():
                           "> non sono presenti in locale. Per averle: sincronizza con `--tutto`.\n\n")
                 open(indice, "w", encoding="utf-8").write(t.replace("# INDICE", avviso + "# INDICE", 1)
                                                           if t.startswith("# INDICE") else avviso + t)
-        print(f"[sync] {nome} aggiornata: {conta_schede(dest)} schede in {dest}{finestra}")
+        print(f"[sync] {nome} aggiornata: {conta_schede(dest)} schede da {percorso}/ del repo{finestra}")
 
     # ---- reindicizzazione della zona
     print("[sync] reindicizzazione della zona ...")

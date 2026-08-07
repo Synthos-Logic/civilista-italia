@@ -1,5 +1,32 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.8.2] — 2026-08-06
+
+### Aggiunto — pagina iniziale del progetto piu' utile a chi arriva per la prima volta
+Il README descriveva il kit; ora lo **mostra**. Due aggiunte:
+- **un caso di lavoro reale** — un decreto ingiuntivo appena notificato — con quello che il kit
+  fa davvero: le tre date, il termine, la trappola della mediazione che non sospende, le istanze
+  ex artt. 648 e 649, e una massima **presa dalla Knowledge Base con numero Rv e pagina**, non
+  parafrasata;
+- **l'installazione sulla pagina**, in tre passi numerati con quello che deve comparire a ogni
+  passo, invece del solo rimando a `docs/INSTALLAZIONE.md` (che resta, per il dettaglio).
+
+### Aggiunto — tolleranza al percorso nella sincronizzazione
+`sincronizza_giurisprudenza.py` risolve i percorsi del repository dati attraverso un elenco di
+candidati invece di un percorso fisso. Serve perche' GitHub reindirizza le rinomine di
+*repository* ma **non i percorsi interni**: il giorno in cui la banca dati riorganizzasse le
+cartelle (per esempio dando al penale il prefisso `PENALE/`, oggi assente, per simmetria con
+`CIVILE/`), le installazioni gia' aggiornate non se ne accorgerebbero.
+
+Il ripiego e' vincolato alla **stessa materia**, e per il civile c'e' di proposito un solo
+candidato: se `CIVILE/SEGNALATE/` non esistesse, lo script si ferma con un errore esplicito
+invece di ripiegare su `SEGNALATE/` di radice, che e' il penale. Riempire di sentenze penali
+la Knowledge Base di un civilista, in silenzio, sarebbe molto peggio di un errore.
+
+### Nota
+La 0.8.1 e' stata pubblicata senza la tolleranza al percorso: arriva con questa versione.
+
+
 ## [0.8.1] — 2026-08-06
 Correzioni emerse dalla verifica sul repository pubblicato.
 

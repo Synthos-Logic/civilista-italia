@@ -3,9 +3,43 @@
 **Assistente operativo per avvocati civilisti italiani, con giurisprudenza ancorata e verificabile.**
 Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penalista-italia), da cui eredita l'impianto anti-allucinazione.
 
-> **Versione 0.8.1.** Dodici skill, dodici schede di materia, Knowledge Base con aggiornamento settimanale automatico.
+> **Versione 0.8.2.** Dodici skill, dodici schede di materia, Knowledge Base con aggiornamento settimanale automatico.
 
 Il kit copre per prime le materie che pesano davvero nella pratica quotidiana di uno studio civile: **decreto ingiuntivo e opposizione**, **diritto del lavoro**, **diritto di famiglia**. Poi contratti, responsabilità civile, locazioni e condominio.
+
+**Non serve saper programmare, non c'è nulla da acquistare, non serve un account GitHub.** Serve l'app Claude sul computer. L'installazione è più sotto: dieci minuti.
+
+---
+
+## Come funziona, su un caso vero
+
+Un cliente arriva in studio con un decreto ingiuntivo notificato ieri. Apri una conversazione e scrivi, a parole tue:
+
+> *«Un cliente ha ricevuto un decreto ingiuntivo per 38.000 euro, notificato il 3 settembre. Da dove partiamo?»*
+
+Non devi scegliere un comando: la frase attiva da sola `civilista-monitorio`. Quello che succede dopo, in sintesi.
+
+**1. Prima le tre date, non la strategia.** Il kit chiede data di notifica, data di pronuncia e termine scritto nel decreto, e verifica se il decreto è **provvisoriamente esecutivo ex art. 642** — perché in quel caso il cliente può essere pignorato *durante* l'opposizione, e questo cambia l'ordine delle cose da fare. Poi calcola i **40 giorni** dell'art. 641 con il ragionamento in chiaro, sospensione feriale inclusa, e li scrive nello scadenziario del fascicolo con due allarmi: a metà termine e a sette giorni dalla scadenza.
+
+**2. Ti mette in guardia da un errore che chiude la causa.** Questo lo dice sempre, in tre punti diversi, perché è l'errore più costoso della materia:
+
+> **Depositare una domanda di mediazione non ferma i quaranta giorni.** L'art. 8 D.Lgs. 28/2010 le attribuisce gli effetti della domanda giudiziale sulla prescrizione, non sui termini di decadenza. Chi tratta invece di opporre si ritrova con un titolo esecutivo definitivo.
+
+**3. Ti dice su chi grava l'onere della mediazione — e lo dimostra.** Nell'opposizione l'onere di attivare la mediazione è del **ricorrente monitorio**, non dell'opponente (art. 5-bis D.Lgs. 28/2010, dopo Sezioni Unite n. 19596 del 2020). Il kit non si limita ad affermarlo: apre la Knowledge Base e ti mostra la massima, con numero, fonte e pagina, così la puoi verificare prima di metterla in un atto.
+
+> **Rv. 676605-01** — Sez. 3, Ordinanza n. 27944 del 20/10/2025
+> *«In caso di opposizione a decreto ingiuntivo, laddove il giudice abbia erroneamente posto l'onere di esperire il procedimento di mediazione […] in capo alla parte opponente, ponendosi così in contraddizione con il principio di diritto affermato dalle Sezioni Unite nella sentenza n. 19596 del 2020, il successivo rilievo del mancato esperimento della stessa si risolve nel mancato esercizio del potere di rilevazione del difetto di mediazione […] con la conseguenza della sanatoria del difetto di procedibilità del giudizio.»*
+> — *Rassegna mensile della giurisprudenza civile, ottobre 2025*, p. 98
+
+**4. Poi la partita dei primi trenta giorni.** Presupposti e tempi dell'**istanza ex art. 649** (sospensione della provvisoria esecuzione: fumus *e* periculum, entrambi documentati) e della difesa **contro l'istanza ex art. 648**, contestata voce per voce. È lì che si decide chi tiene il coltello dalla parte del manico mentre la causa va avanti.
+
+**5. E la domanda che nessuno fa al cliente abbastanza presto.** *Conviene opporsi?* Se il credito è dovuto e la difesa pretestuosa, l'opposizione aggiunge spese e interessi: il kit calcola il conto reale — capitale, interessi, rivalutazione, nota spese, rischio di soccombenza — e prepara il **parere scritto al cliente** con costi, tempi e alternative, piano di rientro incluso.
+
+Il tutto sta dentro una **check-list dei primi sette giorni**, un giorno per volta, che finisce nel fascicolo insieme allo scadenziario.
+
+**Lo stesso schema vale per le altre materie**: nel lavoro le due fasi dell'impugnazione del licenziamento (60 giorni + 180, dove il secondo decorre dall'impugnazione e non dal licenziamento) e il promemoria che **le cause di lavoro non si sospendono ad agosto**; in famiglia la scelta della strada prima della tecnica, e il rito 473-bis con l'obbligo di deposito della documentazione economica.
+
+---
 
 ## Le skill
 
@@ -49,12 +83,6 @@ Ogni massima è raggiungibile così:
 numero Rv  →  file .md  →  pagina  →  testo della massima
 ```
 
-Esempio reale dalla KB:
-
-> `Rv 671693-01` (p. 201) — Sez. 2, n. 13949/2024, Varrone
-> *"Per quanto attiene alla compensazione volontaria, […] essa non richiede la certezza, liquidità ed esigibilità dei contrapposti crediti, come risulta dall'art. 1252 c.c., ma si fonda sull'accordo delle parti […]"*
-> (2024 Massimario Civile Volume I, p. 201)
-
 **Il principio è: ancora o astieniti.** Se una massima non è nella KB, il kit dichiara *"non presente in KB"* invece di ricostruirla a memoria. È la regola che distingue uno strumento professionale da un generatore di citazioni plausibili — un problema reale, sanzionato dalla stessa Cassazione.
 
 **Nota sui dati personali.** Le Rassegne mensili riportano, sotto ogni massima, la riga delle parti (già ridotte a iniziali dalla fonte) con il **nome del difensore**. Nei Markdown pubblicati questi nominativi sono sostituiti con `[omissis]` — 8.813 occorrenze — tramite `oscura_difensori.py`. Restano i dati istituzionali della citazione (presidente, estensore, relatore, P.M.) e resta intatto tutto il resto: massima, estremi, classificazione, ancoraggio alle pagine.
@@ -74,17 +102,54 @@ In ordine di quanto pesano nella pratica quotidiana:
 
 Due avvertenze che il kit ripete sempre all'avvocato: le **cause di lavoro non si sospendono ad agosto**, e il **Tribunale per le persone, i minorenni e le famiglie non è ancora operativo**.
 
-Fuori perimetro, per ora: tributario, crisi d'impresa, protezione internazionale.
+**Cosa non fa, detto prima e non dopo.** Fuori perimetro: tributario, crisi d'impresa, protezione internazionale, previdenza in senso proprio, societario. Non ha la giurisprudenza di merito, perché la banca dati del Ministero è accessibile solo con SPID e non è riutilizzabile. E **ogni atto che produce è una bozza**: la revisione resta dell'avvocato.
 
 ---
 
 ## Installazione
 
-**Guida completa passo passo: [`docs/INSTALLAZIONE.md`](docs/INSTALLAZIONE.md)** — dieci minuti, nessuna competenza tecnica.
+**Dieci minuti, nessuna competenza tecnica.** Tre passi: il *plugin* (le competenze), la *cartella di lavoro* (i tuoi fascicoli), la *banca dati* (la giurisprudenza che si aggiorna da sola).
 
-In sintesi: nell'app Claude, **Personalizza → + → Crea plugin → Aggiungi marketplace**, incolla `Synthos-Logic/civilista-italia`, **Sincronizza**, poi **+** sulla scheda del kit. Scarica lo ZIP del progetto (**Code → Download ZIP**), rinomina la cartella in `Civile-Italia` e collegala a Cowork. Infine scrivi *"Aggiorna la banca dati della giurisprudenza"* per scaricare le pronunce segnalate.
+### 1. Il plugin
 
-Verifica con `/civilista-italia:versione`; per una guida rapida alle competenze, `/civilista-italia:aiuto`.
+Nell'app Claude sul computer, barra laterale in basso a sinistra: **Personalizza**. In alto a destra il pulsante **+** → **Crea plugin** → **Aggiungi marketplace**. Nel campo che compare incolla esattamente:
+
+```
+Synthos-Logic/civilista-italia
+```
+
+Non è un indirizzo web: è il nome del repository, con il trattino. Clicca **Sincronizza**.
+
+Si apre la Directory: scegli **Plugin**, poi la scheda **Personale**. Compare la scheda **Civilista Italia**: clicca il **+**. Dopo qualche secondo leggi *«Civilista italia è installato e pronto all'uso»*.
+
+Dai **tre puntini (···)** accanto al nome puoi attivare **"Sincronizza automaticamente"**, così gli aggiornamenti arrivano da soli.
+
+Verifica in una **conversazione nuova**: `/civilista-italia:versione` deve rispondere con la versione e l'elenco delle skill.
+
+### 2. La cartella di lavoro
+
+Il plugin è il motore; la cartella è l'archivio. Servono entrambi.
+
+Qui sopra, pulsante verde **Code** → **Download ZIP**. Decomprimi, rinomina la cartella in **`Civile-Italia`**, mettila dove preferisci (evita cartelle sincronizzate su cloud che rinominano i file). Nell'app apri **Cowork** → **Seleziona cartella** e scegli `Civile-Italia`.
+
+Le 10.080 massime sono già dentro: non devi fare nulla per averle.
+
+### 3. La banca dati che si aggiorna
+
+Apri una conversazione con la cartella selezionata e scrivi:
+
+```
+Aggiorna la banca dati della giurisprudenza
+```
+
+Scarica le pronunce segnalate, i rinvii pregiudiziali e l'archivio della Corte costituzionale. La prima volta qualche minuto, poi solo le differenze. **Nessun account GitHub richiesto**: l'archivio è pubblico.
+
+### Poi si comincia
+
+Conversazione nuova, cartella selezionata, e scrivi *«Iniziamo»*. Il kit ti chiede i dati dello studio e ti guida al primo fascicolo su un caso vero — non su una dimostrazione.
+
+**Guida completa passo passo, con cosa fare se qualcosa non torna: [`docs/INSTALLAZIONE.md`](docs/INSTALLAZIONE.md).**
+Guida rapida alle competenze: `/civilista-italia:aiuto`.
 
 **I PDF delle Rassegne non sono versionati** (troppo grandi): la KB contiene i Markdown convertiti e gli indici, che è ciò che serve per citare. Per riscaricare i PDF originali, vedi `documentazione/FONTI_CIVILI.md`.
 
@@ -107,6 +172,12 @@ Conversione in Markdown, indice strutturale (concetto → pagina), registro cita
 - `KNOWLEDGE_BASE/00_META/PROTOCOLLO_GROUNDING.md` — il protocollo quote-then-claim
 - `KNOWLEDGE_BASE/00_META/GERARCHIA_FONTI.md` — come si pesano le fonti nel civile
 - `documentazione/FONTI_CIVILI.md` — mappa verificata delle fonti civili aperte, con licenze e limiti
+
+---
+
+## Segnalazioni
+
+Il kit è alla prima uscita sul campo. Se lo provi su un fascicolo vero e qualcosa non torna — un termine, una regola, una citazione che non trovi — **apri una issue**: è il modo più utile di contribuire, e il gemello penale è arrivato dov'è esattamente così.
 
 ---
 
