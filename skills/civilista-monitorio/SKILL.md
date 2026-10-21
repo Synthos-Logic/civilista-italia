@@ -251,7 +251,7 @@ somministrazione; franchising; subfornitura; condominio; società di persone; e 
 
 **Chi deve attivarla — art. 5-bis D.Lgs. 28/2010.** Quando l'azione di cui all'art. 5 co. 1 è stata introdotta con ricorso per decreto ingiuntivo, nel procedimento
 di opposizione l'onere di presentare la domanda di mediazione grava sulla **parte che ha proposto ricorso per decreto ingiuntivo**, cioè sul **creditore opposto**,
-non sul debitore opponente (verificato al 6 agosto 2026). Il giudice, provveduto sulle istanze, verifica l'esperimento della mediazione; se manca, assegna il termine
+non sul debitore opponente (verificato al 21 ottobre 2026). Il giudice, provveduto sulle istanze, verifica l'esperimento della mediazione; se manca, assegna il termine
 per il deposito e fissa udienza dopo la scadenza del termine di durata. Se la mediazione non è comunque esperita, **dichiara l'improcedibilità della domanda e revoca
 il decreto ingiuntivo**, provvedendo sulle spese.
 

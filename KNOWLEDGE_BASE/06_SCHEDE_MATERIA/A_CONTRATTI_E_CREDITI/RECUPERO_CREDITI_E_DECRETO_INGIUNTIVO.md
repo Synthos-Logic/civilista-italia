@@ -47,7 +47,7 @@ Il monitorio non rovescia l'onere della prova: lo **posticipa**. Nel giudizio di
 
 **Termini della fase monitoria**
 - Il giudice pronuncia il decreto entro **30 giorni** dal deposito del ricorso (art. 641 c.p.c.).
-- Il decreto assegna al debitore **40 giorni** per pagare o opporsi. Il termine può essere **ridotto a non meno di 10 giorni** per ragioni di giustificata urgenza o **aumentato fino a 60 giorni** se ricorrono gravi motivi; è di **50 giorni** se la notifica va eseguita in altro Stato dell'Unione europea e di **60 giorni** negli altri casi (art. 641 c.p.c. — verificato al 5 agosto 2026).
+- Il decreto assegna al debitore **40 giorni** per pagare o opporsi. Il termine può essere **ridotto a non meno di 10 giorni** per ragioni di giustificata urgenza o **aumentato fino a 60 giorni** se ricorrono gravi motivi; è di **50 giorni** se la notifica va eseguita in altro Stato dell'Unione europea e di **60 giorni** negli altri casi (art. 641 c.p.c. — verificato al 21 ottobre 2026).
 - Il decreto va **notificato entro 60 giorni** dalla pronuncia, a pena di inefficacia (art. 644 c.p.c.); 90 giorni se la notifica è all'estero.
 
 **Termine di opposizione: 40 giorni dalla notifica del decreto** (artt. 641 e 645 c.p.c.), salvo abbreviazione o aumento disposti nel decreto. È soggetto alla **sospensione feriale** dal 1° agosto al 31 agosto. Il deposito di una domanda di mediazione **non interrompe né sospende** il termine per opporsi: chi tratta senza opporsi perde il diritto.
@@ -68,7 +68,7 @@ Per il calcolo puntuale, la sospensione feriale e i termini a ritroso → **`civ
 
 **Giudizio di opposizione.** Se la materia rientra fra quelle dell'art. 5 co. 1 D.Lgs. 28/2010 — in particolare **contratti assicurativi, bancari e finanziari**, **locazione**, **comodato**, **affitto d'azienda**, **contratto d'opera**, **somministrazione**, **franchising**, **subfornitura**, **condominio**, **società di persone** — la mediazione **torna obbligatoria** dopo la pronuncia del giudice sulla provvisoria esecuzione.
 
-**Chi deve attivarla.** L'art. 5-bis D.Lgs. 28/2010, introdotto dalla riforma Cartabia, stabilisce che nel giudizio di opposizione **l'onere di presentare la domanda di mediazione grava sulla parte che ha proposto ricorso per decreto ingiuntivo**, cioè sul creditore opposto (verificato al 5 agosto 2026). Il giudice, provveduto sulle istanze ex artt. 648-649, assegna il termine per il deposito e fissa l'udienza successiva alla scadenza del termine di durata del procedimento di mediazione. La mancata attivazione da parte dell'opposto comporta l'improcedibilità della domanda e la revoca del decreto.
+**Chi deve attivarla.** L'art. 5-bis D.Lgs. 28/2010, introdotto dalla riforma Cartabia, stabilisce che nel giudizio di opposizione **l'onere di presentare la domanda di mediazione grava sulla parte che ha proposto ricorso per decreto ingiuntivo**, cioè sul creditore opposto (verificato al 21 ottobre 2026). Il giudice, provveduto sulle istanze ex artt. 648-649, assegna il termine per il deposito e fissa l'udienza successiva alla scadenza del termine di durata del procedimento di mediazione. La mancata attivazione da parte dell'opposto comporta l'improcedibilità della domanda e la revoca del decreto.
 
 **Negoziazione assistita obbligatoria** (art. 3 D.L. 132/2014): domande di pagamento a qualsiasi titolo di somme **non eccedenti € 50.000**, **fuori** dai casi di mediazione obbligatoria. Riguarda quindi l'azione ordinaria di recupero credito sotto soglia, non il monitorio. Invito con termine di risposta di **30 giorni**; la mancata risposta o il rifiuto valgono come mancato accordo e la condizione si intende avverata.
 
@@ -120,7 +120,7 @@ Le due udienze in cui si decide su art. 648 e art. 649 sono il vero snodo strate
 **Capitale.** L'importo va chiesto al netto di note di credito, acconti e compensazioni già operate: un decreto ingiuntivo gonfiato è il primo argomento dell'opponente.
 
 **Interessi.**
-- Rapporti civili: interessi legali dalla mora ex art. 1224 c.c. Saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026). Per gli anni precedenti si applicano i saggi pro tempore, calcolati per frazioni di anno.
+- Rapporti civili: interessi legali dalla mora ex art. 1224 c.c. Saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026). Per gli anni precedenti si applicano i saggi pro tempore, calcolati per frazioni di anno.
 - **Transazioni commerciali** (D.Lgs. 231/2002): interessi moratori automatici dal giorno successivo alla scadenza, senza costituzione in mora, al tasso di riferimento BCE **maggiorato di 8 punti percentuali**, più **€ 40** a titolo di costi di recupero, oltre al maggior danno documentato. Il tasso BCE di riferimento è pubblicato in G.U. **semestralmente**: riverificare a gennaio e luglio.
 - **Interessi al tasso superiore in corso di causa** (art. 1284 co. 4 c.c.): dalla domanda giudiziale, se le parti non ne hanno determinato la misura, il saggio è quello previsto per le transazioni commerciali. Va chiesto espressamente: è una voce che si dimentica spesso e che pesa.
 - Interessi ultralegali richiedono la **forma scritta** (art. 1284 co. 3 c.c.); in mancanza si applica il legale.
@@ -153,5 +153,5 @@ Per il calcolo analitico di interessi e rivalutazione → `civilista-quantificaz
 - **Saggio legale 1,60% dal 1° gennaio 2026:** riverificare ogni gennaio.
 - **Tasso BCE per le transazioni commerciali:** riverificare a gennaio e luglio di ogni anno.
 - **Parametri forensi** per la liquidazione delle spese nel monitorio: verificare l'ultimo decreto ministeriale di aggiornamento.
-- **Competenza del giudice di pace:** le competenze ampliate del D.Lgs. 116/2017 sono rinviate al 31 ottobre 2026 (D.L. 117/2025). Verificare se la proroga è stata ulteriormente spostata prima di depositare.
+- **Competenza del giudice di pace:** le competenze ampliate del D.Lgs. 116/2017 sono rinviate al 31 ottobre 2027 (D.L. 100/2026). Verificare se la proroga è stata ulteriormente spostata prima di depositare.
 - **Orientamenti su posizione sostanziale delle parti nell'opposizione e su idoneità della prova monitoria:** cercare in KB con `civilista-giurisprudenza` (copertura fino a febbraio 2026).

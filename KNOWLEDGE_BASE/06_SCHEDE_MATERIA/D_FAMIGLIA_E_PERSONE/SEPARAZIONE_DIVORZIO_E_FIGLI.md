@@ -3,7 +3,7 @@
 
 > Materiale di lavoro. Non sostituisce la verifica sulle fonti. Ogni dato numerico porta la data di riferimento.
 >
-> ⚠️ **Terreno in movimento.** Il **Tribunale per le persone, per i minorenni e per le famiglie NON è ancora operativo**: l'entrata a regime è stata **prorogata a ottobre 2026 dal D.L. 117/2025** (verificato al 5 agosto 2026). Fino ad allora restano le competenze attuali — tribunale ordinario e tribunale per i minorenni. Segnalarlo sempre all'avvocato e riverificare prima di depositare.
+> ⚠️ **Terreno in movimento.** Il **Tribunale per le persone, per i minorenni e per le famiglie NON è ancora operativo**: l'entrata a regime è stata **prorogata a 17 ottobre 2027 dal D.L. 100/2026** (verificato al 21 ottobre 2026). Fino ad allora restano le competenze attuali — tribunale ordinario e tribunale per i minorenni. Segnalarlo sempre all'avvocato e riverificare prima di depositare.
 
 ---
 
@@ -91,9 +91,9 @@ Approfondimento → `civilista-adr`.
 
 Snodi del procedimento: ricorso e comparsa con **decadenze anticipate** e deposito obbligatorio della documentazione reddituale triennale; **piano genitoriale** in caso di figli; prima udienza con comparizione personale e **tentativo di conciliazione**, con provvedimenti temporanei e urgenti ex art. 473-bis.22 c.p.c.; **ascolto del minore** ex art. 473-bis.4; possibile nomina del **curatore speciale del minore** nei casi dell'art. 473-bis.8 c.p.c.; procedimento su **domanda congiunta** ex art. 473-bis.51 c.p.c., con possibilità di cumulare separazione e divorzio in un unico ricorso.
 
-**Competenza — stato attuale, verificato al 5 agosto 2026.**
+**Competenza — stato attuale, verificato al 21 ottobre 2026.**
 
-Il **Tribunale per le persone, per i minorenni e per le famiglie**, istituito dal D.Lgs. 149/2022, **non è operativo**: l'entrata a regime è stata prorogata a **ottobre 2026 dal D.L. 117/2025**, che ha portato da tre a quattro anni il termine dell'art. 49 D.Lgs. 149/2022. Fino a quella data resta il riparto attuale:
+Il **Tribunale per le persone, per i minorenni e per le famiglie**, istituito dal D.Lgs. 149/2022, **non è operativo**: l'entrata a regime è stata differita al **17 ottobre 2027 dal D.L. 100/2026**, che ha portato da quattro a cinque anni il termine dell'art. 49 D.Lgs. 149/2022. Fino a quella data resta il riparto attuale:
 - **Tribunale ordinario in composizione collegiale**: separazione, divorzio, provvedimenti economici, affidamento e mantenimento dei figli nati nel matrimonio e fuori dal matrimonio quando cumulati con domande di competenza del tribunale ordinario;
 - **Tribunale per i minorenni**: procedimenti *de potestate* ex artt. 330, 332, 333 e 336 c.c. non cumulati, adozione, e le materie a esso riservate;
 - **regola di concentrazione** dell'art. 38 disp. att. c.c.: quando è già pendente il giudizio di separazione, divorzio o sull'affidamento, le domande *de potestate* sono attratte davanti al giudice del procedimento in corso.
@@ -141,7 +141,7 @@ Il **Tribunale per le persone, per i minorenni e per le famiglie**, istituito da
 
 **Adeguamento ISTAT.** L'assegno va di regola adeguato annualmente agli indici ISTAT; la clausola va inserita espressamente nel dispositivo o nelle condizioni concordate.
 
-**Interessi sui ratei scaduti.** Interessi legali dalla scadenza di ciascun rateo: saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026), con applicazione dei saggi pro tempore per i periodi anteriori. I ratei di assegno sono **debito di valuta**: non si rivalutano, salvo l'adeguamento ISTAT contrattuale o giudiziale.
+**Interessi sui ratei scaduti.** Interessi legali dalla scadenza di ciascun rateo: saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026), con applicazione dei saggi pro tempore per i periodi anteriori. I ratei di assegno sono **debito di valuta**: non si rivalutano, salvo l'adeguamento ISTAT contrattuale o giudiziale.
 
 **Danno endofamiliare.** Le condotte gravemente lesive dei diritti della persona all'interno della famiglia possono fondare una domanda risarcitoria ex art. 2043 c.c., cumulabile con la domanda di addebito ma da essa autonoma. Liquidazione secondo le tabelle di **Milano ed. 2024** o di **Roma** per il danno non patrimoniale; la **TUN del D.P.R. 12/2025** (in vigore dal 5 marzo 2025, invalidità superiori al 10%) opera nel suo ambito proprio — RCA e responsabilità sanitaria — e non si estende al danno endofamiliare. Trattandosi di debito di valore, rivalutazione ISTAT e interessi compensativi con il metodo di **Cass. SU 1712/1995**: sul capitale devalutato e progressivamente rivalutato, mai sulla somma finale rivalutata.
 
@@ -168,7 +168,7 @@ Per il calcolo analitico → `civilista-quantificazione`.
 
 *Ultima verifica: 5 agosto 2026.*
 
-- **Tribunale per le persone, per i minorenni e per le famiglie: NON operativo.** Entrata a regime **prorogata a ottobre 2026 dal D.L. 117/2025**, che ha esteso da tre a quattro anni il termine dell'art. 49 D.Lgs. 149/2022. Fonti consultate riportano la data del **31 ottobre 2026**; il dato è confermato quanto al mese, ma **il giorno esatto va riscontrato sul testo coordinato del D.L. 117/2025 in Gazzetta Ufficiale** prima di farne uso. È il primo controllo da fare su ogni pratica di famiglia: verificare se la proroga è scaduta o è stata ulteriormente spostata.
+- **Tribunale per le persone, per i minorenni e per le famiglie: NON operativo.** Entrata a regime **prorogata a 17 ottobre 2027 dal D.L. 100/2026**, che ha esteso da quattro a cinque anni il termine dell'art. 49 D.Lgs. 149/2022. Fonti consultate riportano la data del **31 17 ottobre 2027**; il dato è confermato quanto al mese, ma **il giorno esatto va riscontrato sul testo coordinato del D.L. 100/2026 in Gazzetta Ufficiale** prima di farne uso. È il primo controllo da fare su ogni pratica di famiglia: verificare se la proroga è scaduta o è stata ulteriormente spostata.
 - **Competenza territoriale ex art. 473-bis.11 c.p.c.:** criteri modificati dalla riforma e inderogabili. Verificare sul testo vigente.
 - **Termini di decadenza e scansione delle memorie** negli artt. 473-bis.12, 473-bis.16 e 473-bis.17 c.p.c.: verificare il testo vigente; sono termini a ritroso.
 - **Protocolli locali sulle spese straordinarie** e prassi dell'ufficio adito su ascolto del minore, curatore speciale e CTU: variano da tribunale a tribunale e vengono aggiornati periodicamente.

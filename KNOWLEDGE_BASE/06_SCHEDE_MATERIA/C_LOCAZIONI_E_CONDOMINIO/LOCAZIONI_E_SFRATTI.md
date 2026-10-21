@@ -100,7 +100,7 @@ Durata: **6 mesi** prorogabili (art. 6 D.Lgs. 28/2010); primo incontro **fra 20 
 **Competenza.**
 - Per **materia e senza limite di valore**, le cause in materia di locazione e di comodato di immobili urbani e di affitto di aziende sono di competenza del **tribunale** (art. 9 co. 2 c.p.c.), in composizione monocratica. Il giudice di pace non è competente in materia locatizia.
 - **Territorio**: foro **esclusivo** del luogo in cui si trova l'immobile locato (art. 21 c.p.c. per le cause relative a immobili; per la locazione vale in ogni caso il foro dell'immobile). È competenza inderogabile per convenzione nella misura prevista dalla legge: verificarla prima di aderire a un foro contrattuale diverso.
-- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono **rinviate al 31 ottobre 2026** (D.L. 117/2025 — verificato al 5 agosto 2026): verificare se incidono sulla materia locatizia e se la proroga è stata ulteriormente spostata.
+- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono **rinviate al 31 ottobre 2027** (D.L. 100/2026 — verificato al 21 ottobre 2026): verificare se incidono sulla materia locatizia e se la proroga è stata ulteriormente spostata.
 
 ---
 
@@ -138,7 +138,7 @@ Durata: **6 mesi** prorogabili (art. 6 D.Lgs. 28/2010); primo incontro **fra 20 
 
 **Aggiornamento ISTAT.** Dovuto solo se pattuito nel contratto e nei limiti di legge; per i contratti a canone concordato valgono i limiti degli accordi territoriali.
 
-**Interessi.** Sui canoni scaduti, interessi legali dalla scadenza di ciascuna mensilità (mora *ex re*, art. 1219 co. 2 n. 3 c.c. per il termine scaduto): saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026), con applicazione dei saggi pro tempore per i periodi anteriori. Il credito da canoni è **debito di valuta**: non si rivaluta, ma si può chiedere il maggior danno ex art. 1224 co. 2 c.c.
+**Interessi.** Sui canoni scaduti, interessi legali dalla scadenza di ciascuna mensilità (mora *ex re*, art. 1219 co. 2 n. 3 c.c. per il termine scaduto): saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026), con applicazione dei saggi pro tempore per i periodi anteriori. Il credito da canoni è **debito di valuta**: non si rivaluta, ma si può chiedere il maggior danno ex art. 1224 co. 2 c.c.
 
 **Danni all'immobile.** Costo del ripristino documentato da preventivi e fatture, dedotto il deterioramento da uso normale (art. 1590 c.c.). È **debito di valore**: rivalutazione ISTAT e interessi compensativi con il metodo di **Cass. SU 1712/1995** — sul capitale devalutato e progressivamente rivalutato, non sulla somma finale rivalutata.
 
@@ -173,5 +173,5 @@ Per il calcolo analitico → `civilista-quantificazione`.
 - **Termine per l'esecuzione del rilascio** ex art. 56 L. 392/1978 e eventuali sospensioni straordinarie degli sfratti: materia soggetta a interventi normativi ricorrenti. Riverificare a ogni pratica.
 - **Accordi territoriali per il canone concordato:** variano per comune e vengono rinnovati periodicamente. Verificare l'accordo vigente nel comune dell'immobile.
 - **Saggio legale 1,60% dal 1° gennaio 2026:** riverificare ogni gennaio.
-- **Competenza del giudice di pace:** competenze ampliate del D.Lgs. 116/2017 rinviate al 31 ottobre 2026 (D.L. 117/2025). Verificare l'eventuale incidenza sulla materia locatizia e ulteriori proroghe.
+- **Competenza del giudice di pace:** competenze ampliate del D.Lgs. 116/2017 rinviate al 31 ottobre 2027 (D.L. 100/2026). Verificare l'eventuale incidenza sulla materia locatizia e ulteriori proroghe.
 - **Effetti della registrazione tardiva sulla nullità del contratto e sul canone occulto:** questione con orientamenti stratificati. Cercare le massime in KB con `civilista-giurisprudenza` (copertura fino a febbraio 2026).

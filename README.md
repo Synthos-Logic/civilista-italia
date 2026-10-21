@@ -11,6 +11,7 @@
 Kit gemello del [Kit Penalista Italiano](https://github.com/Synthos-Logic/penalista-italia), da cui eredita l'impianto anti-allucinazione.
 
 **➜ [Pagina di presentazione del progetto](https://synthos-logic.github.io/civilista-italia/)** — se questa pagina ti sembra troppo tecnica, comincia da lì.
+**➜ [Come si lavora col kit](docs/METODO.md)** — il metodo: dove vivono i fascicoli, come si apre e si chiude una sessione, come fargli seguire la tua impostazione negli atti.
 
 Il kit copre per prime le materie che pesano davvero nella pratica quotidiana di uno studio civile: **decreto ingiuntivo e opposizione**, **diritto del lavoro**, **diritto di famiglia**. Poi contratti, responsabilità civile, locazioni e condominio.
 
@@ -196,6 +197,7 @@ Lo stesso script vale per la zona di un singolo fascicolo: `aggiorna_indice.py F
 
 Per usare il kit non serve aprire nessuno di questi file. Sono qui per chi vuole guardarci dentro — o controllare che faccia davvero quello che dice.
 
+- `docs/METODO.md` — come si lavora col kit: fascicoli, sessioni, verifica, stile dello studio
 - `CLAUDE.md` — istruzioni operative e regole vincolanti
 - `KNOWLEDGE_BASE/00_META/PROTOCOLLO_GROUNDING.md` — il protocollo quote-then-claim
 - `KNOWLEDGE_BASE/00_META/GERARCHIA_FONTI.md` — come si pesano le fonti nel civile

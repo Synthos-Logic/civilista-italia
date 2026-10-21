@@ -120,6 +120,20 @@ Da lì in avanti si lavora a voce: *"calcola il termine per costituirmi"*, *"cer
 
 ---
 
+## Dal secondo giorno in poi
+
+L'installazione finisce qui. Il metodo di lavoro — dove vivono i fascicoli, come si apre e si chiude una sessione, come si verifica che il kit sia stato davvero usato, come fargli seguire la tua impostazione negli atti — sta nella **[guida al metodo](METODO.md)**.
+
+In tre righe, intanto:
+
+- **una conversazione per fascicolo**, mai la stessa chat per cause diverse;
+- si apre con *«lavoriamo sul fascicolo [nome]»* — **non** rilanciando `civilista-inizia`, che è la procedura di primo avvio;
+- si chiude con *«aggiorna il fascicolo e lo scadenziario»*: è il momento in cui il lavoro passa dalla conversazione al disco.
+
+E una regola sola sui file: **tutto vive dentro `Civile-Italia`**. I documenti di una causa si copiano in `FASCICOLI/<caso>/atti/` con il Finder, non si trascinano nella chat — da lì non tornano indietro.
+
+---
+
 ## Aggiornare il kit
 
 Quando esce una nuova versione:
@@ -149,6 +163,10 @@ Quando esce una nuova versione:
 **Ho installato un aggiornamento ma non lo vedo** — Gli aggiornamenti valgono per le conversazioni nuove: chiudi quella aperta e aprine un'altra.
 
 **Il pulsante "Aggiorna" sulla scheda del plugin è grigio** — Normale: prima va sincronizzato il catalogo, con i tre puntini accanto al nome del marketplace → "Verifica aggiornamenti".
+
+**Ha lavorato sul fascicolo ma non trovo il file** — Il lavoro è finito fuori dalla cartella di lavoro: succede quando i documenti vengono trascinati nella chat invece che copiati in `FASCICOLI/<caso>/`. Sposta i file nella cartella e ricollegala. Spiegazione in [`METODO.md`](METODO.md).
+
+**Dice di aver usato il kit ma non sembra** — Alla domanda diretta risponde di sì anche quando non è vero. Controlla le impronte: le massime devono avere numero Rv e pagina, i termini devono essere calcolati a vista, e lo scadenziario deve risultare modificato sul disco. Per forzarlo, apri la richiesta con `/civilista-italia:…`. Dettaglio in [`METODO.md`](METODO.md).
 
 **Ho anche il Kit Penalista installato** — Nessun problema: i due kit convivono, hanno prefissi diversi (`penalista-` e `civilista-`) e cartelle di lavoro separate. Tienile distinte: un fascicolo penale nella cartella penale, uno civile in quella civile.
 

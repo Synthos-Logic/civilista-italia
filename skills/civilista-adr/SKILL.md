@@ -37,7 +37,7 @@ rito: la materia. Se le domande cumulate sono più d'una, il controllo va fatto 
 
 Chi intende esercitare in giudizio un'azione in una di queste materie è tenuto **preliminarmente** a
 esperire la mediazione, assistito dall'avvocato. Elenco completo del testo vigente (D.Lgs. 28/2010
-aggiornato al D.Lgs. 216/2024 — verificato al 5 agosto 2026):
+aggiornato al D.Lgs. 216/2024 — verificato al 21 ottobre 2026):
 
 - **Beni e comunione:** condominio; diritti reali; divisione; successioni ereditarie; patti di famiglia.
 - **Godimento di beni e aziende:** locazione; comodato; affitto di aziende.
@@ -54,7 +54,7 @@ cautelativo.
 
 ### Negoziazione assistita obbligatoria — art. 3 D.L. 132/2014 (conv. L. 162/2014)
 
-Due sole ipotesi (verificato al 5 agosto 2026):
+Due sole ipotesi (verificato al 21 ottobre 2026):
 
 1. **Risarcimento del danno da circolazione di veicoli e natanti.** Senza soglia di valore: vale anche
    per la causa milionaria.

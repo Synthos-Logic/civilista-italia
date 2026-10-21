@@ -45,7 +45,7 @@ Confonderle espone alla duplicazione (voce respinta) o all'omissione (voce non l
 
 ### Sistemi tabellari applicabili
 
-| Sistema | Ambito | Riferimento verificato al 5 agosto 2026 |
+| Sistema | Ambito | Riferimento verificato al 21 ottobre 2026 |
 |---|---|---|
 | **Tabella Unica Nazionale (TUN) macrolesioni** | Invalidità **superiori al 9%** (fascia 10-100), RCA e responsabilità sanitaria | **D.P.R. 13 gennaio 2025, n. 12**, attuativo dell'art. 138 D.Lgs. 209/2005, pubblicato in G.U. il **18 febbraio 2025**, **in vigore dal 5 marzo 2025** |
 | **Micropermanenti** | Invalidità **fino al 9%**, RCA e natanti | Art. 139 D.Lgs. 209/2005, importi aggiornati con decreto ministeriale annuale |
@@ -120,7 +120,7 @@ calcolo mostrato.
 ### Saggio legale (art. 1284 co. 1 c.c.)
 
 **1,60% dal 1° gennaio 2026** (decreto del Ministero dell'economia e delle finanze, G.U. dicembre 2025
-— verificato al 5 agosto 2026); **2,00% nel 2025**. Il saggio cambia con decreto annuale: nei conteggi
+— verificato al 21 ottobre 2026); **2,00% nel 2025**. Il saggio cambia con decreto annuale: nei conteggi
 pluriennali va applicato **per periodi**, con il saggio vigente in ciascun anno. Un conteggio che
 applica un unico saggio a un arco di dieci anni è sbagliato in partenza. **Riverificare ogni gennaio.**
 

@@ -52,7 +52,7 @@
 
 ## 3. Termini
 
-**Prescrizione — art. 2947 c.c.** (verificato al 5 agosto 2026):
+**Prescrizione — art. 2947 c.c.** (verificato al 21 ottobre 2026):
 - **2 anni** dal giorno del sinistro per il danno prodotto dalla circolazione di veicoli di ogni specie (co. 2). È il termine più breve fra quelli della responsabilità civile ed è il primo dato da calcolare su ogni pratica;
 - **prescrizione più lunga del reato** se il fatto integra un reato con termine superiore (co. 3): rilevante nelle lesioni stradali e nell'omicidio stradale, dove il termine civile si allunga in misura significativa. Se il procedimento penale si estingue per causa diversa dalla prescrizione, o interviene sentenza irrevocabile, i due anni **ricominciano a decorrere** da quella data;
 - **2 anni** anche per l'azione diretta verso l'assicuratore, con **decorrenza sospesa** durante la procedura di risarcimento ex art. 145 D.Lgs. 209/2005.
@@ -72,7 +72,7 @@ Per il calcolo dei termini processuali → **`civilista-scadenze`**.
 
 ## 4. Condizione di procedibilità
 
-**Negoziazione assistita obbligatoria — art. 3 co. 1 D.L. 132/2014** (conv. L. 162/2014, verificato al 5 agosto 2026). Chi intende esercitare in giudizio un'azione relativa a una **controversia in materia di risarcimento del danno da circolazione di veicoli e natanti** deve, tramite il proprio avvocato, invitare l'altra parte a stipulare una convenzione di negoziazione assistita. È condizione di procedibilità, rilevabile d'ufficio dal giudice non oltre la prima udienza o eccepibile dal convenuto a pena di decadenza nello stesso termine.
+**Negoziazione assistita obbligatoria — art. 3 co. 1 D.L. 132/2014** (conv. L. 162/2014, verificato al 21 ottobre 2026). Chi intende esercitare in giudizio un'azione relativa a una **controversia in materia di risarcimento del danno da circolazione di veicoli e natanti** deve, tramite il proprio avvocato, invitare l'altra parte a stipulare una convenzione di negoziazione assistita. È condizione di procedibilità, rilevabile d'ufficio dal giudice non oltre la prima udienza o eccepibile dal convenuto a pena di decadenza nello stesso termine.
 
 Elementi operativi:
 - l'invito va sottoscritto dalla parte e certificato dall'avvocato; deve indicare l'oggetto della controversia e l'avvertimento sulle conseguenze della mancata risposta;
@@ -94,10 +94,10 @@ Approfondimento → `civilista-adr`.
 
 **Rito.** Ordinario di cognizione (artt. 163 ss. c.p.c.). Il **rito semplificato** (artt. 281-decies ss. c.p.c.) è adatto ai sinistri con dinamica non contestata e soli danni a cose documentati da perizia, dove non serve istruttoria orale.
 
-**Competenza per valore** (art. 7 c.p.c., soglie in vigore dal 28 febbraio 2023 — verificato al 5 agosto 2026):
+**Competenza per valore** (art. 7 c.p.c., soglie in vigore dal 28 febbraio 2023 — verificato al 21 ottobre 2026):
 - **Giudice di pace**: cause di risarcimento del danno prodotto dalla **circolazione di veicoli e di natanti fino a € 25.000**;
 - **Tribunale monocratico** oltre tale soglia.
-- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono **rinviate al 31 ottobre 2026** (D.L. 117/2025): verificare eventuali ulteriori proroghe prima di depositare.
+- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono **rinviate al 31 ottobre 2027** (D.L. 100/2026): verificare eventuali ulteriori proroghe prima di depositare.
 - Il valore si determina sulla somma domandata (art. 10 c.p.c.), cumulando danni a cose e a persona; interessi e spese successivi alla domanda non contano.
 
 **Competenza per territorio.** Foro generale del convenuto (artt. 18-19 c.p.c.) concorrente con il foro del **luogo del sinistro** (art. 20 c.p.c.). Per l'azione diretta contro l'assicuratore, l'art. 145 e le norme del Codice delle assicurazioni consentono di radicare la causa anche nel luogo di residenza o domicilio del danneggiato: verificare il testo vigente, perché è una delle regole più utilizzate e più contestate.
@@ -148,7 +148,7 @@ Approfondimento → `civilista-adr`.
 
 **Danno dei congiunti.** *Iure proprio* per la perdita del rapporto parentale (tabella a punti di Milano ed. 2024 o di Roma, secondo la prassi dell'ufficio) e, se provato, danno biologico riflesso. *Iure hereditatis*, il danno biologico terminale e il danno da lucida agonia, con presupposti propri.
 
-**Interessi e rivalutazione.** Debito di valore: rivalutazione ISTAT dal sinistro alla liquidazione e interessi compensativi con il metodo di **Cass. SU 1712/1995** — sul capitale devalutato e progressivamente rivalutato, mai sulla somma finale rivalutata. Dalla liquidazione, interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026).
+**Interessi e rivalutazione.** Debito di valore: rivalutazione ISTAT dal sinistro alla liquidazione e interessi compensativi con il metodo di **Cass. SU 1712/1995** — sul capitale devalutato e progressivamente rivalutato, mai sulla somma finale rivalutata. Dalla liquidazione, interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026).
 
 Per il calcolo analitico → `civilista-quantificazione`.
 
@@ -175,6 +175,6 @@ Per il calcolo analitico → `civilista-quantificazione`.
 - **TUN macrolesioni (D.P.R. 12/2025, in vigore dal 5 marzo 2025):** verificare l'adozione della tabella medico-legale per la fascia 10-100 punti e la percentuale massima di personalizzazione. Diritto intertemporale controverso per i giudizi pendenti relativi a sinistri anteriori.
 - **Importi dell'art. 139 D.Lgs. 209/2005 (micropermanenti) e triplo della pensione sociale (art. 137):** aggiornati con decreto ministeriale annuale. Riverificare l'ultimo decreto prima di quantificare.
 - **Tabelle di Milano:** edizione qui considerata **2024**. Verificare la pubblicazione di edizioni successive.
-- **Competenza del giudice di pace per il danno da circolazione (€ 25.000):** le competenze ampliate del D.Lgs. 116/2017 sono rinviate al 31 ottobre 2026 (D.L. 117/2025). Verificare ulteriori proroghe.
+- **Competenza del giudice di pace per il danno da circolazione (€ 25.000):** le competenze ampliate del D.Lgs. 116/2017 sono rinviate al 31 ottobre 2027 (D.L. 100/2026). Verificare ulteriori proroghe.
 - **Saggio legale 1,60% dal 1° gennaio 2026:** riverificare ogni gennaio.
 - **Foro del danneggiato nell'azione diretta, presupposti dell'art. 149, risarcimento del terzo trasportato ex art. 141:** aree con contenzioso ricorrente. Cercare gli orientamenti in KB con `civilista-giurisprudenza` (copertura fino a febbraio 2026).

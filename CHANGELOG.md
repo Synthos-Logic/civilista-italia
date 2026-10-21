@@ -1,5 +1,53 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.9.0] — 2026-10-21
+
+### Aggiunto — lo stile dello studio
+Il kit può ora redigere gli atti seguendo l'impostazione dello studio invece di una standard.
+Non si tratta di apprendimento automatico, che non esiste: e' la documentazione dello studio usata
+come riferimento.
+
+- cartella **`MODELLI/`**, creata dall'avvio guidato, dove l'avvocato mette i propri atti gia'
+  depositati. Prima di redigere, `civilista-atti` cerca un modello pertinente, ne segue struttura,
+  ordine dell'esposizione, registro e formule, e **dichiara su quale si e' basato** — la stessa
+  logica di ancoraggio che vale per le massime;
+- scheda **`STILE_STUDIO.md`**, ricavata su richiesta leggendo i modelli una volta sola:
+  intestazione, ordine delle parti, come si introducono le norme, come si graduano le conclusioni,
+  formule ricorrenti, lessico. **Correggibile a mano**, e da quel momento prevalente. Migliora
+  dalle correzioni dell'avvocato, non da congetture, e non si riscrive da sola;
+- vincolo di riservatezza: lo stile riguarda **la forma, mai il contenuto**. Nella scheda non
+  entrano nomi di parti, numeri di causa, importi o fatti tratti dai modelli.
+
+### Aggiunto — guida al metodo
+Nuovo **`docs/METODO.md`**: i tre posti che si assomigliano (conversazione, cartella collegata,
+Progetto) e da cui nascono quasi tutti i problemi dei primi giorni; dove vivono i fascicoli; il
+rituale di apertura e chiusura di una sessione; **come accorgersi che il kit non e' stato usato
+davvero**; lo stile dello studio. Richiamata dalla pagina pubblica (sezione «Il metodo»), dal
+README e dalla guida di installazione, che finora si fermava al primo fascicolo.
+
+### Corretto — l'avvio guidato dichiarava competenze che il kit ha
+`civilista-inizia` diceva a ogni nuovo utente che il **diritto del lavoro e' fuori perimetro** e
+che **atti, quantificazione del danno e mediazione sono in costruzione**: falso dalla 0.8.0, dove
+esistono `civilista-lavoro`, `civilista-atti`, `civilista-quantificazione` e `civilista-adr`. Un
+limite inventato e' peggio di un limite taciuto, perche' l'avvocato rinuncia a uno strumento che
+avrebbe. Il perimetro si legge ora da `CLAUDE.md`, che e' l'unico elenco aggiornato.
+
+### Corretto — due proroghe scadute nel frattempo
+Verificate al 21 ottobre 2026 e allineate in quindici file:
+
+- **Tribunale per le persone, per i minorenni e per le famiglie**: il kit dava l'entrata a regime a
+  ottobre 2026, data ormai trascorsa. Il **D.L. 100/2026** (art. 3 co. 3) ha portato da quattro a
+  cinque anni il termine dell'art. 49 D.Lgs. 149/2022: **17 ottobre 2027**;
+- **competenze ampliate del giudice di pace** (D.Lgs. 116/2017): dal 31 ottobre 2026 al
+  **31 ottobre 2027**, stessa norma. Incideva sulla competenza in sei schede di materia.
+
+Rimosse le congetture su un rinvio a dicembre 2026, ormai risolte dai fatti.
+
+### Corretto — dati dei clienti esclusi dal versionamento
+`FASCICOLI/`, `MODELLI/` e `STILE_STUDIO.md` non erano nel `.gitignore`: un avvocato che per
+qualunque ragione avesse versionato la propria cartella si sarebbe portato dietro i fascicoli.
+
+
 ## [0.8.5] — 2026-08-07
 
 ### Corretto — il README spiegava l'impianto idraulico invece del rubinetto

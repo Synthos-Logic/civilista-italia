@@ -3,7 +3,7 @@
 
 > Materiale di lavoro. Non sostituisce la verifica sulle fonti. Ogni dato numerico porta la data di riferimento.
 >
-> **Terreno in movimento.** Il **Tribunale per le persone, per i minorenni e per le famiglie non è ancora operativo**: l'entrata a regime è stata prorogata a **ottobre 2026** dal D.L. 117/2025 (verificato al 6 agosto 2026). Fino ad allora restano le competenze attuali. Riverificare prima di depositare.
+> **Terreno in movimento.** Il **Tribunale per le persone, per i minorenni e per le famiglie non è ancora operativo**: l'entrata a regime è stata differita al **17 ottobre 2027** dal D.L. 100/2026 (verificato al 21 ottobre 2026). Fino ad allora restano le competenze attuali. Riverificare prima di depositare.
 >
 > Scheda complementare a `SEPARAZIONE_DIVORZIO_E_FIGLI.md`, cui si rinvia per status, addebito e rito nel suo complesso. Qui si tratta il contenuto economico e la regolamentazione dei figli.
 
@@ -49,7 +49,7 @@ L'onere ordinario dell'art. 2697 c.c. è temperato da due elementi propri della 
 | **Estintivo** | Passaggio in giudicato della sentenza di divorzio: cessa l'assegno di separazione | Parte interessata | Sentenza; annotazione |
 | **Estintivo** | **Prescrizione quinquennale dei ratei scaduti** (art. 2948 n. 2 c.c.) | Obbligato (eccezione in senso stretto) | Date di scadenza; assenza di atti interruttivi |
 
-**L'obbligo documentale — art. 473-bis.12 c.p.c.** Quando si chiedono contributi economici o vi sono figli minori, al ricorso e alla comparsa di costituzione vanno allegati: **dichiarazioni dei redditi degli ultimi tre anni**, documentazione attestante la titolarità di diritti reali su immobili e mobili registrati e di quote sociali, **estratti conto dei rapporti bancari e finanziari degli ultimi tre anni**, e il **piano genitoriale** nei procedimenti che riguardano minori (verificato al 6 agosto 2026). Il deposito non è una formalità: l'omissione o la produzione reticente è valutabile come argomento di prova e apre la strada alle **indagini tramite la polizia tributaria** ex art. 473-bis.13 c.p.c.
+**L'obbligo documentale — art. 473-bis.12 c.p.c.** Quando si chiedono contributi economici o vi sono figli minori, al ricorso e alla comparsa di costituzione vanno allegati: **dichiarazioni dei redditi degli ultimi tre anni**, documentazione attestante la titolarità di diritti reali su immobili e mobili registrati e di quote sociali, **estratti conto dei rapporti bancari e finanziari degli ultimi tre anni**, e il **piano genitoriale** nei procedimenti che riguardano minori (verificato al 21 ottobre 2026). Il deposito non è una formalità: l'omissione o la produzione reticente è valutabile come argomento di prova e apre la strada alle **indagini tramite la polizia tributaria** ex art. 473-bis.13 c.p.c.
 
 ---
 
@@ -74,7 +74,7 @@ Per il calcolo dei termini processuali → **`civilista-scadenze`**.
 
 ## 4. Condizione di procedibilità
 
-**Nessuna mediazione obbligatoria.** Le controversie in materia di mantenimento e affidamento non rientrano nell'elenco dell'art. 5 co. 1 D.Lgs. 28/2010 (verificato al 6 agosto 2026). L'unica voce contigua è quella dei **patti di famiglia**, che riguarda il trasferimento generazionale dell'impresa, non la crisi coniugale.
+**Nessuna mediazione obbligatoria.** Le controversie in materia di mantenimento e affidamento non rientrano nell'elenco dell'art. 5 co. 1 D.Lgs. 28/2010 (verificato al 21 ottobre 2026). L'unica voce contigua è quella dei **patti di famiglia**, che riguarda il trasferimento generazionale dell'impresa, non la crisi coniugale.
 
 **Negoziazione assistita in materia familiare — facoltativa, non condizione di procedibilità.** L'art. 6 D.L. 132/2014 la ammette per raggiungere una soluzione consensuale di separazione, cessazione degli effetti civili o scioglimento del matrimonio, **modifica delle condizioni** di separazione o divorzio, e per gli accordi sul mantenimento dei figli nati fuori dal matrimonio. In presenza di **figli minori, maggiorenni incapaci, portatori di handicap grave o economicamente non autosufficienti** l'accordo deve essere trasmesso al **pubblico ministero**, che lo autorizza; negli altri casi il PM ne verifica la regolarità e lo nulla osta.
 
@@ -128,7 +128,7 @@ Approfondimento → `civilista-adr`.
 
 **Mantenimento dei figli — i criteri dell'art. 337-ter co. 4 c.c.**, da svolgere uno per uno nell'atto: esigenze attuali del figlio; tenore di vita goduto in costanza di convivenza con entrambi i genitori; tempi di permanenza presso ciascun genitore; risorse economiche di entrambi; valenza economica dei compiti domestici e di cura assunti da ciascuno. Il contributo è **proporzionale** al reddito, non paritario.
 
-**Spese straordinarie.** Le linee guida del **Consiglio nazionale forense del 2017** distinguono le spese straordinarie in tre gruppi: quelle da rimborsare **senza previo accordo** (tipicamente sanitarie urgenti e prescritte, spese scolastiche obbligatorie), quelle che richiedono il **previo accordo** dei genitori (attività extrascolastiche, viaggi, corsi, spese di rilevante importo) e quelle non rimborsabili perché voluttuarie o già coperte dall'assegno. Ogni tribunale può adottare un proprio protocollo: **verificare quello dell'ufficio adito**, che prevale nella prassi (verificato al 6 agosto 2026). Ripartizione tipica al 50%, salvo diverso accordo o diversa proporzione reddituale. Nel dispositivo vanno fissati anche il **termine per la richiesta di rimborso** e quello per il pagamento, altrimenti il titolo resta di difficile esecuzione.
+**Spese straordinarie.** Le linee guida del **Consiglio nazionale forense del 2017** distinguono le spese straordinarie in tre gruppi: quelle da rimborsare **senza previo accordo** (tipicamente sanitarie urgenti e prescritte, spese scolastiche obbligatorie), quelle che richiedono il **previo accordo** dei genitori (attività extrascolastiche, viaggi, corsi, spese di rilevante importo) e quelle non rimborsabili perché voluttuarie o già coperte dall'assegno. Ogni tribunale può adottare un proprio protocollo: **verificare quello dell'ufficio adito**, che prevale nella prassi (verificato al 21 ottobre 2026). Ripartizione tipica al 50%, salvo diverso accordo o diversa proporzione reddituale. Nel dispositivo vanno fissati anche il **termine per la richiesta di rimborso** e quello per il pagamento, altrimenti il titolo resta di difficile esecuzione.
 
 **Assegno per il coniuge separato (art. 156 c.c.).** Parametro il tenore di vita matrimoniale, corretto dalla capacità contributiva effettiva dell'obbligato e dalle esigenze del richiedente.
 
@@ -136,7 +136,7 @@ Approfondimento → `civilista-adr`.
 
 **Adeguamento.** Gli assegni vanno indicizzati agli **indici ISTAT** dei prezzi al consumo, con cadenza e decorrenza da indicare espressamente nel dispositivo: la clausola generica genera contenzioso esecutivo.
 
-**Accessori.** Sui ratei scaduti decorrono gli interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 6 agosto 2026).
+**Accessori.** Sui ratei scaduti decorrono gli interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026).
 
 Per il calcolo analitico → `civilista-quantificazione`.
 
@@ -159,7 +159,7 @@ Per il calcolo analitico → `civilista-quantificazione`.
 
 *Ultima verifica: 6 agosto 2026.*
 
-- **Operatività del Tribunale per le persone, per i minorenni e per le famiglie:** proroga a **ottobre 2026** disposta dal D.L. 117/2025. Verificare se è intervenuta un'ulteriore proroga o se il nuovo ufficio è divenuto operativo, perché cambia la competenza.
+- **Operatività del Tribunale per le persone, per i minorenni e per le famiglie:** proroga al **17 ottobre 2027** disposta dal D.L. 100/2026. Verificare se è intervenuta un'ulteriore proroga o se il nuovo ufficio è divenuto operativo, perché cambia la competenza.
 - **Protocollo sulle spese straordinarie del tribunale adito:** le linee guida CNF del 2017 non hanno applicazione uniforme e i protocolli locali variano sensibilmente. Reperirlo prima di redigere le condizioni.
 - **Assegno divorzile e convivenza di fatto del beneficiario:** effetti su *an* e *quantum* in evoluzione giurisprudenziale. Massime → `civilista-giurisprudenza`.
 - **Mantenimento del figlio maggiorenne e presunzione di autosufficienza legata all'età:** orientamento in movimento, con rigore crescente al crescere dell'età. Verificare in KB.

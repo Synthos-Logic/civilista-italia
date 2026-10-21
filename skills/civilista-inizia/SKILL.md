@@ -27,8 +27,10 @@ Obiettivo: **operativo in 15 minuti, su un caso vero**, senza leggere documentaz
 4. **Sempre su una causa reale.** L'esempio astratto annoia; il primo fascicolo vero convince.
    Se in questo momento non ha una causa da inserire, mostra in due minuti cosa il kit farebbe
    su un caso tipo, ma proponi comunque di aprire il primo fascicolo reale prima di chiudere.
-5. **Non promettere ciò che il kit non fa ancora.** Diverse skill sono in costruzione
-   (vedi tabella in `CLAUDE.md`): dichiararlo è parte dell'onboarding, non un'ammissione.
+5. **Non promettere ciò che il kit non copre.** Il perimetro e l'elenco delle competenze stanno
+   in `CLAUDE.md`: **leggilo prima di descrivere il kit**, non andare a memoria. Dichiarare un
+   limite è parte dell'onboarding; attribuirsene uno che non esiste è un danno peggiore, perché
+   l'avvocato rinuncia a usare uno strumento che avrebbe.
 
 ## FASE 1 — Dati dello studio
 
@@ -41,10 +43,20 @@ Leggi `CLAUDE.md` nella cartella di lavoro, sezione "Dati dello studio".
 
 ## FASE 2 — Struttura di lavoro
 
-Controlla che esistano l'indice dello studio (`INDEX.md`), lo `SCADENZIARIO.md` e la cartella
-`FASCICOLI/`. **Crea tu ciò che manca**, senza chiedere il permesso file per file, e riassumi a
-cose fatte: *"Ho preparato l'indice dello studio e lo scadenziario: sono i due documenti che terrò
-aggiornati per lei a ogni sessione."*
+Controlla che esistano l'indice dello studio (`INDEX.md`), lo `SCADENZIARIO.md`, la cartella
+`FASCICOLI/` e la cartella `MODELLI/`. **Crea tu ciò che manca**, senza chiedere il permesso file
+per file, e riassumi a cose fatte: *"Ho preparato l'indice dello studio e lo scadenziario: sono i
+due documenti che terrò aggiornati per lei a ogni sessione."*
+
+**Sui modelli, una domanda sola** — e una sola volta, senza insistere se la risposta è no:
+
+> *"Ho creato anche una cartella **MODELLI**. Se ci mette tre o quattro atti già depositati — una
+> citazione, una comparsa, una memoria — le bozze che le preparo seguiranno la sua impostazione
+> invece di una standard. Può farlo anche più avanti: basta che me lo dica."*
+
+Se l'avvocato li indica subito, leggili e proponi di ricavarne la scheda `STILE_STUDIO.md`
+(procedura in `civilista-atti`, modulo *Lo stile dello studio*). Se dice di no o rimanda, annota
+il punto come aperto e **non tornarci sopra**: è un'offerta, non un adempimento.
 
 ## FASE 3 — Il primo fascicolo civile
 
@@ -119,17 +131,18 @@ Tre righe, poi si chiude:
 quotidiano dello scadenziario ("ogni mattina guardo i termini in scadenza nei 15 giorni e le
 segnalo quelli a ritroso"). Se accetta, crea l'attività pianificata.
 
-## Cosa il kit non fa ancora — dirlo prima che lo scopra
+## Che cosa copre e che cosa no — dirlo prima che lo scopra
 
-Due righe, asciutte, senza promesse di date:
+Due righe, asciutte. **Prendi il perimetro da `CLAUDE.md`**, che è l'unico elenco aggiornato:
 
-> Oggi il kit lavora su obbligazioni e contratti, responsabilità civile e danni, locazioni e
-> condominio, famiglia e persone; sono invece fuori perimetro lavoro, tributario, crisi d'impresa
-> e protezione internazionale. Alcune skill — atti, quantificazione del danno, mediazione — sono
-> ancora in costruzione: dove manca lo strumento glielo dico e lavoriamo su ciò che è ancorabile.
+> Oggi il kit copre, in ordine di quanto pesano nella pratica: decreto ingiuntivo e opposizione,
+> diritto del lavoro, diritto di famiglia, obbligazioni e contratti, responsabilità civile e danni,
+> locazioni e condominio. Restano fuori tributario, crisi d'impresa, protezione internazionale,
+> previdenza in senso proprio e societario: su quelle materie glielo dico apertamente e lavoriamo
+> solo su ciò che è ancorabile.
 
 Sul diritto di famiglia, segnala il punto di attenzione: il Tribunale per le persone, per i
-minorenni e per le famiglie **non è ancora operativo** (entrata a regime rinviata a ottobre 2026),
+minorenni e per le famiglie **non è ancora operativo** (entrata a regime rinviata a 17 ottobre 2027),
 quindi valgono le competenze attuali.
 
 ## Regola di uscita

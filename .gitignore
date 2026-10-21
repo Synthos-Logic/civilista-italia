@@ -24,3 +24,9 @@ KNOWLEDGE_BASE/**/*.pdf
 KNOWLEDGE_BASE/02_GIURISPRUDENZA/SEGNALATE/
 KNOWLEDGE_BASE/02_GIURISPRUDENZA/CONSULTA/
 KNOWLEDGE_BASE/.banca_dati_cache/
+
+# Lavoro dello studio — contiene dati di clienti reali: non va mai versionato
+FASCICOLI/*
+!FASCICOLI/.gitkeep
+MODELLI/
+STILE_STUDIO.md

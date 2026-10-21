@@ -93,7 +93,7 @@ Durata della mediazione: **6 mesi**, prorogabile per periodi non superiori a 3 m
 - **Giudice di pace:** cause relative a **beni mobili fino a € 10.000** (art. 7 c.p.c. come modificato dal D.Lgs. 149/2022 — soglie in vigore dal 28 febbraio 2023);
 - **Tribunale:** tutto il resto, in composizione monocratica.
 - Il valore si determina sulla somma domandata (art. 10); gli interessi e le spese successivi alla domanda non contano.
-- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono state **rinviate al 31 ottobre 2026** (D.L. 117/2025 — verificato al 5 agosto 2026): prima di radicare la causa, controllare se la proroga è stata ulteriormente spostata.
+- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono state **rinviate al 31 ottobre 2027** (D.L. 100/2026 — verificato al 21 ottobre 2026): prima di radicare la causa, controllare se la proroga è stata ulteriormente spostata.
 
 **Competenza per territorio:** foro generale del convenuto (artt. 18-19 c.p.c.) concorrente con i fori facoltativi delle cause relative a diritti di obbligazione: luogo di conclusione del contratto e **luogo di esecuzione dell'obbligazione dedotta in giudizio** (art. 20). Per le obbligazioni pecuniarie l'esecuzione è al domicilio del creditore se il debito è liquido ed esigibile (art. 1182 co. 3 c.c.) — il **forum destinatae solutionis**, che non opera se il credito è illiquido o contestato nell'*an*.
 
@@ -131,7 +131,7 @@ Durata della mediazione: **6 mesi**, prorogabile per periodi non superiori a 3 m
 
 **Limite di prevedibilità** (art. 1225 c.c.): salvo dolo, il risarcimento è limitato al danno prevedibile al tempo in cui è sorta l'obbligazione.
 
-**Obbligazioni pecuniarie (debiti di valuta).** Interessi legali dalla mora (art. 1224 co. 1) sull'importo nominale; **maggior danno** ex art. 1224 co. 2 se il creditore prova di aver subito un pregiudizio superiore. Saggio legale: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026); per i periodi anteriori si applicano i saggi pro tempore vigenti, anno per anno.
+**Obbligazioni pecuniarie (debiti di valuta).** Interessi legali dalla mora (art. 1224 co. 1) sull'importo nominale; **maggior danno** ex art. 1224 co. 2 se il creditore prova di aver subito un pregiudizio superiore. Saggio legale: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026); per i periodi anteriori si applicano i saggi pro tempore vigenti, anno per anno.
 
 **Transazioni commerciali** (D.Lgs. 231/2002): interessi moratori automatici al tasso BCE maggiorato di 8 punti, senza necessità di costituzione in mora, più **€ 40** di importo forfettario per i costi di recupero. Il tasso BCE di riferimento è pubblicato semestralmente in G.U.: **va riverificato a ogni semestre**, non è un dato stabile.
 
@@ -162,7 +162,7 @@ Per il calcolo analitico → `civilista-quantificazione`.
 
 - **Saggio degli interessi legali:** 1,60% dal 1° gennaio 2026. Cambia con D.M. MEF pubblicato di norma a dicembre per l'anno successivo — riverificare ogni gennaio.
 - **Tasso di riferimento BCE per le transazioni commerciali** (D.Lgs. 231/2002): pubblicato in G.U. ogni semestre. Da riverificare a gennaio e a luglio.
-- **Competenza del giudice di pace:** le competenze ampliate del D.Lgs. 116/2017 sono rinviate al 31 ottobre 2026 (D.L. 117/2025). Verificare se è intervenuta un'ulteriore proroga prima di radicare la causa.
+- **Competenza del giudice di pace:** le competenze ampliate del D.Lgs. 116/2017 sono rinviate al 31 ottobre 2027 (D.L. 100/2026). Verificare se è intervenuta un'ulteriore proroga prima di radicare la causa.
 - **Elenco delle materie di mediazione obbligatoria:** aggiornato al correttivo D.Lgs. 216/2024. Da riverificare a ogni intervento sul D.Lgs. 28/2010.
 - **Soglia della negoziazione assistita** (€ 50.000): stabile, ma da ricontrollare a ogni modifica del D.L. 132/2014.
 - **Orientamenti su onere della prova, art. 1455 e art. 1227:** cercare in KB con `civilista-giurisprudenza`. La KB copre le massime civili fino a **febbraio 2026**; sopra quella data dichiarare "non presente in KB" e verificare su banca dati esterna.

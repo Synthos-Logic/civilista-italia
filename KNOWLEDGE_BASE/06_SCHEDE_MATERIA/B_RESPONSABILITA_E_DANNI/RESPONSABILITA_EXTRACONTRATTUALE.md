@@ -50,7 +50,7 @@ Regola base: **tutti gli elementi dell'illecito gravano sul danneggiato** (art. 
 
 ## 3. Termini
 
-**Prescrizione — art. 2947 c.c.** (testo verificato al 5 agosto 2026):
+**Prescrizione — art. 2947 c.c.** (testo verificato al 21 ottobre 2026):
 - **5 anni** dal giorno in cui il fatto si è verificato, regola generale (co. 1);
 - **2 anni** per il danno prodotto dalla circolazione di veicoli di ogni specie (co. 2) → scheda `DANNO_DA_CIRCOLAZIONE_STRADALE`;
 - **prescrizione più lunga del reato**, se il fatto è considerato dalla legge come reato e per il reato è stabilita una prescrizione più lunga (co. 3). Se il reato si estingue per causa diversa dalla prescrizione, o interviene sentenza penale irrevocabile, il termine civile di 5 o 2 anni **ricomincia a decorrere** da quella data.
@@ -88,7 +88,7 @@ Durata della mediazione: **6 mesi** prorogabili (art. 6 D.Lgs. 28/2010); primo i
 **Competenza per valore** (artt. 7 e 10 c.p.c.):
 - **Giudice di pace:** beni mobili fino a **€ 10.000**; danno da circolazione di veicoli e natanti fino a **€ 25.000** (art. 7 c.p.c., soglie in vigore dal 28 febbraio 2023). Competenza **per materia**, senza limite di valore, per apposizione di termini e distanze degli alberi e siepi e per immissioni di fumo, calore, rumori e scuotimenti che superano la normale tollerabilità.
 - **Tribunale monocratico** per il resto.
-- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono **rinviate al 31 ottobre 2026** (D.L. 117/2025 — verificato al 5 agosto 2026): verificare eventuali ulteriori proroghe.
+- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 sono **rinviate al 31 ottobre 2027** (D.L. 100/2026 — verificato al 21 ottobre 2026): verificare eventuali ulteriori proroghe.
 
 **Competenza per territorio.** Foro generale del convenuto (artt. 18-19 c.p.c.) concorrente con il **foro del luogo in cui è sorta l'obbligazione**, cioè il luogo del fatto illecito (art. 20 c.p.c.). Nei danni a distanza, il luogo in cui si è verificato l'evento dannoso. Contro la pubblica amministrazione, foro erariale ex art. 25 c.p.c. e art. 6 R.D. 1611/1933.
 
@@ -135,7 +135,7 @@ Durata della mediazione: **6 mesi** prorogabili (art. 6 D.Lgs. 28/2010); primo i
 
 **Personalizzazione.** L'aumento sui valori tabellari richiede la prova di conseguenze **peculiari e non ordinarie** rispetto a quelle già considerate nella tabella: allegazioni specifiche, testimoni sulle attività abbandonate, documentazione. Una richiesta di personalizzazione senza allegazione specifica viene respinta.
 
-**Interessi e rivalutazione.** Il credito risarcitorio è **debito di valore**: si rivaluta secondo indici ISTAT dal fatto alla liquidazione. Gli interessi compensativi si calcolano con il metodo di **Cass. SU 1712/1995** — mai sulla somma integralmente rivalutata, ma sul capitale devalutato al momento del fatto e progressivamente rivalutato (o sul capitale medio del periodo). Dalla sentenza in poi il credito si converte in debito di valuta e produce interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026).
+**Interessi e rivalutazione.** Il credito risarcitorio è **debito di valore**: si rivaluta secondo indici ISTAT dal fatto alla liquidazione. Gli interessi compensativi si calcolano con il metodo di **Cass. SU 1712/1995** — mai sulla somma integralmente rivalutata, ma sul capitale devalutato al momento del fatto e progressivamente rivalutato (o sul capitale medio del periodo). Dalla sentenza in poi il credito si converte in debito di valuta e produce interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026).
 
 Per il calcolo analitico → `civilista-quantificazione`.
 
@@ -161,5 +161,5 @@ Per il calcolo analitico → `civilista-quantificazione`.
 - **Tabelle di Milano:** ultima edizione qui considerata è la **2024**. Verificare se è stata pubblicata un'edizione successiva prima di quantificare.
 - **Valori delle micropermanenti (art. 139 D.Lgs. 209/2005) e triplo della pensione sociale:** aggiornati con decreto ministeriale annuale. Riverificare.
 - **Saggio legale 1,60% dal 1° gennaio 2026:** riverificare ogni gennaio.
-- **Competenza del giudice di pace:** competenze ampliate del D.Lgs. 116/2017 rinviate al 31 ottobre 2026 (D.L. 117/2025). Verificare ulteriori proroghe.
+- **Competenza del giudice di pace:** competenze ampliate del D.Lgs. 116/2017 rinviate al 31 ottobre 2027 (D.L. 100/2026). Verificare ulteriori proroghe.
 - **Compensatio lucri cum damno**, personalizzazione del danno biologico, danno da perdita del rapporto parentale: aree in evoluzione. Cercare le massime in KB con `civilista-giurisprudenza` (copertura fino a febbraio 2026; sopra tale data dichiarare "non presente in KB").

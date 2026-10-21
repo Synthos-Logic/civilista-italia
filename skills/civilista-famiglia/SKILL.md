@@ -29,10 +29,9 @@ prova, difese tipiche, quantificazione): **leggila prima**, qui non si ripete. T
 sentenza a memoria**.
 
 **AVVERTENZA, da ripetere su ogni pratica.** Il **Tribunale per le persone, per i minorenni e per le
-famiglie NON è operativo**: il D.L. 117/2025 ha spostato l'entrata a regime a **ottobre 2026** (termine
-dell'art. 49 D.Lgs. 149/2022 portato da tre a quattro anni), e fonti di categoria riferiscono un
-**ulteriore slittamento a dicembre 2026**. **Stato al 6 agosto 2026: riscontrare in Gazzetta Ufficiale
-prima di ogni deposito.** Fino ad allora vale il riparto attuale (§ 1.6).
+famiglie NON è operativo**: il D.L. 100/2026 ha spostato l'entrata a regime al **17 ottobre 2027** (termine
+dell'art. 49 D.Lgs. 149/2022 portato da quattro a cinque anni). **Stato al 21 ottobre 2026.** La data è stata già spostata due volte:
+riscontrarla prima di ogni deposito. Fino ad allora vale il riparto attuale (§ 1.6).
 
 ---
 ## Modulo 0 — La mappa delle strade possibili
@@ -48,7 +47,7 @@ molto diversi per costo e velocità; se no, si va in giudizio — ma ogni percor
 | **Separazione o divorzio contenzioso** (rito unificato, § 1) | Nessun accordo, o accordo solo parziale | Primo grado **1-3 anni**, oltre l'eventuale appello — stima di prassi, non statistica ufficiale | CU **€ 98** (€ 98+98 se cumulate). **Esenti da CU** i procedimenti relativi alla prole: mantenimento dei figli di qualunque età, affidamento dei minori, responsabilità genitoriale sui figli nati fuori dal matrimonio | Quando manca il consenso su un punto non negoziabile, serve un provvedimento urgente, ci sono redditi occultati o rischio per i minori |
 
 Fonte degli importi: **circolare del Ministero della giustizia 19 dicembre 2024** dopo il D.Lgs. 164/2024
-(verificato al 6 agosto 2026). Riverificare prima del deposito.
+(verificato al 21 ottobre 2026). Riverificare prima del deposito.
 
 **Regole di scelta, da applicare non da recitare.**
 
@@ -72,7 +71,7 @@ Fonte degli importi: **circolare del Ministero della giustizia 19 dicembre 2024*
 Procedimenti instaurati **dal 28 febbraio 2023**; il rito semplificato non si applica. Sequenza: ricorso →
 decreto di fissazione **entro 3 giorni** → notifica → costituzione del convenuto → tre memorie a ritroso →
 **udienza di comparizione personale** con conciliazione e **provvedimenti temporanei e urgenti** →
-istruttoria → decisione. Distanze (art. 473-bis.14 c.p.c., verificato al 6 agosto 2026): fra notifica e
+istruttoria → decisione. Distanze (art. 473-bis.14 c.p.c., verificato al 21 ottobre 2026): fra notifica e
 udienza **60 giorni liberi** minimi (90 se all'estero), udienza entro **90 giorni** dal deposito (120 se
 notifica all'estero).
 
@@ -111,7 +110,7 @@ Calcolo → `civilista-scadenze`.
 **provvedimenti temporanei e urgenti** (art. 473-bis.22 c.p.c.) su figli, casa e contributi. È **la fase
 che determina l'assetto pratico per gli anni successivi**: va preparata come una decisione di merito.
 
-**Reclamo** (art. 473-bis.24 c.p.c., verificato al 6 agosto 2026): **corte d'appello in composizione
+**Reclamo** (art. 473-bis.24 c.p.c., verificato al 21 ottobre 2026): **corte d'appello in composizione
 collegiale**, **termine perentorio di 10 giorni** dalla pronuncia in udienza, dalla comunicazione o dalla
 notificazione se anteriore. Reclamabili i provvedimenti della prima udienza e, in corso di causa,
 **soltanto** quelli che sospendono o limitano la responsabilità genitoriale, modificano affidamento o
@@ -179,7 +178,7 @@ e, se impossibile, il verbale descrive il comportamento del minore. Da dire al c
 viene ascoltato per scegliere un genitore**, e prepararlo è visibile e valutabile contro chi lo compie.
 
 **Curatore speciale del minore (art. 473-bis.8 c.p.c.).** Nomina **obbligatoria, anche d'ufficio e a pena
-di nullità** (verificato al 6 agosto 2026): quando il PM chieda la decadenza dalla responsabilità di
+di nullità** (verificato al 21 ottobre 2026): quando il PM chieda la decadenza dalla responsabilità di
 **entrambi** i genitori, o un genitore la chieda contro l'altro; per provvedimenti ex art. 403 c.c. o
 affidamento ai sensi della L. 184/1983; quando dai fatti emersi risulti una **situazione di pregiudizio**
 tale da precludere l'adeguata rappresentanza processuale da parte di entrambi i genitori; **su richiesta
@@ -234,7 +233,7 @@ possono contenere **trasferimenti immobiliari** con i benefici fiscali dell'art.
 nell'art. 12** D.L. 132/2014.
 
 **Ordini di protezione contro gli abusi familiari.** Disciplina **sostanziale** negli artt. 342-bis e
-342-ter c.c., **processuale** negli artt. 473-bis.69 ss. c.p.c. (verificato al 6 agosto 2026: l'art.
+342-ter c.c., **processuale** negli artt. 473-bis.69 ss. c.p.c. (verificato al 21 ottobre 2026: l'art.
 342-bis c.c. resta vigente). Presupposto: la condotta del coniuge o convivente che causa **grave
 pregiudizio all'integrità fisica o morale ovvero alla libertà** dell'altro; adottabile **anche dopo la
 cessazione della convivenza** e, con minori, su istanza del PM. Contenuto (art. 473-bis.70 c.p.c.):
@@ -244,7 +243,7 @@ mezzi; **durata massima un anno**.
 
 **Esclusi dalla sospensione feriale.** L'art. 92 ord. giud. include espressamente gli **ordini di
 protezione contro gli abusi familiari** fra gli affari trattati anche nel periodo feriale, con le cause
-relative agli **alimenti**, i **procedimenti cautelari** e gli sfratti (verificato al 6 agosto 2026): in
+relative agli **alimenti**, i **procedimenti cautelari** e gli sfratti (verificato al 21 ottobre 2026): in
 agosto **si deposita**. La violazione dell'ordine ha **rilievo penale**: segnalarlo e rimandare a un
 penalista.
 
@@ -375,10 +374,10 @@ Questa regola non ammette eccezioni ed è più importante di ogni altra parte di
 ---
 ## Da verificare — stato al 6 agosto 2026
 
-- **Tribunale per le persone, per i minorenni e per le famiglie: non operativo.** D.L. 117/2025 (art. 49
-  D.Lgs. 149/2022 portato a quattro anni: **ottobre 2026**); fonti successive riferiscono un **ulteriore
-  rinvio a dicembre 2026** e un intervento che conserverebbe i tribunali per i minorenni. **Riscontrare in
-  Gazzetta Ufficiale.**
+- **Tribunale per le persone, per i minorenni e per le famiglie: non operativo.** D.L. 100/2026 (art. 49
+  D.Lgs. 149/2022 portato a cinque anni: **17 ottobre 2027**); resta in discussione un intervento che
+  conserverebbe i tribunali per i minorenni. **Verificato al 21 ottobre 2026: riscontrare in
+  Gazzetta Ufficiale prima di ogni deposito.**
 - **Contributo unificato**: € 43 (congiunta), € 98 (contenzioso), esenzione per i procedimenti relativi
   alla prole — circolare Ministero della giustizia 19 dicembre 2024 dopo il D.Lgs. 164/2024. Riverificare
   importi e anticipazioni forfettarie.

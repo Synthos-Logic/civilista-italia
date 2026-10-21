@@ -13,7 +13,7 @@ description: >
   'scrivi la comparsa conclusionale', 'prepara la memoria di replica', 'atto di appello',
   'imposta i motivi di appello', 'ricorso per cassazione', 'prepara il precetto',
   'notifichiamo il precetto', 'scrivi la diffida', 'manda una messa in mora',
-  'costituzione in mora', 'bozza l'atto'. Attivare anche quando l'analisi svolta con
+  'costituzione in mora', 'bozza l'atto', 'usa i miei atti come modello', 'segui il mio stile', 'scrivi come scrivo io', 'ricava il mio stile dai modelli', 'impara come scrivo'. Attivare anche quando l'analisi svolta con
   civilista-caso deve tradursi in un documento da depositare.
 ---
 
@@ -38,17 +38,21 @@ termine passa da `civilista-scadenze`: qui si dice *quale* termine rileva, lì s
    Mai ricostruire a memoria numeri di sentenza, numeri Rv o date di deposito.
 2. **Nessun nome reale nei modelli.** I template usano segnaposto tra parentesi quadre.
    I dati delle parti li inserisce il difensore.
-3. **Deposito telematico** obbligatorio ai sensi dell'**art. 196-quater disp. att. c.p.c.**
+3. **Prima di redigere, cerca l'impostazione dello studio.** Se esistono `STILE_STUDIO.md` o
+   `MODELLI/`, seguili e **dichiara su cosa ti sei basato**. Procedura completa nel modulo
+   *Lo stile dello studio*, più sotto. Un atto corretto ma scritto con un'impostazione estranea
+   viene riscritto a mano: è lavoro buttato.
+4. **Deposito telematico** obbligatorio ai sensi dell'**art. 196-quater disp. att. c.p.c.**
    Il malfunzionamento del sistema non sospende i termini: programma il deposito con almeno
    un giorno lavorativo pieno di margine.
-4. **Conclusioni numerate**, graduate (principale, subordinata, istruttoria, spese) e
+5. **Conclusioni numerate**, graduate (principale, subordinata, istruttoria, spese) e
    **coerenti** con le domande svolte in atto. La domanda di spese non si omette mai e va
    formulata in modo completo: spese, compensi, rimborso forfettario, C.P.A. e I.V.A.
-5. **Valore della causa** sempre dichiarato ai fini del contributo unificato, con il
+6. **Valore della causa** sempre dichiarato ai fini del contributo unificato, con il
    criterio di determinazione.
-6. **Ogni atto è una bozza.** Chiusura obbligatoria di ogni modulo: bozza soggetta alla
+7. **Ogni atto è una bozza.** Chiusura obbligatoria di ogni modulo: bozza soggetta alla
    revisione del difensore, e proposta di eseguire `civilista-verifica` prima del deposito.
-7. **Distingui fatto allegato e fatto provato**, e per ogni fatto costitutivo indica il
+8. **Distingui fatto allegato e fatto provato**, e per ogni fatto costitutivo indica il
    documento o il mezzo di prova che lo sostiene.
 
 ---
@@ -856,6 +860,82 @@ Allegati: [documenti a supporto]
 **Chiusura.** Bozza soggetta a revisione del difensore. Prima dell'invio esegui
 `civilista-verifica`, con controllo su destinatario, termine assegnato, prova della
 ricezione e coerenza con il termine di prescrizione calcolato.
+
+---
+
+## Lo stile dello studio — scrivere come scrive l'avvocato
+
+Un atto tecnicamente corretto ma scritto con un'impostazione che non è la sua costringe
+l'avvocato a riscriverlo. Il kit **non ricava da solo uno stile** osservando i fascicoli: lavora
+su ciò che gli viene indicato. Questa è la procedura per indicarglielo.
+
+### Dove stanno i riferimenti
+
+```
+Civile-Italia/
+├── STILE_STUDIO.md        ← la scheda di stile: ha la precedenza su tutto
+└── MODELLI/               ← atti dello studio già depositati
+    ├── <materia>/         ← sottocartelle facoltative, per materia o per rito
+    └── ...
+```
+
+Entrambi sono **esclusi dal versionamento**: contengono il lavoro dello studio.
+
+### Regola operativa, vincolante
+
+Prima di redigere qualsiasi atto, **in quest'ordine**:
+
+1. se esiste `STILE_STUDIO.md`, leggilo: è la fonte prevalente, perché è stata rivista
+   dall'avvocato;
+2. altrimenti, se esiste `MODELLI/` con un atto pertinente per tipo o materia, aprilo e
+   seguine l'impostazione;
+3. in mancanza di entrambi, usa l'impostazione predefinita di questa skill e **dillo una
+   volta sola**, senza insistere: *"Non ho modelli dello studio: ho usato l'impostazione
+   standard. Se mi indica due o tre atti già depositati, le prossime bozze seguiranno la sua."*
+
+**Dichiara sempre su cosa ti sei basato**, in chiusura e in una riga: *"Impostazione presa da
+`MODELLI/monitorio/opposizione_2025.docx`"* oppure *"Impostazione da `STILE_STUDIO.md`"*. È la
+stessa logica dell'ancoraggio delle massime: l'avvocato deve poter risalire alla fonte di ciò
+che legge, anche quando la fonte è un suo atto.
+
+Lo stile riguarda **la forma, mai il contenuto**: non si trasportano da un modello fatti,
+importi, nomi, numeri di ruolo o argomenti di merito. Si prendono la struttura, l'ordine
+dell'esposizione, il registro e le formule.
+
+### Costruire la scheda di stile
+
+Quando l'avvocato lo chiede — *"ricava il mio stile dai modelli"*, *"impara come scrivo"* — o
+quando `MODELLI/` contiene almeno tre atti e la scheda non esiste ancora, proponilo tu una volta.
+
+Leggi gli atti in `MODELLI/` e scrivi `STILE_STUDIO.md` con queste voci, **solo quelle che i
+modelli documentano davvero**:
+
+| Voce | Che cosa registrare |
+|---|---|
+| Intestazione ed epigrafe | Come si apre l'atto, come si indicano parti e difensore, dove vanno PEC e codice fiscale |
+| Ordine delle parti | In che sequenza compaiono fatti, diritto, istanze istruttorie, conclusioni |
+| Esposizione dei fatti | Numerati o discorsivi, con o senza titoletti, in che tempo verbale |
+| Trattazione in diritto | Come si introducono le norme, come si innestano le massime, se si usano note |
+| Conclusioni | Formula di apertura, ordine delle domande, come si gradua il subordine, come si chiedono le spese |
+| Formule ricorrenti | Aperture e chiusure che tornano in più atti, riportate testualmente |
+| Lessico | Termini che l'avvocato usa e termini che evita sistematicamente |
+| Lunghezza tipica | Cartelle per tipo di atto, come indicazione e non come vincolo |
+
+**Vincolo di riservatezza, non negoziabile.** La scheda registra **come** si scrive, mai **che
+cosa** si è scritto: nessun nome di parte, nessun numero di causa, nessun importo, nessun fatto
+tratto dai modelli. Le formule si riportano con segnaposto tra parentesi quadre. È la scheda che
+più facilmente verrà condivisa fra colleghi dello stesso studio, e deve poter circolare.
+
+Chiudi dicendo che il file è **modificabile a mano**: se l'avvocato corregge una voce, da quel
+momento vale la sua. La scheda non si riscrive da sola a ogni atto — si rigenera solo su
+richiesta, quando i modelli cambiano.
+
+### Quando l'avvocato corregge la bozza
+
+Se indica una differenza rispetto alla sua impostazione — un'intestazione diversa, le conclusioni
+in altro ordine — applicala per il resto della sessione e **proponi di annotarla in
+`STILE_STUDIO.md`**, così non va ripetuta la volta dopo. È il modo in cui la scheda migliora:
+dalle correzioni, non dalle congetture.
 
 ---
 

@@ -139,7 +139,7 @@ Approfondimento → `civilista-adr`.
 - danno da lesione del **diritto all'autodeterminazione** per difetto di consenso informato: voce autonoma, liquidata equitativamente, non assorbita nel danno biologico;
 - danno dei congiunti *iure proprio* (parentale, e danno biologico riflesso se provato).
 
-**Interessi e rivalutazione.** Debito di valore: rivalutazione ISTAT dal fatto alla liquidazione e interessi compensativi calcolati con il metodo di **Cass. SU 1712/1995** (mai sulla somma integralmente rivalutata). Dalla sentenza, interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026).
+**Interessi e rivalutazione.** Debito di valore: rivalutazione ISTAT dal fatto alla liquidazione e interessi compensativi calcolati con il metodo di **Cass. SU 1712/1995** (mai sulla somma integralmente rivalutata). Dalla sentenza, interessi legali: **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026).
 
 Per il calcolo analitico → `civilista-quantificazione`.
 

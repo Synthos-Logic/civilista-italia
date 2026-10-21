@@ -1,5 +1,5 @@
 # Schede di Materia — Guida all'uso
-*Kit Civilista Italiano — versione 0.8.5 — Ultima verifica: 6 agosto 2026*
+*Kit Civilista Italiano — versione 0.9.0 — Ultima verifica: 6 agosto 2026*
 
 Le Schede di Materia sono l'equivalente civile delle "schede reato" del Kit Penalista. Sono il punto di ingresso operativo su una controversia: si aprono **prima** di studiare il fascicolo, per sapere cosa si deve provare, entro quando, davanti a chi e con quale filtro preventivo.
 
@@ -55,7 +55,7 @@ Valgono per tutti i numeri del civile: saggio degli interessi legali, valori del
 Formato: `valore (fonte, in vigore dal / edizione — verificato al gg/mm/aaaa)`.
 
 Esempi in uso nelle schede:
-- saggio legale **1,60% dal 1° gennaio 2026** (D.M. MEF pubblicato in G.U. nel dicembre 2025 — verificato al 5 agosto 2026);
+- saggio legale **1,60% dal 1° gennaio 2026** (D.M. MEF pubblicato in G.U. nel dicembre 2025 — verificato al 21 ottobre 2026);
 - **TUN macrolesioni, D.P.R. 12/2025, in vigore dal 5 marzo 2025**, invalidità superiori al 10%;
 - **Tabelle di Milano, edizione 2024**;
 - competenza del giudice di pace: **beni mobili fino a € 10.000, danno da circolazione fino a € 25.000** (art. 7 c.p.c. come modificato dal D.Lgs. 149/2022);

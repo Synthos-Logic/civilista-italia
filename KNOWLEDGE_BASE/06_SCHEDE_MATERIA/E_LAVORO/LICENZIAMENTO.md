@@ -19,7 +19,7 @@
 **Il doppio regime sanzionatorio — è la prima domanda da farsi.** La tutela applicabile dipende dalla **data di assunzione**, non dalla data del licenziamento:
 - lavoratori assunti **fino al 6 marzo 2015**: art. 18 L. 300/1970 nel testo riscritto dalla L. 92/2012, se il datore supera il requisito dimensionale; altrimenti tutela obbligatoria ex art. 8 L. 604/1966;
 - lavoratori assunti **dal 7 marzo 2015** (data di entrata in vigore del D.Lgs. 23/2015): regime a tutele crescenti, con art. 9 per i datori sotto soglia.
-Il D.Lgs. 23/2015 si applica anche ai lavoratori assunti prima, quando il datore supera la soglia dimensionale in conseguenza di assunzioni successive al 7 marzo 2015, e ai casi di conversione di un contratto a termine o di apprendistato dopo tale data (verificato al 6 agosto 2026).
+Il D.Lgs. 23/2015 si applica anche ai lavoratori assunti prima, quando il datore supera la soglia dimensionale in conseguenza di assunzioni successive al 7 marzo 2015, e ai casi di conversione di un contratto a termine o di apprendistato dopo tale data (verificato al 21 ottobre 2026).
 
 **Licenziamento orale.** L'art. 2 L. 604/1966 impone la forma scritta *ad substantiam*, con contestuale indicazione dei motivi. Il licenziamento intimato oralmente è radicalmente inefficace e comporta, **in entrambi i regimi**, la tutela reintegratoria piena. È il terreno su cui si combatte quando il datore nega di avere licenziato e sostiene le dimissioni o l'abbandono del posto.
 
@@ -59,7 +59,7 @@ Il riparto è governato dall'**art. 5 L. 604/1966**: l'onere della prova della g
 2. **180 giorni** ulteriori, decorrenti dall'impugnazione stragiudiziale, per il **deposito del ricorso** presso il giudice del lavoro, oppure per la **comunicazione alla controparte della richiesta** di tentativo di conciliazione o arbitrato. In mancanza, l'impugnazione perde efficacia.
 3. Se la conciliazione o l'arbitrato sono rifiutati o non si raggiunge l'accordo, il ricorso va depositato entro **60 giorni** dal rifiuto o dal mancato accordo.
 
-**Nessuna sospensione feriale** su questi termini né sui termini processuali del rito del lavoro (art. 3 L. 742/1969 — verificato al 6 agosto 2026).
+**Nessuna sospensione feriale** su questi termini né sui termini processuali del rito del lavoro (art. 3 L. 742/1969 — verificato al 21 ottobre 2026).
 
 **Licenziamento orale.** Non essendovi comunicazione scritta, l'art. 6 non trova applicazione nella sua scansione ordinaria: il regime della decadenza è discusso e va verificato caso per caso. Nel dubbio si impugna comunque entro 60 giorni dall'estromissione di fatto.
 
@@ -73,13 +73,13 @@ Per il calcolo puntuale dei termini → **`civilista-scadenze`**.
 
 ## 4. Condizione di procedibilità
 
-**Nessuna mediazione obbligatoria.** Le controversie di lavoro non rientrano nell'elenco dell'art. 5 co. 1 D.Lgs. 28/2010 (verificato al 6 agosto 2026).
+**Nessuna mediazione obbligatoria.** Le controversie di lavoro non rientrano nell'elenco dell'art. 5 co. 1 D.Lgs. 28/2010 (verificato al 21 ottobre 2026).
 
 **Negoziazione assistita facoltativa.** L'art. 2-ter D.L. 132/2014, introdotto dal D.Lgs. 149/2022, riconosce alle parti la facoltà di ricorrere alla negoziazione assistita nelle controversie di lavoro **senza che ciò costituisca condizione di procedibilità**. L'accordo raggiunto con l'assistenza dei difensori, o dei consulenti del lavoro, non è impugnabile ex art. 2113 c.c.
 
 **Tentativo di conciliazione ex artt. 410-411 c.p.c.: facoltativo.** Utile quando serve una sede protetta per chiudere con una rinuncia inoppugnabile. L'arbitrato irrituale ex artt. 412-ter e 412-quater c.p.c. resta una via residuale.
 
-**Procedura di conciliazione preventiva ex art. 7 L. 604/1966 — l'unico filtro davvero obbligatorio, e solo in parte.** Il datore che intende licenziare per **giustificato motivo oggettivo** deve preventivamente comunicare l'intenzione all'Ispettorato territoriale del lavoro e al lavoratore, quando ricorrono entrambe le condizioni: il datore rientra nel campo di applicazione dell'art. 18 St. lav. e il lavoratore è stato **assunto fino al 6 marzo 2015**. Per i lavoratori in tutele crescenti la procedura **non si applica** (art. 3 co. 3 D.Lgs. 23/2015 — verificato al 6 agosto 2026). L'omissione è vizio procedurale con sanzione indennitaria.
+**Procedura di conciliazione preventiva ex art. 7 L. 604/1966 — l'unico filtro davvero obbligatorio, e solo in parte.** Il datore che intende licenziare per **giustificato motivo oggettivo** deve preventivamente comunicare l'intenzione all'Ispettorato territoriale del lavoro e al lavoratore, quando ricorrono entrambe le condizioni: il datore rientra nel campo di applicazione dell'art. 18 St. lav. e il lavoratore è stato **assunto fino al 6 marzo 2015**. Per i lavoratori in tutele crescenti la procedura **non si applica** (art. 3 co. 3 D.Lgs. 23/2015 — verificato al 21 ottobre 2026). L'omissione è vizio procedurale con sanzione indennitaria.
 
 ---
 
@@ -137,7 +137,7 @@ Fuori soglia: tutela obbligatoria ex art. 8 L. 604/1966, riassunzione o indennit
 - **art. 3 co. 1** — licenziamento senza giusta causa o giustificato motivo: indennità **non inferiore a 6 e non superiore a 36 mensilità** (limiti elevati dal D.L. 87/2018). Il criterio automatico delle due mensilità per anno di servizio è stato dichiarato illegittimo dalla Corte costituzionale: la determinazione è oggi discrezionale, su anzianità, dimensioni, comportamento e condizioni delle parti;
 - **art. 3 co. 2** — reintegrazione se è dimostrata in giudizio l'**insussistenza del fatto materiale** contestato; risarcimento massimo **12 mensilità**;
 - **art. 4** — vizi formali e procedurali: indennità **2-12 mensilità**;
-- **art. 9** — datori sotto soglia: importi dimezzati. Il **tetto di 6 mensilità è stato dichiarato illegittimo dalla Corte costituzionale il 21 luglio 2025**: il giudice può oggi liquidare oltre le sei mensilità (verificato al 6 agosto 2026);
+- **art. 9** — datori sotto soglia: importi dimezzati. Il **tetto di 6 mensilità è stato dichiarato illegittimo dalla Corte costituzionale il 21 luglio 2025**: il giudice può oggi liquidare oltre le sei mensilità (verificato al 21 ottobre 2026);
 - **art. 6** — offerta di conciliazione: **3-27 mensilità**, dimezzate sotto soglia; non costituisce reddito imponibile né base contributiva.
 
 **Requisito dimensionale (art. 18 co. 8-9 St. lav.):** più di **15 dipendenti** nell'unità produttiva o nel comune, oppure più di **60** complessivi sul territorio nazionale; **5** per gli imprenditori agricoli. Si calcola sulla media occupazionale del semestre precedente, computando i part-time pro quota.

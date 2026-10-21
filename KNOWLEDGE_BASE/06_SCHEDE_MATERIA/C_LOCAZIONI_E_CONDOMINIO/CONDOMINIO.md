@@ -105,10 +105,10 @@ Approfondimento → `civilista-adr`.
 
 **Rito.** Ordinario di cognizione o **rito semplificato** ex artt. 281-decies ss. c.p.c., adatto alle impugnazioni fondate su vizi documentali (difetto di convocazione, errore di quorum) che si risolvono sui verbali.
 
-**Competenza per valore** (artt. 7 e 10 c.p.c., soglie in vigore dal 28 febbraio 2023 — verificato al 5 agosto 2026):
+**Competenza per valore** (artt. 7 e 10 c.p.c., soglie in vigore dal 28 febbraio 2023 — verificato al 21 ottobre 2026):
 - **Giudice di pace**: cause relative a beni mobili fino a **€ 10.000**; competenza **per materia senza limite di valore** per le cause relative alla misura e alle modalità d'uso dei servizi di condominio di case, e per quelle relative ad apposizione di termini e distanze di alberi e siepi, e a immissioni di fumo, calore, rumori e scuotimenti che superano la normale tollerabilità;
 - **Tribunale monocratico** per tutto il resto, comprese le impugnazioni di delibere di valore indeterminabile e le cause su diritti reali sulle parti comuni.
-- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 — che includono l'attribuzione in via esclusiva delle controversie condominiali — sono **rinviate al 31 ottobre 2026** (D.L. 117/2025). È il rinvio che più incide su questa materia: **verificarne lo stato prima di radicare la causa**, perché a regime sposterà una parte consistente del contenzioso condominiale al giudice di pace.
+- Le competenze ampliate del giudice di pace previste dal D.Lgs. 116/2017 — che includono l'attribuzione in via esclusiva delle controversie condominiali — sono **rinviate al 31 ottobre 2027** (D.L. 100/2026). È il rinvio che più incide su questa materia: **verificarne lo stato prima di radicare la causa**, perché a regime sposterà una parte consistente del contenzioso condominiale al giudice di pace.
 
 **Competenza per territorio.** Foro del luogo in cui si trovano i beni comuni o la maggior parte di essi (art. 23 c.p.c.): foro **esclusivo** per le cause fra condomini e fra condomini e condominio.
 
@@ -141,7 +141,7 @@ Approfondimento → `civilista-adr`.
 
 **Contributi.** Importo risultante dallo stato di ripartizione approvato, per le rate scadute, con applicazione delle tabelle millesimali. Verificare che la delibera copra il periodo richiesto: la richiesta di rate non ancora deliberate è la contestazione più efficace.
 
-**Interessi di mora.** Se il regolamento condominiale li prevede, si applicano nella misura pattuita; altrimenti interessi legali dalla scadenza di ciascuna rata (mora *ex re*). Saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 5 agosto 2026), con applicazione dei saggi pro tempore per i periodi anteriori. Il credito per contributi è **debito di valuta**: non si rivaluta.
+**Interessi di mora.** Se il regolamento condominiale li prevede, si applicano nella misura pattuita; altrimenti interessi legali dalla scadenza di ciascuna rata (mora *ex re*). Saggio **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026), con applicazione dei saggi pro tempore per i periodi anteriori. Il credito per contributi è **debito di valuta**: non si rivaluta.
 
 **Spese di ripartizione — criteri legali:** art. 1123 co. 1 c.c. (conservazione e godimento delle parti comuni, per millesimi); co. 2 (cose destinate a servire i condomini in misura diversa, in proporzione all'uso); co. 3 (parti che servono solo una porzione dell'edificio, a carico del gruppo che ne trae utilità); **art. 1124** (scale e ascensori: metà per millesimi, metà per altezza di piano); **art. 1125** (soffitti, volte e solai: metà a ciascuno dei proprietari dei piani sovrapposti); **art. 1126** (lastrico solare a uso esclusivo: **un terzo** a chi ne ha l'uso esclusivo, **due terzi** ai condomini dell'edificio o della parte servita). Un riparto eseguito con criterio diverso da quello legale, se non fondato su regolamento contrattuale o su accordo unanime, rende la delibera contestabile.
 
@@ -171,7 +171,7 @@ Per il calcolo analitico → `civilista-quantificazione`.
 
 - **Materie di mediazione obbligatoria (art. 5 co. 1 D.Lgs. 28/2010):** condominio confermato al 5 agosto 2026, testo aggiornato al correttivo D.Lgs. 216/2024.
 - **Art. 5-bis D.Lgs. 28/2010:** nel giudizio di opposizione a decreto ingiuntivo l'onere di attivare la mediazione grava sulla parte che ha proposto il ricorso monitorio, quindi sul condominio. Confermato al 5 agosto 2026; verificare la prassi applicativa dell'ufficio adito.
-- **Competenze del giudice di pace in materia condominiale:** l'attribuzione esclusiva prevista dal D.Lgs. 116/2017 è **rinviata al 31 ottobre 2026** (D.L. 117/2025). È il dato più instabile della materia: verificare **prima di radicare qualsiasi causa condominiale** se la proroga è scaduta o è stata ulteriormente spostata.
+- **Competenze del giudice di pace in materia condominiale:** l'attribuzione esclusiva prevista dal D.Lgs. 116/2017 è **rinviata al 31 ottobre 2027** (D.L. 100/2026). È il dato più instabile della materia: verificare **prima di radicare qualsiasi causa condominiale** se la proroga è scaduta o è stata ulteriormente spostata.
 - **Termine di 30 giorni ex art. 1137 c.c. e regime di nullità/annullabilità:** la classificazione dei vizi è di matrice giurisprudenziale e resta controversa nei casi di confine. Cercare le massime in KB con `civilista-giurisprudenza` (copertura fino a febbraio 2026).
 - **Forma introduttiva dell'impugnazione** (citazione o ricorso): prassi non uniformi fra uffici. Verificare presso il tribunale adito.
 - **Saggio legale 1,60% dal 1° gennaio 2026:** riverificare ogni gennaio.

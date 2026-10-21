@@ -58,7 +58,7 @@ Il riparto è quello ordinario dell'art. 2697 c.c., con una asimmetria costante:
 
 **TFR.** Prescrizione **quinquennale**, con decorrenza dalla **cessazione del rapporto**, momento in cui il diritto diventa esigibile (art. 2120 c.c.).
 
-**Decorrenza della prescrizione in costanza di rapporto — la questione che decide il valore della causa.** L'orientamento tradizionale distingueva fra rapporti assistiti da **stabilità reale**, nei quali la prescrizione decorre in costanza di rapporto, e rapporti privi di stabilità, nei quali decorre solo dalla cessazione, perché il timore del licenziamento comprime la libertà del lavoratore di far valere il credito. Dopo la L. 92/2012 e il D.Lgs. 23/2015, che hanno reso la reintegrazione un'eccezione, la Cassazione ha affermato che la prescrizione dei crediti di lavoro **decorre dalla cessazione del rapporto anche nelle imprese sopra soglia** (verificato al 6 agosto 2026; per la massima testuale → `civilista-giurisprudenza`). La conseguenza pratica è che il quinquennio si conta di regola a ritroso dalla cessazione, o dal primo atto interruttivo se il rapporto è ancora in corso.
+**Decorrenza della prescrizione in costanza di rapporto — la questione che decide il valore della causa.** L'orientamento tradizionale distingueva fra rapporti assistiti da **stabilità reale**, nei quali la prescrizione decorre in costanza di rapporto, e rapporti privi di stabilità, nei quali decorre solo dalla cessazione, perché il timore del licenziamento comprime la libertà del lavoratore di far valere il credito. Dopo la L. 92/2012 e il D.Lgs. 23/2015, che hanno reso la reintegrazione un'eccezione, la Cassazione ha affermato che la prescrizione dei crediti di lavoro **decorre dalla cessazione del rapporto anche nelle imprese sopra soglia** (verificato al 21 ottobre 2026; per la massima testuale → `civilista-giurisprudenza`). La conseguenza pratica è che il quinquennio si conta di regola a ritroso dalla cessazione, o dal primo atto interruttivo se il rapporto è ancora in corso.
 
 **Interruzione.** Atto scritto di costituzione in mora ricettizio (raccomandata o PEC), che deve individuare il credito almeno per titolo. La diffida va reiterata prima di ogni scadenza quinquennale se la causa non è ancora incardinata.
 
@@ -72,7 +72,7 @@ Per il calcolo → **`civilista-scadenze`**.
 
 ## 4. Condizione di procedibilità
 
-**Nessuna.** Le controversie di lavoro non rientrano fra le materie di **mediazione obbligatoria** dell'art. 5 co. 1 D.Lgs. 28/2010 (verificato al 6 agosto 2026).
+**Nessuna.** Le controversie di lavoro non rientrano fra le materie di **mediazione obbligatoria** dell'art. 5 co. 1 D.Lgs. 28/2010 (verificato al 21 ottobre 2026).
 
 **Negoziazione assistita: facoltativa.** L'art. 2-ter D.L. 132/2014, introdotto dal D.Lgs. 149/2022, la ammette nelle controversie di lavoro **senza che costituisca condizione di procedibilità**. Interesse pratico: l'accordo così raggiunto, con l'assistenza dei difensori o dei consulenti del lavoro abilitati, non è impugnabile ex art. 2113 c.c. È quindi lo strumento corretto per chiudere una posizione con effetto definitivo senza passare dall'ITL.
 
@@ -138,7 +138,7 @@ Approfondimento → `civilista-adr`.
 
 **Ferie.** Il D.Lgs. 66/2003 fissa un minimo di **4 settimane** annue, di cui **2 settimane consecutive** da fruire nell'anno di maturazione su richiesta del lavoratore, e le restanti **2 settimane** nei **18 mesi** successivi alla fine dell'anno di maturazione. Il periodo minimo di 4 settimane **non è monetizzabile** in costanza di rapporto: l'indennità sostitutiva spetta solo alla cessazione. Le ferie eccedenti il minimo legale, previste dalla contrattazione collettiva, seguono la disciplina contrattuale.
 
-**Accessori — art. 429 co. 3 c.p.c.** Sui crediti di lavoro il giudice condanna al pagamento di **rivalutazione monetaria e interessi legali** dal giorno della maturazione del diritto. Nel **lavoro alle dipendenze delle pubbliche amministrazioni** vige il **divieto di cumulo** fra interessi e rivalutazione (art. 22 co. 36 L. 724/1994). Saggio legale **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 6 agosto 2026).
+**Accessori — art. 429 co. 3 c.p.c.** Sui crediti di lavoro il giudice condanna al pagamento di **rivalutazione monetaria e interessi legali** dal giorno della maturazione del diritto. Nel **lavoro alle dipendenze delle pubbliche amministrazioni** vige il **divieto di cumulo** fra interessi e rivalutazione (art. 22 co. 36 L. 724/1994). Saggio legale **1,60% dal 1° gennaio 2026** (D.M. MEF, G.U. dicembre 2025 — verificato al 21 ottobre 2026).
 
 **Contributi e fisco.** L'accertamento del credito comporta l'obbligo contributivo; le somme sono soggette a tassazione ordinaria, salvo il regime di tassazione separata per TFR e indennità connesse alla cessazione.
 
