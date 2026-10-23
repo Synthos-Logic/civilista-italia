@@ -1,17 +1,16 @@
 ---
 name: civilista-quantificazione
 description: >
-  Quantificazione del danno, calcolo di interessi e rivalutazione, nota spese e stima del rischio
-  economico della causa civile. ATTIVARE SEMPRE quando l'avvocato dice o chiede: 'quantifica il danno',
-  'quanto chiediamo', 'quanto vale questa causa', 'calcola il danno biologico', 'tabelle di Milano',
-  'tabelle di Roma', 'tabella unica nazionale', 'TUN', 'macrolesioni', 'micropermanenti', 'danno da
-  perdita del rapporto parentale', 'personalizzazione del danno', 'danno morale', 'interessi e
-  rivalutazione', 'devalutazione', 'debito di valore o di valuta', 'saggio legale', 'interessi
-  moratori', 'interessi commerciali', 'nota spese', 'parcella', 'parametri forensi', 'DM 55/2014',
-  'scaglione di valore', 'compensi di fase', 'rimborso forfetario', 'contributo unificato', 'quanto
-  rischiamo di spese', 'quanto ci costa la causa', 'conviene transigere', 'a quanto chiudiamo', 'come
-  presento il conteggio nell'atto', 'prospetto di calcolo'. Dice quanto si chiede, quanto costa
-  chiederlo e quanto costa sbagliare: usarla prima di ogni proposta transattiva e di ogni atto con cifre.
+  Quantificazione del danno, interessi e rivalutazione, nota spese e stima del rischio economico
+  della causa civile. ATTIVARE SEMPRE quando l'avvocato chiede: 'quantifica il danno', 'quanto
+  chiediamo', 'quanto vale questa causa', 'calcola il danno biologico', 'tabelle di Milano o di
+  Roma', 'tabella unica nazionale', 'macrolesioni', 'micropermanenti', 'danno da perdita del
+  rapporto parentale', 'personalizzazione del danno', 'danno morale', 'interessi e rivalutazione',
+  'debito di valore o di valuta', 'saggio legale', 'interessi moratori o commerciali', 'nota
+  spese', 'parametri forensi', 'DM 55/2014', 'scaglione di valore', 'compensi di fase',
+  'contributo unificato', 'quanto rischiamo di spese', 'quanto ci costa la causa', 'conviene
+  transigere', 'come presento il conteggio nell'atto'. Usarla prima di ogni proposta transattiva e
+  di ogni atto con cifre.
 ---
 
 # civilista-quantificazione — Quanto si chiede e quanto costa

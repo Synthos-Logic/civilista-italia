@@ -1,5 +1,5 @@
 # Schede di Materia — Guida all'uso
-*Kit Civilista Italiano — versione 0.9.0 — Ultima verifica: 6 agosto 2026*
+*Kit Civilista Italiano — versione 0.9.1 — Ultima verifica: 6 agosto 2026*
 
 Le Schede di Materia sono l'equivalente civile delle "schede reato" del Kit Penalista. Sono il punto di ingresso operativo su una controversia: si aprono **prima** di studiare il fascicolo, per sapere cosa si deve provare, entro quando, davanti a chi e con quale filtro preventivo.
 

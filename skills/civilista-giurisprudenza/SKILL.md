@@ -1,18 +1,15 @@
 ---
 name: civilista-giurisprudenza
 description: >
-  Ricerca e organizzazione della giurisprudenza civile italiana, ancorata alla Knowledge Base
-  del kit (Rassegne del Massimario — Sezioni Civili). ATTIVARE SEMPRE quando l'avvocato dice:
-  'cerca giurisprudenza su', 'cosa dice la Cassazione civile su', 'ci sono massime su',
-  'trova precedenti su', 'orientamento della Cassazione in tema di', 'esiste un contrasto tra
-  sezioni su', 'le Sezioni Unite si sono pronunciate su', 'c'e un rinvio pregiudiziale ex 363-bis
-  su', 'cerca la massima Rv', 'trovami il numero Rv di', 'quale sezione decide di',
-  'giurisprudenza favorevole all'attore/al convenuto su', 'cosa dice la CGUE su clausole abusive',
-  'la Corte costituzionale si e pronunciata su', 'ci sono novità dalla Cassazione civile su',
-  'ultime massime in tema di'. Attivare anche per: costruire la sezione giurisprudenziale di una
-  citazione, comparsa, memoria ex art. 171-ter c.p.c., ricorso monitorio o ricorso per Cassazione;
-  verificare se un principio e consolidato, isolato o superato; individuare contrasti da segnalare;
-  controllare la copertura temporale della KB prima di affermare che 'non risulta giurisprudenza'.
+  Ricerca e organizzazione della giurisprudenza civile italiana, ancorata alla Knowledge Base del
+  kit (Rassegne del Massimario, Sezioni Civili). ATTIVARE SEMPRE quando l'avvocato dice: 'cerca
+  giurisprudenza su', 'cosa dice la Cassazione civile su', 'ci sono massime su', 'trova precedenti
+  su', 'orientamento della Cassazione in tema di', 'esiste un contrasto tra sezioni su', 'le
+  Sezioni Unite si sono pronunciate su', 'c'è un rinvio pregiudiziale ex 363-bis su', 'cerca la
+  massima Rv', 'quale sezione decide di', 'cosa dice la CGUE su clausole abusive', 'la Corte
+  costituzionale si è pronunciata su', 'ultime massime in tema di'. Attivare anche per costruire
+  la sezione giurisprudenziale di un atto, verificare se un principio è consolidato o superato, e
+  controllare la copertura della KB prima di affermare che non risulta giurisprudenza.
 ---
 
 # civilista-giurisprudenza — Ricerca giurisprudenziale civile ancorata

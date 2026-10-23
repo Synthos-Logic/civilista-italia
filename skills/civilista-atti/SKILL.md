@@ -1,20 +1,17 @@
 ---
 name: civilista-atti
 description: >
-  Redazione di atti del processo civile italiano dopo la riforma Cartabia, con struttura,
-  formule e preclusioni corrette per ciascun tipo di atto. ATTIVARE SEMPRE quando l'avvocato
-  chiede di scrivere, redigere, preparare, impostare o bozzare un atto civile, o dice:
-  'scrivi la citazione', 'prepara l'atto di citazione', 'prepara la comparsa di risposta',
-  'redigi la comparsa di risposta', 'prepara la comparsa di costituzione',
-  'scrivi la riconvenzionale', 'redigi le memorie
-  171-ter', 'prepara le tre memorie', 'memoria a -20', 'ricorso per decreto ingiuntivo',
-  'facciamo un decreto ingiuntivo', 'chiedi la provvisoria esecuzione', 'opposizione a
-  decreto ingiuntivo', 'atto di opposizione', 'chiedi la sospensione ex 649',
-  'scrivi la comparsa conclusionale', 'prepara la memoria di replica', 'atto di appello',
-  'imposta i motivi di appello', 'ricorso per cassazione', 'prepara il precetto',
-  'notifichiamo il precetto', 'scrivi la diffida', 'manda una messa in mora',
-  'costituzione in mora', 'bozza l'atto', 'usa i miei atti come modello', 'segui il mio stile', 'scrivi come scrivo io', 'ricava il mio stile dai modelli', 'impara come scrivo'. Attivare anche quando l'analisi svolta con
-  civilista-caso deve tradursi in un documento da depositare.
+  Redazione di atti del processo civile italiano dopo la riforma Cartabia, con struttura, formule
+  e preclusioni corrette per ciascun atto. ATTIVARE SEMPRE quando l'avvocato chiede di scrivere,
+  redigere, preparare o bozzare un atto civile, o dice: 'scrivi la citazione', 'prepara la
+  comparsa di risposta', 'prepara la comparsa di costituzione', 'scrivi la riconvenzionale',
+  'redigi le memorie 171-ter', 'memoria a -20', 'ricorso per decreto ingiuntivo', 'opposizione a
+  decreto ingiuntivo', 'chiedi la sospensione ex 649', 'scrivi la comparsa conclusionale',
+  'memoria di replica', 'atto di appello', 'imposta i motivi di appello', 'ricorso per
+  cassazione', 'prepara il precetto', 'scrivi la diffida', 'messa in mora', 'bozza l'atto', 'usa i
+  miei atti come modello', 'segui il mio stile', 'scrivi come scrivo io', 'ricava il mio stile dai
+  modelli'. Attivare anche quando l'analisi svolta con civilista-caso deve tradursi in un
+  documento da depositare.
 ---
 
 # civilista-atti — Redazione degli atti civili

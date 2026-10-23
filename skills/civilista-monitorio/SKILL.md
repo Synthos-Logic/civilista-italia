@@ -1,16 +1,17 @@
 ---
 name: civilista-monitorio
 description: >
-  Workflow decisionale del procedimento monitorio italiano e della sua opposizione, dal recupero del credito fino all'esecuzione,
-  dal lato del creditore e dal lato del debitore. ATTIVARE SEMPRE quando l'avvocato dice o chiede: 'decreto ingiuntivo', 'ricorso
-  monitorio', 'facciamo un decreto ingiuntivo', 'conviene il decreto ingiuntivo o la causa ordinaria', 'recupero crediti', 'il
-  cliente non paga', 'come recuperiamo questo credito', 'abbiamo prova scritta sufficiente', 'chiediamo la provvisoria esecuzione',
-  'art. 642', 'quando devo notificare il decreto', 'il decreto è diventato inefficace', 'dichiarazione di esecutorietà', 'art. 647',
-  'opposizione a decreto ingiuntivo', 'ho ricevuto un decreto ingiuntivo', 'ci hanno notificato un decreto ingiuntivo', 'quanto
-  tempo ho per oppormi', 'conviene opporsi', 'sospensione della provvisoria esecuzione', 'art. 649', 'gravi motivi', 'ci hanno
-  chiesto la provvisoria esecuzione', 'art. 648', 'opposizione tardiva', 'art. 650', 'chi deve fare la mediazione
-  nell'opposizione', 'il decreto è stato revocato', 'possiamo procedere a precetto'. Attivare anche quando il cliente porta in
-  studio un decreto appena notificato: la prima cosa è la check-list dei primi sette giorni contenuta in questa skill.
+  Procedimento monitorio italiano e sua opposizione, dal recupero del credito all'esecuzione, dal
+  lato del creditore e del debitore. ATTIVARE SEMPRE quando l'avvocato dice: 'decreto ingiuntivo',
+  'ricorso monitorio', 'conviene il decreto ingiuntivo o la causa ordinaria', 'recupero crediti',
+  'il cliente non paga', 'abbiamo prova scritta sufficiente', 'chiediamo la provvisoria
+  esecuzione', 'art. 642', 'quando devo notificare il decreto', 'il decreto è diventato
+  inefficace', 'dichiarazione di esecutorietà', 'art. 647', 'opposizione a decreto ingiuntivo',
+  'ho ricevuto un decreto ingiuntivo', 'quanto tempo ho per oppormi', 'conviene opporsi',
+  'sospensione della provvisoria esecuzione', 'art. 649', 'gravi motivi', 'art. 648', 'opposizione
+  tardiva', 'art. 650', 'chi deve fare la mediazione nell'opposizione', 'possiamo procedere a
+  precetto'. Attivare anche quando il cliente porta in studio un decreto appena notificato: si
+  parte dalla check-list dei primi sette giorni.
 ---
 
 # civilista-monitorio — Procedimento d'ingiunzione e opposizione

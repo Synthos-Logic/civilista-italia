@@ -1,6 +1,17 @@
 ---
 name: civilista-scadenze
-description: "Calcolo dei termini processuali civili italiani con ragionamento esplicito, gestione dei termini a ritroso e della sospensione feriale, e aggiornamento dello scadenziario del fascicolo. ATTIVARE SEMPRE quando l'avvocato chiede di calcolare un termine o una scadenza, o dice: 'quando scade', 'entro quando devo depositare', 'calcola i termini', 'che termini ho', 'termine a ritroso', 'quando devo costituirmi', 'entro quando la comparsa di risposta', 'quando scadono le memorie', 'memorie 171-ter', 'termine per l'appello', 'quanto tempo ho per il ricorso in Cassazione', 'termine breve o termine lungo', 'termine per il reclamo cautelare', 'quando devo iniziare il merito dopo la cautelare', 'sospensione feriale', 'ad agosto si sospende?', 'quando si prescrive', 'quando cade in prescrizione il credito', 'è ancora in termini?', 'abbiamo perso il termine?', 'quando scade il precetto', 'termine per l'opposizione a decreto ingiuntivo', 'entro quando l'opposizione agli atti esecutivi', 'quanto dura la mediazione'. Attivare anche per verificare a posteriori un termine già calcolato in studio e per scrivere o aggiornare lo SCADENZIARIO del fascicolo."
+description: >
+  Calcolo dei termini processuali civili con ragionamento esplicito, termini a ritroso e
+  sospensione feriale, e aggiornamento dello scadenziario del fascicolo. ATTIVARE SEMPRE quando
+  l'avvocato chiede un termine o dice: 'quando scade', 'entro quando devo depositare', 'calcola i
+  termini', 'che termini ho', 'termine a ritroso', 'quando devo costituirmi', 'entro quando la
+  comparsa di risposta', 'quando scadono le memorie', 'memorie 171-ter', 'termine per l'appello',
+  'quanto tempo ho per il ricorso in Cassazione', 'termine breve o termine lungo', 'reclamo
+  cautelare', 'quando devo iniziare il merito dopo la cautelare', 'sospensione feriale', 'ad
+  agosto si sospende?', 'quando si prescrive', 'è ancora in termini?', 'abbiamo perso il
+  termine?', 'quando scade il precetto', 'termine per l'opposizione a decreto ingiuntivo',
+  'opposizione agli atti esecutivi'. Attivare anche per riverificare un termine già calcolato in
+  studio.
 ---
 
 # civilista-scadenze — Calcolo dei termini nel processo civile

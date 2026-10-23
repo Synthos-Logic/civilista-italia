@@ -1,19 +1,16 @@
 ---
 name: civilista-adr
 description: >
-  Condizioni di procedibilità e trattativa assistita nel processo civile italiano: mediazione
-  obbligatoria, negoziazione assistita, gestione operativa del procedimento e dell'accordo.
-  ATTIVARE SEMPRE quando l'avvocato dice o chiede: 'serve la mediazione?', 'questa materia passa dalla
-  mediazione', 'mediazione obbligatoria', 'mediazione demandata dal giudice', 'negoziazione assistita',
-  'invito a stipulare la convenzione', 'condizione di procedibilità', 'la domanda è improcedibile',
-  'ci hanno eccepito l'improcedibilità', 'il giudice ci ha dato quindici giorni', 'primo incontro di
-  mediazione', 'devo andare io o può andare il cliente', 'la controparte non si è presentata in
-  mediazione', 'cosa rischiamo se non partecipiamo', 'come si formula la proposta in mediazione',
-  'il verbale di accordo è titolo esecutivo?', 'l'accordo si trascrive?', 'credito d'imposta
-  mediazione', 'nell'opposizione a decreto ingiuntivo chi deve fare la mediazione', 'la mediazione
-  interrompe la prescrizione?', 'quanto dura la mediazione', 'possiamo saltare la mediazione',
-  'ATP e mediazione', 'sfratto e mediazione'. È il PRIMO controllo di ogni causa civile: usarla prima
-  di redigere qualsiasi atto introduttivo.
+  Condizioni di procedibilità e trattativa assistita nel processo civile: mediazione obbligatoria,
+  negoziazione assistita, conduzione del procedimento e dell'accordo. ATTIVARE SEMPRE quando
+  l'avvocato chiede: 'serve la mediazione?', 'mediazione obbligatoria', 'mediazione demandata dal
+  giudice', 'negoziazione assistita', 'condizione di procedibilità', 'la domanda è improcedibile',
+  'ci hanno eccepito l'improcedibilità', 'il giudice ci ha dato quindici giorni', 'primo incontro
+  di mediazione', 'devo andare io o può andare il cliente', 'la controparte non si è presentata',
+  'come si formula la proposta', 'il verbale di accordo è titolo esecutivo?', 'credito d'imposta
+  mediazione', 'nell'opposizione a decreto ingiuntivo chi deve fare la mediazione', 'quanto dura
+  la mediazione', 'ATP e mediazione', 'sfratto e mediazione'. È il primo controllo di ogni causa
+  civile: usarla prima di redigere l'atto introduttivo.
 ---
 
 # civilista-adr — Condizioni di procedibilità e trattativa assistita

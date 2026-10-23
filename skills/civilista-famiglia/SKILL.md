@@ -2,18 +2,16 @@
 name: civilista-famiglia
 description: >
   Diritto di famiglia e delle persone: separazione, divorzio, figli, assegni, casa familiare,
-  revisione delle condizioni. ATTIVARE SEMPRE quando l'avvocato porta una crisi coniugale o familiare,
-  o dice: 'il cliente vuole separarsi', 'vuole divorziare', 'separazione consensuale', 'separazione
-  giudiziale', 'divorzio congiunto', 'divorzio contenzioso', 'affidamento dei figli', 'affidamento
-  condiviso', 'affidamento esclusivo', 'collocamento dei figli', 'tempi di permanenza', 'assegno di
-  mantenimento', 'mantenimento dei figli', 'spese straordinarie', 'assegno divorzile', 'una tantum',
-  'negoziazione assistita famiglia', 'separazione davanti al sindaco', 'casa familiare', 'assegnazione
-  della casa', 'revisione delle condizioni', 'modifica delle condizioni di divorzio', 'non mi paga il
-  mantenimento', 'addebito della separazione', 'ascolto del minore', 'curatore speciale del minore',
-  'ordine di protezione', 'scioglimento della comunione legale', 'figlio maggiorenne non
-  autosufficiente'. E la skill operativa della materia: la scheda SEPARAZIONE_DIVORZIO_E_FIGLI.md dà il
-  riferimento sostanziale, qui c'e il workflow. Termini a `civilista-scadenze`, massime a
-  `civilista-giurisprudenza`.
+  revisione delle condizioni. ATTIVARE SEMPRE su una crisi coniugale o familiare, o quando
+  l'avvocato dice: 'il cliente vuole separarsi', 'vuole divorziare', separazione consensuale o
+  giudiziale, divorzio congiunto o contenzioso; 'affidamento dei figli', 'affidamento condiviso o
+  esclusivo', 'collocamento dei figli', 'tempi di permanenza', 'assegno di mantenimento',
+  'mantenimento dei figli', 'spese straordinarie', 'assegno divorzile', 'una tantum',
+  'negoziazione assistita famiglia', 'separazione davanti al sindaco', 'casa familiare',
+  'revisione delle condizioni', 'non mi paga il mantenimento', 'addebito della separazione',
+  'ascolto del minore', 'curatore speciale', 'ordine di protezione', 'scioglimento della comunione
+  legale', 'figlio maggiorenne non autosufficiente'. Termini a civilista-scadenze, massime a
+  civilista-giurisprudenza.
 ---
 
 # civilista-famiglia — Crisi coniugale, figli e rapporti patrimoniali

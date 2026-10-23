@@ -1,23 +1,17 @@
 ---
 name: civilista-lavoro
 description: >
-  Diritto del lavoro e processo del lavoro italiano, dal lato del lavoratore e dal lato del datore.
-  ATTIVARE SEMPRE quando l'avvocato porta una vicenda lavoristica o dice: 'il mio cliente è stato
-  licenziato', 'hanno licenziato una nostra dipendente', 'impugnare il licenziamento', 'lettera di
-  licenziamento', 'licenziamento per giusta causa', 'licenziamento per giustificato motivo
-  oggettivo', 'licenziamento disciplinare', 'licenziamento collettivo', 'licenziamento orale',
-  'licenziamento discriminatorio', 'licenziamento ritorsivo', 'contestazione disciplinare',
-  'siamo ancora in tempo a impugnare', 'quando scadono i 60 giorni', 'i 180 giorni da quando
-  decorrono', 'reintegra o indennità', 'tutele crescenti', 'jobs act', 'articolo 18',
-  'differenze retributive', 'mansioni superiori', 'demansionamento', 'inquadramento sbagliato',
-  'straordinari non pagati', 'TFR', 'trattamento di fine rapporto', 'ferie non godute',
-  'causa di lavoro', 'ricorso ex art. 414', 'memoria ex art. 416', 'rito del lavoro',
-  'appello in materia di lavoro', 'conciliazione in sede sindacale', 'conciliazione in sede
-  protetta', 'verbale di conciliazione', 'negoziazione assistita in materia di lavoro',
-  'certificazione del contratto', 'contratto a termine illegittimo', 'somministrazione irregolare',
-  'collaborazione mascherata', 'ricorso amministrativo INPS', 'contenzioso INAIL', 'infortunio sul
-  lavoro', 'malattia professionale', 'dimissioni per fatti concludenti'.
-  Usare questa skill prima di scrivere qualsiasi atto in materia di lavoro.
+  Diritto del lavoro e processo del lavoro italiano, dal lato del lavoratore e dal lato del
+  datore. ATTIVARE SEMPRE su una vicenda lavoristica o quando l'avvocato dice: 'il mio cliente è
+  stato licenziato', 'impugnare il licenziamento', licenziamento per giusta causa, giustificato
+  motivo oggettivo, disciplinare, collettivo, orale, discriminatorio o ritorsivo; 'contestazione
+  disciplinare', 'siamo ancora in tempo a impugnare', 'quando scadono i 60 giorni', 'i 180 giorni
+  da quando decorrono', 'reintegra o indennità', 'tutele crescenti', 'jobs act', 'articolo 18',
+  'differenze retributive', 'mansioni superiori', 'demansionamento', 'straordinari non pagati',
+  'TFR', 'ferie non godute', 'rito del lavoro', 'ricorso ex art. 414', 'memoria ex art. 416',
+  'conciliazione in sede protetta', 'contratto a termine illegittimo', 'somministrazione
+  irregolare', 'infortunio sul lavoro', 'contenzioso INPS o INAIL'. Usare prima di scrivere
+  qualsiasi atto in materia di lavoro.
 ---
 
 # civilista-lavoro — Rapporto di lavoro, licenziamenti e processo del lavoro

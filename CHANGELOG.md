@@ -1,5 +1,36 @@
 # Changelog — Kit Civilista Italiano
 
+## [0.9.1] — 2026-10-23
+
+### Corretto — otto competenze su dodici venivano rifiutate all'installazione
+Le descrizioni nel frontmatter di otto `SKILL.md` superavano il **limite di 1.024 caratteri**
+previsto per il campo `description`. L'app rifiuta la skill che lo supera, quindi il kit si
+installava **parziale**: restavano attive solo `caso`, `archivio`, `verifica` e `inizia`, mentre
+`atti`, `monitorio`, `lavoro`, `famiglia`, `scadenze`, `giurisprudenza`, `quantificazione` e
+`adr` non venivano caricate.
+
+Il difetto risale alla **0.4.0** (cinque descrizioni oltre il limite) e si e' aggravato con la
+0.8.0 (otto). Spiega il comportamento che gli utenti riferivano come «a volte usa il kit, a volte
+no»: le competenze mancanti non c'erano davvero, e l'assistente rispondeva senza di esse.
+
+Tutte le descrizioni sono state riscritte sotto il limite, con margine: la piu' lunga e' ora di
+971 caratteri. I vincoli di attivazione restano: le formule distintive sono conservate, quelle
+ridondanti accorpate. Verificati a campione quattordici trigger fra i piu' usati.
+
+| | prima | dopo |
+|---|---|---|
+| `lavoro` | 1.517 | 963 |
+| `monitorio` | 1.246 | 971 |
+| `atti` | 1.244 | 946 |
+| `adr` | 1.193 | 911 |
+| `famiglia` | 1.189 | 933 |
+| `scadenze` | 1.154 | 925 |
+| `giurisprudenza` | 1.115 | 838 |
+| `quantificazione` | 1.073 | 858 |
+
+Lo script di pubblicazione ora rifiuta il rilascio se una descrizione supera i 1.024 caratteri.
+
+
 ## [0.9.0] — 2026-10-21
 
 ### Aggiunto — lo stile dello studio
